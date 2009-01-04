@@ -21,10 +21,10 @@ EMAIL_HOST_PASSWORD = "9sKvsjRB"
 EMAIL_SUBJECT_PREFIX = "[Stigull] "
 EMAIL_USE_TLS = True
 
-INTERNAL_IPS = ('127.0.0.1',)
+INTERNAL_IPS = ('127.0.0.1','85.197.228.149')
 
 DATABASE_ENGINE = 'postgresql_psycopg2'
-DATABASE_NAME = 'stigull'
+DATABASE_NAME = 'stigull_admin'
 DATABASE_USER = 'stigull'
 DATABASE_PASSWORD = 'H4sselhoff'
 DATABASE_HOST = ''
@@ -52,7 +52,7 @@ USE_I18N = True
 
 # Absolute path to the directory that holds media.
 # Example: "/home/media/media.lawrence.com/"
-MEDIA_ROOT = '/var/www/stigull/skrar/'
+MEDIA_ROOT = '/var/www/skrar/'
 
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash if there is a path component (optional in other cases).
@@ -63,7 +63,7 @@ MEDIA_DESIGN_URL = 'myndir/honnun/' #No preceding slash
 # URL prefix for admin media -- CSS, JavaScript and images. Make sure to use a
 # trailing slash.
 # Examples: "http://foo.com/media/", "/media/".
-ADMIN_MEDIA_PREFIX = '/skrar/admin/'
+ADMIN_MEDIA_PREFIX = '/skrar/vefstjorn/media/'
 
 # Make this unique, and don't share it with anybody.
 SECRET_KEY = '6tw8$$rb!*swkk4%bq%&b00(9%%@)s2=87*k$l7vhoorim=dy+'
@@ -79,11 +79,14 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.common.CommonMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
-    #'pagination.middleware.PaginationMiddleware',
+
+    #For paginating various objects
+    'pagination.middleware.PaginationMiddleware',
 
     'djangologging.middleware.LoggingMiddleware',
-    'stigull.middleware.FileLoggingMiddleware'
+    'stigull.middleware.FileLoggingMiddleware',
 
+    'spam.middleware.ObfuscateEmails',
 )
 
 ROOT_URLCONF = 'stigull.urls'
@@ -94,11 +97,13 @@ TEMPLATE_CONTEXT_PROCESSORS = (
     'django.core.context_processors.i18n',
     'django.core.context_processors.media',
     'django.core.context_processors.request',
-    #'student.context_processors.info_name_processor',
+
+    #Displays the header and footer
+    'student.context_processors.info_name_processor',
 )
 
 TEMPLATE_DIRS = (
-    '/home/johannth/programming/python/stigull/templates/',
+    '/home/hertogi/sourcecode/stigull/templates/',
 
 )
 
@@ -114,25 +119,29 @@ INSTALLED_APPS = (
     #Extended core applications
     'django_extensions',
     'djangologging',
-    #'compress',
+    'compress',
     'templatetools',
+    'pagination',
 
-    #User profiles
-    #'user_profile',
-    #'stigull_profile',
-    #'django.contrib.comments',
-    #'comment_utils',
-    #'stigull',
+    #Basic usage:
+    'navigation',
+    'student',
+    'laws',
 
-    #'user_profile',
-    #'phonebook',
-    #'pagination',
-    #'student',
-    #'laws',
-    #'news',
-    #'navigation',
-    #'djangodblog',
-    #'xkcd',
+    #User profiles:
+    'user_profile',
+    'stigull_profile',
+    'phonebook',
+
+    #News:
+    'news',
+
+    #Comments:
+    'django.contrib.comments',
+    'comment_utils',
+
+    #Spam protection:
+    'spam',
 )
 
 AUTH_PROFILE_MODULE = 'stigull_profile.StigullUserProfile'
