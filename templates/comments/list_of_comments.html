@@ -1,0 +1,7 @@
+{% load comments templatetools %}
+{% get_comment_count for object as nr_of_comments %}
+{% get_comment_list for object as comment_list %}
+<h2>{{ nr_of_comments|readable_nr_of_comments }}</h2>
+{% for comment in comment_list %}
+{% include 'comments/comment.html' %}
+{% endfor %}

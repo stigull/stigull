@@ -1,0 +1,4286 @@
+(lp0
+(dp1
+S'pk'
+p2
+I184
+sS'model'
+p3
+Vnews.news
+p4
+sS'fields'
+p5
+(dp6
+S'titleEn'
+p7
+VChristmas celebration
+p8
+sS'body'
+p9
+VMuna að kjósa um árshátíðina, hér að neðan.\u000a\u000aJó\u000a\u000anú styttist í jól. þá hefur stigull jólaglögg, ví.\u000a\u000avið hér með auglýsum eftir einhverjum stigli sem getur haldið jólaglöggið. sá sem heldur það verður heiðursstigull og verður bestur (tímabundið a.m.k.).\u000a\u000astjórn stiguls mun vera fáránlega dugleg og taka til fyrir og eftir fagnaðinn og allt æðislegt.\u000a\u000asvo fær hann líka glaðning.\u000a\u000ahver er til? ALLIR!?!?!?!' JEIIIIIIIIIIIIIIIIIIIIIJ\u000a\u000aokey bæ\u000a\u000apís át\u000a\u000auhh, það á víst að minnast á að þetta sé 19. desember
+p10
+sS'datetimeCreated'
+p11
+cdatetime
+datetime
+p12
+(S'\x07\xd8\x0b\x13\x0e#\x1d\x0bK\x1d'
+p13
+tp14
+Rp15
+sS'author'
+p16
+I107
+sS'title'
+p17
+VJólaglögg
+p18
+sS'comments'
+p19
+(lp20
+sS'bodyEn'
+p21
+VGreetings,\u000a\u000achristmas is getting closer. Which is the time of celebration all around the world. Stigull is no different and we'll hold a christmas celebration.\u000a\u000aWe're looking for a member of Stigull to host this event at his place. The member who hosts this will be an honorary member of Stigull and will receive a surprise at the day of the celebration.\u000a\u000aThe regime of Stigull will help clean up the place before and after.\u000a\u000aThanks for reading!\u000a\u000athis event will be on the 19th of december
+p22
+sS'changes'
+p23
+(lp24
+I6
+assa(dp25
+g2
+I183
+sg3
+Vnews.news
+p26
+sg5
+(dp27
+g7
+VDiscount for Stigull members of lessons in salsa
+p28
+sg9
+VFyrst: Ekki gleyma árshátíðar skoðanakönnuninni hér að neðan.\u000a\u000aNæst: SalsaIceland <http://www.salsaiceland.com/> dansskólinn býður félagsmönnum nemendafélags Stigla 20% afslátt á byrjendanámskeið hjá SalsaIceland. Það eru ókeypis prufutímar fyrir byrjendur mánudaginn 17 nóvember og svo einnig mánudaginn 1 desember og mánudaginn 15 desember alltaf á Sólon kl. 20:00 sem væri sniðugt að prófa áður en að næsta byrjendanámskeiði kæmi.
+p29
+sg11
+g12
+(S'\x07\xd8\x0b\x11\x10"\x08\x03\xe0\xd4'
+p30
+tp31
+Rp32
+sg16
+I68
+sg17
+VStiglaafsláttur á salsakennslu
+p33
+sg19
+(lp34
+sg21
+VFirst: Don't forget the poll for the Annual Celebration, below.\u000a\u000aNext: SalsaIceland <http://www.salsaiceland.com/> dance school offers members of Stigull a 20% discount of a beginners course at SalsaIceland. There are free trial lessons for beginners the following dates: Monday, November 17th; Monday, December 1st and Monday, December 15th, on Sólon at 20:00. It is clever to try that before the next beginners course starts.
+p35
+sg23
+(lp36
+ssa(dp37
+g2
+I182
+sg3
+Vnews.news
+p38
+sg5
+(dp39
+g7
+VAnnual Celebration: A poll
+p40
+sg9
+VPæling.\u000a\u000aHvernig lýst fólki á árshátíð úti á landi? t.d. selfossi/hveragerði.\u000a\u000aþað væri þá möguleika að gista eða ekki gista.\u000averð myndi skiljanlega hækka eitthvað, kringum 10-12þús (gisting, matur og morgunmatur innifalið) miðað við 5-6þús ef hún er í bænum.\u000a\u000aer fólk heitt eða kalt? segið ykkar skoðun, en engan dónaskap, því við erum öll svo viðkvæmar sálir.\u000a\u000aþetta mun hafa áhrif á hvar árshátíðin verður haldin. getið sent okkur email á stigull@hi.is eða skilið eftir skilaboð hér.\u000a\u000apís át
+p41
+sg11
+g12
+(S'\x07\xd8\x0b\x10\x16\x14\x08\x0b\xa4\xbf'
+p42
+tp43
+Rp44
+sg16
+I107
+sg17
+VÁrshátíð: Skoðanakönnun
+p45
+sg19
+(lp46
+I120
+aI119
+aI118
+aI117
+aI116
+aI115
+aI114
+aI112
+aI111
+asg21
+VA poll...\u000a\u000awe are wondering whether members of Stigull are interested in holding the annual celebration outside of Reykjavík and staying over night?\u000a\u000athe possibility of going back to Reykjavík would be open as well.\u000athe price would go up a bit, ~10-12 (a room, a meal and breakfast) thousand ISK versus 5-6 thousand if we hold it in Reykjavík.\u000a\u000ahow do you feel about this? please leave a comment, good or bad, BUT BE POLITE\u000a\u000athis will be a deciding factor in where this celebration will be held. drop us a line at stigull@hi.is or simply comment to this article.\u000a\u000apeace out
+p47
+sg23
+(lp48
+ssa(dp49
+g2
+I181
+sg3
+Vnews.news
+p50
+sg5
+(dp51
+g7
+VNo translation
+p52
+sg9
+VAirbus veitir 30.000 evrur fyrir góða hugmynd\u000a\u000a \u000a\u000aAirbus efnir til alþjóðlegrar keppni undir nafninu \u201eFly Your Ideas\u201c. Í keppninni er teymum nemenda um allan heim boðið að koma með nýjar hugmyndir til að móta framtíð flugvélaiðnaðarins og aðstoða við að efla vistvirkni hans. Markmiðið er að skapa meiri verðmæti með minni áhrifum á umhverfið.\u000a\u000a \u000a\u000aKeppnin er opin háskólanemum hvar sem er í heiminum innan hvaða greinar sem er, frá verkfræði til markaðsfræði, viðskiptum til raunvísinda og heimspeki til hönnunar. Uppástungurnar mega snúast um ólík viðfangsefni, þar á meðal ný efni, framleiðsluaðferðir, flughæfni, framleiðslu og skipulagslega og verklega framkvæmd.\u000a\u000a \u000a\u000aVerðlaunin eru vegleg eða 30.000 evrur og renna þau til þess nemendahóps sem kemur með hugmynd sem er líklegust til að skila mestum árangri. Liðin munu fara í gegnum margs konar ögrandi keppnislotur sem lýkur með keppni í beinni útsendingu á Le Bourget flugsýningunni í París í júní 2009.\u000a\u000a \u000a\u000aSkráningu í keppnina lýkur 1. desember. Nánari upplýsingar er að finna á vefnum www.airbus-fyi.com.\u000a\u000a \u000a\u000aAirbus hefur ávallt lagt mikla áherslu á umhverfismál og meðal þess sem fyrirtækið státar af er vistvænasta farþegaþota í heimi, Airbus A380, sem eyðir einungis þremur lítrum á hundraðið á farþega. Þotan er einnig sú stærsta í heimi og getur venjuleg þriggja farrýma útgáfa af henni rúmað 525 farþega.\u000a\u000a \u000a\u000a \u000a\u000aGuðni Sigurðsson\u000a\u000aBæjarútgerðin ehf.\u000a\u000a- almannatengsl\u000a\u000aSími: 517 7710\u000a\u000aGsm: 822 7711\u000a\u000awww.utgerdin.is 
+p53
+sg11
+g12
+(S'\x07\xd8\x0b\r\x13\x08;\r\xff3'
+p54
+tp55
+Rp56
+sg16
+I107
+sg17
+VAirbus hugmyndakeppni
+p57
+sg19
+(lp58
+I113
+asg21
+VWe were too lazy
+p59
+sg23
+(lp60
+ssa(dp61
+g2
+I180
+sg3
+Vnews.news
+p62
+sg5
+(dp63
+g7
+V
+p64
+sg9
+VVið viljum benda á heimasíðu stúdenta HÍ: [student.is](http://student.is)\u000a\u000aÞar má finna ýmsar gagnlegar upplýsingar.
+p65
+sg11
+g12
+(S'\x07\xd8\x0b\n\x11)!\x0e\x8d\xcf'
+p66
+tp67
+Rp68
+sg16
+I68
+sg17
+Vstudent.is
+p69
+sg19
+(lp70
+sg21
+VWe'd like to point out the website of students in HÍ: [student.is](http://student.is)\u000a\u000aThere you can find a lot of helpful information.
+p71
+sg23
+(lp72
+ssa(dp73
+g2
+I179
+sg3
+Vnews.news
+p74
+sg5
+(dp75
+g7
+VThe future awaits
+p76
+sg9
+VJó\u000a\u000anúna er síðasta vísindaferð annarinnar búin og heppnaðist hún fáránlega vel.\u000a\u000aNæstu vikur verða mega chill. Tveir atburðir hafa verið negldir niður og sá fyrri er á föstudaginn.\u000a\u000aÞá verður plötukynningarkvöld Stiguls. Það mun fara þannig fram að fólk hittist í féló uppúr 8 eða 9, jafnvel fyrr ef það hefur áhuga á pítsu áti eða einhverju álíka.\u000aSvo mun hver sem er geta spilað sína uppáhaldsplötu (ekki mp3 skrár) og kynnt Stiglum fyrir henni með tilheyrandi skrípalátum eða tilfinningaríkum mónólógum.\u000a\u000a\u000aNæsti atburður er Stjörnuskoðun Stiguls.\u000aÞar sem að veður er breytilegt og stjörnuskoðun er háð veðri, þá er ekki hægt að negla niður nákvæma staðsetningu í tímarúminu og verður fyrirkomulagið því háð því.\u000a\u000aÞegar verðurspá er góð og allt lítur út fyrir að hægt verði að fara, mun ég senda út póst á alla Stigla, að líklegt sé að farið verði í stjörnuskoðun næsta dag. Þetta verður fyrsta tilkynning.\u000aÖnnur tilkynning kemur á hádegi daginn eftir, s.s. hádegi sama dag og yrði farið. Þar verður sagt hvort að planið sé enn stjörnuskoðun um kvöldið, háð veðri að sjálfsögðu.\u000aSú þriðja og seinasta mun koma klukkan 8 og hún verður lokaorðið hvort að farið verður eða ei.\u000aÞetta mun gerast á næstu 2-3 vikum vonandi.\u000a\u000aSafnast yrði saman í féló og svo keyrt út fyrir bæ til þess að losna við ljósmengunina.\u000aSérfræðingur um stjörnuhimininn verður fenginn til að leiðbeina okkur í gegnum undur alheimsins og nokkrir stjörnukíkjar verða á svæðinu fyrir þá sem vilja eitthvað kúl.\u000a\u000aPís át,\u000a\u000aForingi Tímarúmsins
+p77
+sg11
+g12
+(S'\x07\xd8\x0b\t\r44\x0e\x8d\x1f'
+p78
+tp79
+Rp80
+sg16
+I107
+sg17
+VFramtíðin bíður
+p81
+sg19
+(lp82
+sg21
+VGreetings\u000a\u000aThe next two weeks will be totally chilled out. Two events have been nailed to the wall and the first one will be on friday.\u000a\u000aThis event will be Stigull's music night. We will meet in Féló between 8 and 9, or even before if people would like to eat pizza or something equally healthy together.\u000aThen for the rest of the night, members of Stigull can bring their favorite CD's (no mp3's! we're audiophiles!) and play some of their favorite tracks for the rest of us and introduce us to the wonderful world of diversity in music.\u000a\u000aThe second event is Stigull's stargazing night. This event is a little bit harder to organize, since the sky isn't always clear. Hence, the exact position in space-time can not be said right now.\u000a\u000aTherefore, a plan has been made. If the weather forecast is good for the day after, I will send out an email, saying that tomorrow, we might go stargazing. This will be the first notice.\u000aThe second notice will come at noon the day after, where I will either confirm or cancel the stargazing.\u000aThe third and final notice will come at 8pm where I'll also, either confirm or cancel the event.\u000aThis will hopefully happen sometime during the next 2-3 weeks.\u000a\u000aAfter this, we'd gather up in féló, drive to some place where the light-pollution is not as heavy and explore the universe.\u000aAn expert in these matters will guide us through the wonders of the cosmos and we will have a few telescopes available for those who want to amazed.\u000a\u000aPeace out,\u000a\u000aThe Captain of Space and Time
+p83
+sg23
+(lp84
+ssa(dp85
+g2
+I176
+sg3
+Vnews.news
+p86
+sg5
+(dp87
+g7
+VFor those who drink coffie
+p88
+sg9
+VAð þessu sinni ákvað ég að prufa að panta nýja tegund af kaffi. Hún er örlítið dýrari en að mínu mati mun betri. Ég tek hér með við atkvæðum frá kaffidrykkjufólki (sbo4@hi.is) um hvort næst eigi að panta Café Noir (pokinn kostar 380 kr.) eða aðra tegund (hingað til Dark Roast á 350 kr. pokinn).\u000a\u000aLokaákvörðun verður lýðræðisleg með konungsbundnu ívafi.
+p89
+sg11
+g12
+(S'\x07\xd8\x0b\x03\r\x00\x19\x0c>\xef'
+p90
+tp91
+Rp92
+sg16
+I68
+sg17
+VTil kaffidrykkjumanna
+p93
+sg19
+(lp94
+I110
+aI109
+asg21
+VThis time I decided to try a new brand of coffie. It is a bit more expencive but in my oppinion better. I will now accept votes (sbo4@\u0127i.is) on if I should order Café Noir (380 kr. per one bag of 18 cushions) or some other brand (so far Dark Roast, 350 kr. per one bag of 18 cushions).\u000a\u000aFinal decision will be made democratically with a slight royal blend.
+p95
+sg23
+(lp96
+ssa(dp97
+g2
+I175
+sg3
+Vnews.news
+p98
+sg5
+(dp99
+g7
+VScience trip to TM on Friday
+p100
+sg9
+VÁ föstudaginn verður síðasta vísindaferð annarinnar. Hún verður farin í Tryggingamiðstöðina, 99% hennar voru skráð í eigu FL Group (nú Stoða) í júlí. Við vorum sérstaklega boðin að koma í Tryggingamiðstöðina og þetta er tilvalið tækifæri að tryllast með samnemendum sínum í síðasta sinn fyrir próf.\u000a\u000aEndilega skráið ykkur sem fyrst krúttbollur. Það hjálpar.\u000a\u000aDrolla
+p101
+sg11
+g12
+(S'\x07\xd8\x0b\x03\x0c.$\t\xae\xe7'
+p102
+tp103
+Rp104
+sg16
+I68
+sg17
+VVísindaferð í TM á föstudaginn
+p105
+sg19
+(lp106
+sg21
+VNext Friday we will go on the last science trip of this cemester. The trip is to Tryggingamiðstöðin (TM), 99% of TM was in the ownership of FL Group (now Stoðir) last July. We were especially invited to TM and this is a perfect opportunity to go crasy with fellow students for the last time before exams.\u000a\u000aPlease sign up on the site as soon as possible, it helps.\u000aGo to "Atburðir" and click "Skrá á atburð".\u000a\u000aThe Queen.
+p107
+sg23
+(lp108
+ssa(dp109
+g2
+I174
+sg3
+Vnews.news
+p110
+sg5
+(dp111
+g7
+VNo trip to Talnakönnun
+p112
+sg9
+VVísindaferðinni í kvöld hefur verið aflýst! Farið verður síðar til Talnakönnunar.\u000a\u000aEinnig vil ég minna á vísindaferð í TM í næstu viku sem og skákkvöldið í kvöld þar sem Stefán Stórmeistari mætir og fer í gegnum sína bestu leiki.\u000a\u000aVísindaferðin í TM verður seinasta vísindaferðin á þessu misseri og því hvet ég fólk endilega til að mæta og sletta aðeins úr klaufunum svona áður en fólk leggst í prófalestur.\u000a\u000aPlanið er að hafa rólega atburði í nóvember, stjörnuskoðun, plötukynningarkvöld og öruglega eitthvað annað.\u000a\u000aPís át.
+p113
+sg11
+g12
+(S'\x07\xd8\n\x1f\x0c$\x1b\x00\x0bu'
+p114
+tp115
+Rp116
+sg16
+I107
+sg17
+VVísindaferð aflýst!
+p117
+sg19
+(lp118
+sg21
+VNo trip tonight.
+p119
+sg23
+(lp120
+ssa(dp121
+g2
+I173
+sg3
+Vnews.news
+p122
+sg5
+(dp123
+g7
+VLaTeX-shit
+p124
+sg9
+VMeðfylgjandi er linkur á flotta síðu með fullt af formum fyrir forsíður.\u000a\u000ahttp://zoonek.free.fr/LaTeX/LaTeX_samples_title/0.html
+p125
+sg11
+g12
+(S'\x07\xd8\n\x1b\r)%\x0f\x14\x1a'
+p126
+tp127
+Rp128
+sg16
+I107
+sg17
+VLaTeX-sjitt
+p129
+sg19
+(lp130
+sg21
+VAn awesome site with a lot of templates for LaTeX titlepages.\u000a\u000ahttp://zoonek.free.fr/LaTeX/LaTeX_samples_title/0.html
+p131
+sg23
+(lp132
+ssa(dp133
+g2
+I172
+sg3
+Vnews.news
+p134
+sg5
+(dp135
+g7
+VFall celebration theme
+p136
+sg9
+VJæja kæru þegnar.\u000a\u000aHaustfögnuður nálgast óðfluga og eins og sumir hafa heyrt verður þema. Þemað verður nörd. Nördaþema. Þema.\u000a\u000a\u000aDæmi um nördaleg einkenni í klæðaburði (sem verður þó að fara með út í ystu öfgar):\u000a\u000a-Gleraugu, því stærri því betri\u000a\u000a-Greitt í píku (vagina hairstyle, getur ekki klikkað)\u000a\u000a-Vatngreiðsla (strákar)\u000a\u000a-Tagl- eða fléttutíkó (stelpur)\u000a\u000a-Skyrta\u000a\u000a-Prjónavesti\u000a\u000a-Hátt girtar buxur með skirtuna girta ofan í auðvitað\u000a\u000a-Slaufa\u000a\u000a-Axlabönd\u000a\u000a-Axlapúðar (stelpur)\u000a\u000a-Spangir\u000a\u000a-Rúllukragapeysa\u000a\u000a-Kaki buxur\u000a\u000a-Bolur með mynd af einhverju uppáhalds (en það er bersýnilega ekki efstu stéttar nörd)\u000a\u000a\u000aOoog svo framvegis. Ef einhver hefur einhverju sniðugu við að bæta er tilvalið að setja það í aths. á síðunni.\u000a\u000aEftirfarandi eru myndir af dæmigerðum nördafatnaði:\u000a\u000a[nörd1](http://nalts.files.wordpress.com/2007/06/nerd.jpg)\u000a\u000a[nörd2](http://www1.istockphoto.com/file_thumbview_approve/2790941/2/istockphoto_2790941_nerd_girl_laughing.jpg)\u000a\u000a[nörd3](http://www.speakeasydesigns.com/richter/pix/nerd.jpg)\u000a\u000a[nörd3b](http://www.aolcdn.com/ch_kids/ugly-betty-america-ferrera-300-032707.jpg)\u000a\u000a[nörd4](http://www.gearfuse.com/wp-content/uploads/2007/10/nerd.jpg)\u000a\u000a[nörd5](http://www.onlyscience.org/wp-content/uploads/2008/03/nerd.jpg)\u000a\u000a\u000aGæta verður að hafa nördalega svipi allt kvöldið og hlæja nördalega. Einnig skal fólk reyna sitt besta til að halda uppi nördalegum samræðum, eins og skák og stærðfræði (Darri, þessi var fyrir þig).\u000a\u000aKennarar við stærðfræði- og eðlisfræðistofu eru boðnir og ég hvet alla til að setja pressu á sinn uppáhaldskennara (og aðra) til að mæta.\u000a\u000aAð lokum hvet ég fólk til að skrá sig svo við í efstuefstu stétt getum gert okkur grein fyrir því hversu mörgum handarkossum við megum búast við að fá.
+p137
+sg11
+g12
+(S'\x07\xd8\n\x15\x16.\x05\x02\xe1}'
+p138
+tp139
+Rp140
+sg16
+I68
+sg17
+VHaustfagnaðarþema
+p141
+sg19
+(lp142
+I108
+asg21
+VThe theme on the Fall celebration will be nerd theme.\u000a\u000a\u000aExamples of nerdy appearance symptoms (which you have to take to the extreme though):\u000a\u000a-Glasses, the bigger the better\u000a\u000a-Split your hair in the middle (direct translation from Icelandic would be something like "vagina hairstyle" - which obviously is awesome)\u000a\u000a-Comb your hair with water\u000a\u000a-Ponytails or braids\u000a\u000a-Shirt\u000a\u000a-Weaved vest\u000a\u000a-Highly tucked pants, and shirt tucked in of course\u000a\u000a-Bow tie\u000a\u000a-Shoulder straps\u000a\u000a-Shoulder pads (girls)\u000a\u000a-Braces\u000a\u000a-Rúllukragapeysa (you must have an Icelandic-English dictionary, I don't)\u000a\u000a-Kaki pants\u000a\u000a-T-shirt with a picture of your favourite something (but that's obviously not a high class nerd)\u000a\u000a\u000aAnd so on. If you have ideas you should comment on the site.\u000a\u000aThe following are pictures of typical nerdoutfits:\u000a\u000a[nerd1](http://nalts.files.wordpress.com/2007/06/nerd.jpg)\u000a\u000a[nerd2](http://www1.istockphoto.com/file_thumbview_approve/2790941/2/istockphoto_2790941_nerd_girl_laughing.jpg)\u000a\u000a[nerd3](http://www.speakeasydesigns.com/richter/pix/nerd.jpg)\u000a\u000a[nerd3b](http://www.aolcdn.com/ch_kids/ugly-betty-america-ferrera-300-032707.jpg)\u000a\u000a[nerd4](http://www.gearfuse.com/wp-content/uploads/2007/10/nerd.jpg)\u000a\u000a[nerd5](http://www.onlyscience.org/wp-content/uploads/2008/03/nerd.jpg)\u000a\u000a\u000aYou have to make sure you have nerdy facial expressions and laughter the whole evening. Also you should try to maintain a nerdy conversation, for example chess and mathematics (this one was for you, Darri)\u000a\u000a\u000aThe teachers in mathematics and physics are invited so I urge you to try to get your favourite teacher (and others) to show up.\u000a\u000a\u000aFinally I encourage you to sign up on the site so we in the highest of all classes know how many kisses to expect on our hands.
+p143
+sg23
+(lp144
+ssa(dp145
+g2
+I171
+sg3
+Vnews.news
+p146
+sg5
+(dp147
+g7
+VNo translation
+p148
+sg9
+VSkilaboð frá Kaffi Kultúra:\u000a\u000a\u000aOkkur í Cáfé Cúltura langar að bjóða ykkur til að koma til okkar og\u000alétta\u000aykkur lundina á þessum síðustu og verstu\u2026\u000a\u000aNæstkomandi fimmtudagskvöld bjóðum við\u000a\u000aBjór á krana á 500 kr.\u000a\u000aSkot á 400 kr.\u000a\u000aÞað verður mikið stuð með hinum ýmsu skífuþeyturum langt fram\u000aeftir\u000akvöldi.\u000a\u000aKveðja,\u000a\u000aStarfsfólk Café Cúltúra\u000a\u000aHverfisgata 18, 105 Reykjavík
+p149
+sg11
+g12
+(S'\x07\xd8\n\x15\x0e-1\x00\xd9\x92'
+p150
+tp151
+Rp152
+sg16
+I107
+sg17
+VKaffi Kultúra
+p153
+sg19
+(lp154
+sg21
+VWe were too lazy
+p155
+sg23
+(lp156
+ssa(dp157
+g2
+I169
+sg3
+Vnews.news
+p158
+sg5
+(dp159
+g7
+VFall-celebration
+p160
+sg9
+VJó whatup\u000a\u000aeftir rúma viku verður árlegur haustfagnaður Stiguls.\u000aHann verður haldinn heima hjá [Ástu](http://stigull.rhi.hi.is/simaskra/nemendur/1/aks9/). Frekari upplýsingar eru á [atburðinum](http://stigull.rhi.hi.is/atburdir/52-haustfagnadur/) sem er kominn upp og skráning hefur hafist, endilega skráið ykkur svo að við getum áætlað hve margir láta sjá sig.\u000a\u000aEinnig vil ég minna á það að núna á föstudaginn verður róleg og áfengislaus vísindaferð í Össur fyrir þæga Stigla.\u000a\u000aKveðja, Ásgeir XVIndi
+p161
+sg11
+g12
+(S'\x07\xd8\n\x0f\r\x04\x08\x06\xbe_'
+p162
+tp163
+Rp164
+sg16
+I107
+sg17
+VHaustfagnaður!
+p165
+sg19
+(lp166
+I107
+aI105
+asg21
+VGreetings\u000a\u000aAfter roughly a week we'll hold the annual Fallcelebration. The host is [Ásta](http://stigull.rhi.hi.is/simaskra/nemendur/1/aks9/). Further information is on the [event](http://stigull.rhi.hi.is/atburdir/52-haustfagnadur/) information website, please sign up so we can estimate how many people will come and buy booze accordingly.\u000a\u000aAlso, I want to remind you that on this friday we're going to Össur, no booze and very relaxed.\u000a\u000aCheers, Ásgeir the XVIth
+p167
+sg23
+(lp168
+ssa(dp169
+g2
+I168
+sg3
+Vnews.news
+p170
+sg5
+(dp171
+g7
+VTheatre ticke ts sale on the square tomorrow 			
+p172
+sg9
+VÁgætu stúdentar\u000a\u000aUm leið og við þökkum fyrir Októberfest-dúndruna viljum við minna á að nú\u000afer hver að verða síðastur. En þó ber að hafa í huga að sá síðasti gæti\u000aorðið fyrstur. En sá fyrsti verður að öllum líkindum ekki sá síðasti.\u000a\u000aÞað sér fyrir endann á kostakjörum Borgarleikhússins til stúdenta í\u000akortasölu þetta leikárið þar sem stúdentum gefst kostur á 4 leiksýningum á\u000a4.450 krónur. Borgarleikhúsið verður á staðnum á Háskólatorgi til að spara\u000astúdentum metrana á morgun, miðvikudag frá 11-14. Ef stúdentar eiga þess\u000aekki kost að mæta á torgið á morgun geta þeir nálgast slíkt kort í\u000aleikhúsinu sjálfu.\u000a\u000aNeytið og njótið.\u000a\u000aYkkar,\u000aSHÍ
+p173
+sg11
+g12
+(S'\x07\xd8\n\x0e\x12.5\x0cy\xda'
+p174
+tp175
+Rp176
+sg16
+I107
+sg17
+VLeikhúsmiðasala á torginu á morgun
+p177
+sg19
+(lp178
+sg21
+VDear students\u000a\u000aFirst of all we thank you for the October-festival. Second thing is to\u000aremind you of the theatre ticket sale where students can get tickets to\u000afour performances for 4.450 isk. Representatives from the Borgarleikhús\u000atheatre will be selling tickets on the University Square / Háskólatorg\u000atomorrow from 11 till 14. If students for some reasons can not make it you\u000acan buy your theatre cards in Borgarleikhúsið.\u000a\u000aWe wish you all the best,\u000aSHÍ\u000a
+p179
+sg23
+(lp180
+ssa(dp181
+g2
+I166
+sg3
+Vnews.news
+p182
+sg5
+(dp183
+g7
+VMeeting of the Association of Icelandic Mathematicians
+p184
+sg9
+VTil félaga Íslenska stærðfræðafélagsins og stærðfræðinema við HÍ og HR.\u000a\u000a\u000a*I. Ný stjórn\u000a\u000a* Ný stjórn var kosin í félaginu á aðalfundi 2. október sl. Hana skipa: - Einar Steingrímsson, HR. - Elínborg Ingunn Ólafsdóttir, HÍ. - Jóhann Sigurðsson, HÍ (gjaldkeri). - Júlíana Rún Indriðadóttir, MH (ritari). - Ragnar Sigurðsson, HÍ (formaður).\u000a\u000a\u000a* II. Fundur.\u000a\u000a* Stjórnin boðar til fundar í félaginu fimmtudaginn 16. október 2008 í stofu VR-157 í húsi Verkfræði- og náttúruvísindasviðs og hefst hann með veitingum að hefðbundunum hætti kl. 16.45. Að þeim loknum kl. 17.15 flytur Mark Dukes, sérfræðingur við Raunvísindastofnun, erindi sem hann nefnir:\u000a\u000a*Permutations and partially ordered sets.\u000a\u000a* Ágrip: I will present some results from a recently completed project in discrete mathematics. It ties together several objects; pattern avoiding permutations, partially ordered sets, and chord diagrams. Each of these will be explained and then we will show how each object can be encoded by a special sequence of numbers. An overview of the "kernel method" will be presented, a technique that is used to count objects using properties of the objects functional equation. This is joint work with Mireille Bousquet-Melou (Bordeaux), Anders Claesson and Sergey Kitaev (Reykjavik University). Við bjóðum alla stærðfræðinema sérstaklega velkomna á fundinn.\u000a\u000a\u000a* III. Ný vefsíða.\u000a\u000a* Ný vefsíða félagsins hefur verið opnuð og er slóðin: http://staefelag.raunvis.hi.is/ Það er von okkar að hún verði öflugur vettvangur fyrir starfsemi félagsins í framtíðinni.\u000a\u000a\u000a*IV. Aðild.*\u000a\u000aAllir stærðfræðinemar geta fengið stúdentaaðild að félaginu og greiða þeir þá hálft félagsgjald (1.500kr). Allir sem útskrifast með BS-próf í stærðfræði eða skyldu fagi geta sótt um inngöngu í félagið. Þeir sem hafa áhuga sendi skeyti til stjórnarinnar á póstfang félagsins: islenska.staerdfraedafelagid@gmail.com Í skeytinu þarf að koma fram fullt nafn, kennitala, tölvupóstfang, heimilisfang og skóli. Þeir sem lokið hafa BS prófi taki fram útskriftarár og skóla.\u000a\u000a\u000aStjórnin -- \u000aÍslenska stærðfræðafélagið\u000aislenska.staerdfraedafelagid@gmail.com 
+p185
+sg11
+g12
+(S'\x07\xd8\n\x0c\x16$%\r\\a'
+p186
+tp187
+Rp188
+sg16
+I68
+sg17
+VFundarboð íslenska stærðfræðifélagsins
+p189
+sg19
+(lp190
+sg21
+VTo members of the Association of Icelandic Mathematicians and mathematics students of HÍ and HR.\u000a\u000a\u000aI. A new council was elected: \u000aEinar Steingrímsson, HR. - Elínborg Ingunn Ólafsdóttir, HÍ. - Jóhann Sigurðsson, HÍ (treasurer). - Júlíana Rún Indriðadóttir, MH (secritary). - Ragnar Sigurðsson, HÍ (chairperson).\u000a\u000aII. The council calls a meeting Thursday 16th of October 2008 in room VR-157 in VR-II. The meeting starts with food as usually at 16:45. After dining, at 17:15, Mark Dukes, a specialist at the Institution of Real Science, will talk about:\u000a\u000aPermutation and partially ordered sets:\u000a\u000a"I will present some results from a recently completed project in discrete mathematics. It ties together several objects; pattern avoiding permutations, partially ordered sets, and chord diagrams. Each of these will be explained and then we will show how each object can be encoded by a special sequence of numbers. An overview of the "kernel method" will be presented, a technique that is used to count objects using properties of the objects functional equation. This is joint work with Mireille Bousquet-Melou (Bordeaux), Anders Claesson and Sergey Kitaev (Reykjavik University)."\u000a\u000aWe especially welcome all mathematics students.\u000a\u000a\u000aIII. New website:\u000aThe association has a new website:\u000ahttp://staefelag.raunvis.hi.is/\u000a\u000a\u000aIV. Membership.\u000a\u000aAll mathematics students can become a member for half the amount of the association fees. Everyone who graduate with a BS-degree in mathematics or a related subject can join. Those who are interested send an email to islenska.staerdfraedifelagid@gmail.com. Information needed in the email: Name, social security number (kennitala), email, home address and school. Those who have finished BS include their graduation year and school.\u000a\u000a\u000a-The council\u000a-- The Association of Icelandic Mathematicions\u000aislenska.staerdfraedifelagid@gmail.com
+p191
+sg23
+(lp192
+ssa(dp193
+g2
+I165
+sg3
+Vnews.news
+p194
+sg5
+(dp195
+g7
+VNo translation
+p196
+sg9
+VKæru nemendur,\u000aÞessi póstur er ættlaður nemendum í JARÐEÐLISFRÆÐI. Þeir sem eru\u000askráðir í námið eru vinsamlegast beðnir um að svara þessum pósti.\u000aÞað er MJÖG mikilvægt!\u000aStjórn Foldu, félags framhaldsnema í jarðvísindum, ættlar að búa\u000atil póstlista yfir alla nemendur í jarðvísindadeild. Nú, eftir\u000asviðsbreytingarnar tilheyrir jarðeðlisfræðin jarðvísindadeild. Því\u000aer mikilvægt að nemendur fái allar upplýsingar um sín hagsmunamál auk\u000aatburða á vegum jarðvisindastofnunar og nemendafélga þeirra.\u000aNú eru í burðarliðnum ýmiss mál sem tegjast hagsmunum nemenda beint\u000aauk skipulagsbreytinga á nemendafélögum jarðvísindadeildar. Þess\u000avegna er mjög mikilvægt að þið nemendur svarið kalli Foldu.\u000a\u000aVinsamlegast svarið þessum pósti á thorbag@hi.is :)\u000a\u000afyrir hönd Foldu\u000aÞorbjörg Ágústsdóttir, MS nemi í jarðeðlisfræði\u000a\u000ahttp://www.folda.hi.is
+p197
+sg11
+g12
+(S'\x07\xd8\n\t\x10\x18#\x0b\xdc>'
+p198
+tp199
+Rp200
+sg16
+I107
+sg17
+VTil jarðeðlisfræðinema
+p201
+sg19
+(lp202
+sg21
+VWe were too lazy
+p203
+sg23
+(lp204
+ssa(dp205
+g2
+I164
+sg3
+Vnews.news
+p206
+sg5
+(dp207
+g7
+VOctober!
+p208
+sg9
+VJæja gott fólk. Október er genginn í garð og hér kemur sunnudagspistillinn (2 dögum of seint).\u000a\u000aEins og flestir ættu að vita, fórum við í vísindaferð í Eðlisfræðiskor(stofu?) seinasta föstudag og heppnaðist það fáránlega vel.\u000a\u000aNæsta vísindaferð er á föstudaginn og förum við í Vífilfell, eftir það verður haldið á Októberfest eða þá bara í Féló fyrir þá sem kreppan hefur herjað sem mest á.\u000a\u000aVikuna eftir það verður slappað af vegna miðmisserisprófa (og Airwaves) og verður farið í áfengislausa vísindaferð í Össur.\u000a\u000aÖrvæntið þó ekki, áfengið mun flæða eins og aldrei fyrr í Haustfagnaði, 24. október heima hjá Ástu nýnema og ef haustfagnaðurinn í fyrra er einhver vísbending um hvernig stemningin verður í ár, þá ætti að verða svona ágætis stemning, samt ekkert alltof gaman.\u000a\u000a#**SVO VIL ÉG ÓSKA STEFANÍU DROTTNINGU TIL HAMINGJU MEÐ AFMÆLIÐ!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**#
+p209
+sg11
+g12
+(S'\x07\xd8\n\x07\x130&\x03`v'
+p210
+tp211
+Rp212
+sg16
+I107
+sg17
+VOktóber!
+p213
+sg19
+(lp214
+I104
+asg21
+VOctober has arrived and here comes the bi/tri-weekly sunday update (2 days late)!\u000a\u000aLike everyone should know, we went to Eðlisfræðistofa last friday and had a lot of fun and nice chats with the professors there.\u000a\u000aThe next trip will be to Vífilfell on friday who are never short on food or drinks. Afterwards we will head to October fest or simply Féló for those who have been hit hard by the economic depression.\u000a\u000aThe week after that, we'll be relaxing with a non-alcoholic trip to Össur.\u000a\u000aDo not fear though, because the week after that, the 24th of October to be precise, we'll have our annual Fall celebration at Ásta's house. If last years celebration is a hint on how this one will go down, I'd say it'll turn out okay, not great but okay.\u000a\u000a#**ALSO, I'D LIKE TO WISH STEFANÍA, THE QUEEN OF STIGULL, A HAPPY BIRTHDAY!**#
+p215
+sg23
+(lp216
+ssa(dp217
+g2
+I163
+sg3
+Vnews.news
+p218
+sg5
+(dp219
+g7
+g64
+sg9
+VStúdentar, sameinumst um gleði-fest í kreppunni!\u000a\u000aMiðvikudagur / Wednesday:\u000a\u000a11:40 \u2013 12:30 Málþing um lady-boys frá Filippseyjum og kvikmyndina sem allir eru að tala um: The Amazing Truth about Queen Raquela. Málþingið fer fram í hringleikasalnum á Háskólatorgi H-101. / A symposium about the movie The Amazing Truth about Queen Raquela in Háskólatorg H-101.\u000a\u000a20:00 The Amazing Truth about Queen Raquela forsýnd á Íslandi fyrir stúdenta HÍ í Októberfest-tjaldi. Miðinn kostar 600 kall. / Preview of the movie The Amazing Truth about Queen Raquela for students in the Octoberfest-tent. Tickets 600 isk.\u000a\u000aFimmtudagur / Thursday:\u000a\u000a17:00 Opnunarhátíð með þýska  sendiherranum og fallegum þýskum hljómum. / Opening festival with the German embassador and beautiful German sounds.\u000a20:00 þýskt Bingó og þýskt sjónvarpsefni. / German bingo and TV.\u000a\u000aFöstudagur / Friday:\u000a\u000aTjaldið opnar kl. 17:00 / The Octoberfest-tent opens at 17:00\u000a*Búningakeppni - Hver mætir í þýskasta búningnum. / Costume-competition \u2013 Who is in the most German costume?\u000a*Mottukeppni - Hver er með glæsilegustu mottuna. / Moustache \u2013 Who has the most elegant moustache. \u000a*Drykkjukeppni milli deilda - Hægt er að skora á deild/deildir í drykkjukeppni úr stígvèli. / Drinking competition between divisions. \u000a*Þýsk tónlist verður spiluð alla daga. / German music every day. \u000a\u000aLaugardagur / Saturday:\u000a\u000a    * Október"Rokk"Fest!!! / Ocotber Rock-fest\u000a    * Mugison- http://www.myspace.com/mugison\u000a    * Mamút - http://www.myspace.com/mammut\u000a    * Who knew - http://www.myspace.com/wellwhoknew\u000a    * Dikta - http://www.myspace.com/dikta\u000a    * Agent Fresco - http://www.myspace.com/agentfresco\u000a\u000aOg tékkiði svo á: www.oktober.is!\u000a
+p220
+sg11
+g12
+(S'\x07\xd8\n\x05\x13*+\t3S'
+p221
+tp222
+Rp223
+sg16
+I68
+sg17
+VOktóberfest (in English as well)
+p224
+sg19
+(lp225
+sg21
+g64
+sg23
+(lp226
+ssa(dp227
+g2
+I162
+sg3
+Vnews.news
+p228
+sg5
+(dp229
+g7
+VNo translation
+p230
+sg9
+VÞú ert látinn fá b bolta og k kassa. Þú færð það verkefni að dreifa boltunum á kassana þannig að ef ég bið þig um ákveðinn fjölda af boltum , frá núll og upp í b þá átt þú að láta mig fá einhvern fjölda af kössum, frá núll og upp í k, þannig að samanlagður fjöldi boltanna í kössunum sem þú lést mig fá samsvara þeim fjölda sem ég bað um. Ennfremur átt þú að ákvarða hvaða skilyrði skulu vera á fjölda kassa og fjölda bolta.\u000a\u000aSkilafrestur er einhver.
+p231
+sg11
+g12
+(S'\x07\xd8\n\x05\x108\x10\x0f:\xc8'
+p232
+tp233
+Rp234
+sg16
+I107
+sg17
+VÞraut númer 3
+p235
+sg19
+(lp236
+sg21
+VWe were too lazy
+p237
+sg23
+(lp238
+ssa(dp239
+g2
+I161
+sg3
+Vnews.news
+p240
+sg5
+(dp241
+g7
+VIAESTE representative
+p242
+sg9
+VIAESTE er félag sem sendir íslenska nemendur á verkfræði og náttúruvísindasviði erlendis í sumarstörf sem tengist námi þeirra. Einnig koma erlendir nemar til Íslands að vinna.\u000a\u000aTil þess að geta farið svona út, þarf viðkomandi nemendafélag að hafa IAESE fulltrúa. Fulltrúinn þarf að mæta á stutta fundi og hjálpa við að finna störf hér á landi fyrir erlenda nema.\u000aFulltrúi nemendafélagsins hefur forgang hjá félaginu til að fara út.\u000a\u000aVið auglýsum hér með einhverjum í þetta starf. Ef einhver er ósammála því að við Stigull ætti að vera í þessu, látið í ykkur heyra. Við lítum á þögn sem samþykki.
+p243
+sg11
+g12
+(S'\x07\xd8\n\x05\x0c!,\x02\x7f\x80'
+p244
+tp245
+Rp246
+sg16
+I107
+sg17
+VIAESTE fulltrúi
+p247
+sg19
+(lp248
+sg21
+VIAESE is a group of people that sends students in the Engineering and natural sciences department abroad over the summer to work on something related to their studies.\u000a\u000aTo be eligible for this, Stigull needs to have a person in that group. This person would attend short meetings and find jobs for foreign students here in Iceland.\u000aThis person would also have priority over other Stigull members when going abroad with IAESTE.\u000a\u000aWe're looking for this person, if you're interested send us an email.\u000aIf you see any reason that we should not join them, please let us know as well.
+p249
+sg23
+(lp250
+ssa(dp251
+g2
+I159
+sg3
+Vnews.news
+p252
+sg5
+(dp253
+g7
+VNo translation
+p254
+sg9
+VNú er svo komið að líf námsmanna verði fyrir áhrifum á bágu efnahagsástandi þjóðarinnar. Gerist það með þeim hætti að Ölgerðin hefur ákveðið að hækka verð á kaffi og neyðumst við því til að hækka verðið einnig.\u000aUm er að ræða 30 kr hækkun sem þýðir að nýtt verð á kaffipokum með 18 púðum er 350 kr. Glöggir Stiglar sjá að verð fyrir einn kaffibolla er ennþá undir 20 kr.\u000a\u000a\u000aHækkunin tekur gildi 9. október og er því seinasti séns til að borga á gamla verðinu, 320 kr, á miðvikudaginn í næstu viku (8. október).\u000a\u000a\u000aÞeir sem skulda eru:\u000a\u000a* Bóbó     4 pokar\u000a\u000a* Grettir	  5 pokar\u000a\u000a* Magnús P   1 poki\u000a\u000a* Einar A	   1 poki\u000a\u000a* Ernir  1 poki\u000a\u000a* Birgir U   1 poki\u000a\u000a* Óli   1 poki\u000a\u000a* Kiddi   1 poki\u000a\u000a\u000aMæli ég eindregið með að borga fyrir 9. október.
+p255
+sg11
+g12
+(S'\x07\xd8\n\x01\x1136\t\x19\x87'
+p256
+tp257
+Rp258
+sg16
+I216
+sg17
+VVerðhækkun á kaffi
+p259
+sg19
+(lp260
+I103
+aI102
+aI101
+asg21
+g64
+sg23
+(lp261
+I5
+aI4
+assa(dp262
+g2
+I158
+sg3
+Vnews.news
+p263
+sg5
+(dp264
+g7
+VScience trip to the Physics department
+p265
+sg9
+VJójó\u000a\u000aá föstudaginn förum við í heimsókn til Eðlisfræðiskorar.\u000aMæting er í skála 2 (Mið skáli af þremur syðstu) kl. 17 á föstudaginn.\u000a\u000aEinhverjir prófessorar verða með kynningu á sínum rannsóknum og er þetta kjörið tækifæri til þess að ræða við þá hreinlega um framtíðina eða þá sumarstörf.\u000a\u000aSjáumst á föstudaginn!
+p266
+sg11
+g12
+(S'\x07\xd8\t\x1e\x10-4\x07\xda\xc4'
+p267
+tp268
+Rp269
+sg16
+I107
+sg17
+VVísindaferð á föstudag
+p270
+sg19
+(lp271
+sg21
+VOn friday we're going to the Physics department.\u000aShow up in VR-3, the middle door on the southern part at 17:00.\u000a\u000aSome professors will hold some presentations of their research and this is an ideal chance to talk to them about the future or even summer jobs.\u000a\u000aSee ya on friday.
+p272
+sg23
+(lp273
+ssa(dp274
+g2
+I157
+sg3
+Vnews.news
+p275
+sg5
+(dp276
+g7
+VNo translation
+p277
+sg9
+VHérna kemur fréttin svo að fólk þurfi ekki að fara alveg til baka.\u000aBókakaupum verður aðeins frestað vegna ástands erlendra gjaldmiðla... DOLLARINN ER Í MÖÐERFÖKKING 104 KRÓNUM.\u000a\u000aJó\u000a\u000aNúna er komið að því sem allir hafa beðið eftir. Hvaða bækur ætlar Stigull að kaupa?\u000a\u000aÞetta mun fara þannig fram að fólk mun skrifa sem athugasemd hvaða bók þið leggið til að verði keypt. Ég mun svo uppfæra þessa frétt og halda lista yfir bækur sem lagðar hafa verið fram.\u000a\u000aÞegar bók hefur verið lögð fram, getur fólk byrjað að kjósa hvaða bækur verður keypt, það verður gert einnig með því að skrifa athugasemd í þessa frétt.\u000a\u000aHver meðlimur Stiguls hefur 2 atkvæði, 1 fyrir eðlisfræðibók og 1 fyrir stærðfræðibók. Það að leggja fram bók telst sem að kjósa þá bók. Keyptar verða tvær eðlisfræði og tvær stærðfræðibækur\u000a\u000aKosningu líkur 1. október og svo verða vinningsbækurnar keyptar stuttu eftir það.\u000a\u000aBókalisti:\u000a\u000aStærðfræði:\u000a\u000a   1.\u000a\u000a      Calculus On Manifolds: A Modern Approach To Classical Theorems Of Advanced Calculus, Spivak. 3\u000a   2.\u000a\u000a      Real Analysis, Carothers. 4\u000a   3.\u000a\u000a      Stærðfræðina eftir Alfred North Whitehead (í þýðingu Guðmundar Finnbogasonar), fyrstu íslensku stærðfræðikennslubókina. 1\u000a   4.\u000a\u000a      "God Created the Integers, the mathematical breakthroughs that changed the world", Stephen Hawking. 5\u000a   5.\u000a\u000a      Ambidextrous Universe, eftir einhvern. 1\u000a   6.\u000a\u000a      Elementa Evklíðs. 4\u000a\u000aEðlisfræði:\u000a\u000a   1.\u000a\u000a      Classical Dynamics, J. Marion og S. Thornton. 1\u000a   2.\u000a\u000a      Physica eftir Aristotle.\u000a   3.\u000a\u000a      Principia eftir Newton. 4\u000a   4.\u000a\u000a      A Modern Introduction to Astrophysics, eftir þá Carroll og Bradley. 2\u000a   5.\u000a\u000a      Surely you're joking, Mr. Feynman. Eftir Feynman og Fleiri. 5\u000a\u000a
+p278
+sg11
+g12
+(S'\x07\xd8\t\x1e\x0f\x01\x15\x0b\xbe\xd1'
+p279
+tp280
+Rp281
+sg16
+I107
+sg17
+VBókakaup Stiguls
+p282
+sg19
+(lp283
+I100
+asg21
+VWe were too lazy
+p284
+sg23
+(lp285
+ssa(dp286
+g2
+I155
+sg3
+Vnews.news
+p287
+sg5
+(dp288
+g7
+VNo translation
+p289
+sg9
+VSkilafrestur á lausn við þraut númer 2 rennur út á þriðjudag!\u000a\u000aHættiði að klóra ykkur í hausnum og leysið þetta nú.
+p290
+sg11
+g12
+(S'\x07\xd8\t\x1c\x0f\x0b6\x08n\xe6'
+p291
+tp292
+Rp293
+sg16
+I107
+sg17
+VSkilafrestur á lausn við þraut #2
+p294
+sg19
+(lp295
+sg21
+VWe were too lazy
+p296
+sg23
+(lp297
+ssa(dp298
+g2
+I154
+sg3
+Vnews.news
+p299
+sg5
+(dp300
+g7
+VNo translation
+p301
+sg9
+VÁ morgun er eðlisfræði kaffifundur um LHC. Nánari upplýsingar fylgja:\u000a\u000aÞorsteinn Vilhjámsson: 15 o'clock in room V-258 in VR2\u000aEINDIR OG ENDIR\u000a\u000aCATALYST OR CATASTROPHE?\u000a\u000aThe idea is to give an introductory talk by a non-specialist for his peers,\u000afor general education purposes among those who call themselves physicists.\u000aThe talk will be in English (if desired by anybody present) but the transparencies\u000awill be in Icelandic.\u000a\u000aWe will talk about CERN, its history and its importance, about the LHC and\u000athe most important projects initially set for it, and about the ideas of some kind\u000aof a catastrophe related to small black holes.\u000a\u000aIt is hoped that some of the people attending will know more about some points\u000athan the initializing speaker, so that we can have an instructive and interesting\u000adiscussion.\u000a\u000a\u000a\u000aP. Jena: 12.30 in room 158, VR2\u000a\u000aNano Materials for Hydrogen Storage\u000a\u000aThe limited supply of fossil fuels, its adverse effect on the environment, and growing worldwide demand for energy has necessitated the search for new and clean sources of energy.  The possibility of using hydrogen to meet this growing energy need has rekindled interest in the study of safe, efficient, and economical storage of hydrogen. The current methods for storing hydrogen as a compressed gas or liquid are not suitable for practical applications. An alternate method for hydrogen storage involves metal hydrides. Although conventional intermetallic hydrides can store hydrogen reversibly at around room temperature, the relative weight of stored hydrogen in these materials is rather low (1 \u2013 3 wt %) and do not meet the requirements of the transportation industry (~10 wt %).  For this the host materials have to consist of light elements such as Li, Be, B, C, Na, Mg, and Al. Unfortunately, the bonding of hydrogen in these materials is rather strong (covalent or ionic) and the thermodynamics and kinetics are poor. Ways must, therefore, be found to weaken the hydrogen bond strength so that host materials composed of light elements can be used as effective hydrogen storage materials.\u000a\u000aThis talk will discuss how the novel properties of materials at the nanoscale can improve the thermodynamics and kinetics of hydrogen.  In particular, I will discuss how carbon based nanostructures such as nanotubes and fullerenes can be used as catalysts to improve the hydrogen uptake and release in complex light metal hydrides such as sodium alanate. I will also discuss how carbon nanotubes and fullerenes can be functionalized with metal and B atoms to adsorb hydrogen in a novel quasi-molecular form and how such a bonding can improve the kinetics and thermodynamics of hydrogen sorption. The results, based upon density functional theory and quantum molecular dynamics, provide a fundamental understanding of the interaction of molecular hydrogen with hosts consisting of light elements. It is hoped that the understanding gained here can be useful in designing better materials for hydrogen storage.  Results will be compared with available experimental data.
+p302
+sg11
+g12
+(S'\x07\xd8\t\x19\x13/!\rkP'
+p303
+tp304
+Rp305
+sg16
+I107
+sg17
+VLítill fyrirlestur um LHC
+p306
+sg19
+(lp307
+sg21
+VWe were too lazy
+p308
+sg23
+(lp309
+ssa(dp310
+g2
+I153
+sg3
+Vnews.news
+p311
+sg5
+(dp312
+g7
+VBeer depts
+p313
+sg9
+VMaggi Þór 18 (eitthvað mis?)\u000aBaldur semeríútlöndum 18 	\u000aDarri 15 	\u000aÍvar 9 	\u000aJói 9 	\u000aFriðrik semeríútlöndum 8 	\u000aMaggi P 7 	\u000aHákon 7\u000aStefán Þoddn 6 	\u000aGrettir 6 	\u000aTobba 6 	\u000aElena 6 	\u000aKiddi hlaupari 5 	\u000aJan P. B. Müller 5\u000aÁsta K. 4 	\u000aStefán Joð 4 	\u000aGassi 4 	\u000aÖrn forseti 4 	\u000aEinar Búi 3\u000aFreyr 3 	\u000aKiddi Sjúl 3 	\u000aHlynur 3 	\u000aÓli  fimleika 3 	\u000aAndri E 3 	\u000aTómas Ó. 2 	\u000aMaría G. 2 	\u000aBjarni 1 	\u000aÓli Palli semeríútlöndum 1 	\u000aKjartan semeríútlöndum 1 	\u000aNanna 1 	\u000aJón Árni semeríútlöndum 1 	\u000aHeiðar semégveitekkihvarer 1 	\u000aOttó 1 	\u000aAnton 1 	\u000aÁsta B. 1
+p314
+sg11
+g12
+(S'\x07\xd8\t\x17\x0b3\x1d\x02\x9c\xa9'
+p315
+tp316
+Rp317
+sg16
+I68
+sg17
+VBjórskuldir
+p318
+sg19
+(lp319
+I98
+asg21
+VJust names with numbers. No need to translate.
+p320
+sg23
+(lp321
+ssa(dp322
+g2
+I152
+sg3
+Vnews.news
+p323
+sg5
+(dp324
+g7
+VStigull's book-buying spree
+p325
+sg9
+VJó\u000a\u000aNúna er komið að því sem allir hafa beðið eftir.\u000aHvaða bækur ætlar Stigull að kaupa?\u000a\u000aÞetta mun fara þannig fram að fólk mun skrifa sem athugasemd hvaða bók þið leggið til að verði keypt.\u000aÉg mun svo uppfæra þessa frétt og halda lista yfir bækur sem lagðar hafa verið fram.\u000a\u000aÞegar bók hefur verið lögð fram, getur fólk byrjað að kjósa hvaða bækur verður keypt, það verður gert einnig með því að skrifa athugasemd í þessa frétt.\u000a\u000aHver meðlimur Stiguls hefur 2 atkvæði, 1 fyrir eðlisfræðibók og 1 fyrir stærðfræðibók. Það að leggja fram bók telst sem að kjósa þá bók. Keyptar verða tvær eðlisfræði og tvær stærðfræðibækur\u000a\u000aKosningu líkur 1. október og svo verða vinningsbækurnar keyptar stuttu eftir það.\u000a\u000aBókalisti:\u000a\u000aStærðfræði:\u000a\u000a1. Calculus On Manifolds: A Modern Approach To Classical Theorems Of Advanced Calculus, Spivak. 3\u000a\u000a2. Real Analysis, Carothers. 4\u000a\u000a3. Stærðfræðina eftir Alfred North Whitehead (í þýðingu Guðmundar Finnbogasonar), fyrstu íslensku stærðfræðikennslubókina. 1\u000a\u000a4. "God Created the Integers, the mathematical breakthroughs that changed the world", Stephen Hawking. 5\u000a\u000a5. Ambidextrous Universe, eftir einhvern. 1\u000a\u000a6. Elementa Evklíðs. 4\u000a\u000a\u000aEðlisfræði:\u000a\u000a1. Classical Dynamics, J. Marion og S. Thornton. 1\u000a\u000a3. Physica eftir Aristotle.\u000a\u000a4. Principia eftir Newton. 4\u000a\u000a5. A Modern Introduction to Astrophysics, eftir þá Carroll og Bradley. 2\u000a\u000a6. Surely you're joking, Mr. Feynman. Eftir Feynman og Fleiri. 4\u000a\u000a
+p326
+sg11
+g12
+(S'\x07\xd8\t\x12\x124\x16\x0b\xb2 '
+p327
+tp328
+Rp329
+sg16
+I107
+sg17
+VBókakaup Stiguls
+p330
+sg19
+(lp331
+I99
+aI97
+aI96
+aI95
+aI94
+aI93
+aI92
+aI91
+aI90
+aI88
+aI87
+aI86
+aI85
+aI84
+aI83
+aI82
+aI81
+aI80
+aI79
+aI78
+aI77
+aI76
+aI75
+aI74
+aI73
+aI72
+asg21
+VSo, we'll be buying 2 physics and 2 math books in october and we'll be hosting a election on what books to buy.\u000a\u000aTo put a book into the election, you simply comment on this thread and I'll add it to the thread at the bottom.\u000a\u000aEach member has 2 votes, one for physics and one for math. If you put a book up for the running, it automatically gets your vote.\u000a\u000aThe election finishes at the 1st of october and we'll buy the winning books shortly afterwards.
+p332
+sg23
+(lp333
+I3
+assa(dp334
+g2
+I151
+sg3
+Vnews.news
+p335
+sg5
+(dp336
+g7
+VBeer depts
+p337
+sg9
+VNú er komin pressa.\u000a\u000aSkuldamesti maðurinn er Gunnar Örn með 18 bjóra, til hamingju með það.\u000aNæstur á lista er Stefán Þórarinsson, öðru nafni Bóbó, með 10 bjóra. (Þetta er að Baldri frátöldum, hann deilir fyrsta sæti með Gunnari - heppinn hann að vera í útlöndum).\u000aGassi hlýtur bronsið, með 8 bjóra.\u000a\u000aDarri, Maggi P. og Hákon - allir með 7 bjóra\u000a\u000aElena virðist vera með gamla skuld uppá 6 bjóra.\u000a\u000aBalthasar, Freyr og Óli skulda 5.\u000a\u000aStebbi Jök. og María G. skulda 4.\u000a\u000aEinar Búi, Kiddi, Tobba og Maggi Þór öll með 3 bjóra.\u000a\u000aJói mamma, Tómas heiðursstigull, Ásta nýnemi og Nalli mallakútur skulda öll 2.\u000a\u000aAf þeim sex sem skulda einn bjór eru aðeins tveir enn í skólanum: Ásta Björg og Anton. Hinir eru: Jón Árni, Óli Palli, Kjartan Kári og Heiðar.\u000a\u000aÞar hafið þið það.
+p338
+sg11
+g12
+(S'\x07\xd8\t\x10\r\x00.\x081\x99'
+p339
+tp340
+Rp341
+sg16
+I68
+sg17
+VBjórskuldir
+p342
+sg19
+(lp343
+I89
+aI71
+asg21
+VIt's just about the dept.\u000aYour dept is 5 beers Balthasar.
+p344
+sg23
+(lp345
+ssa(dp346
+g2
+I150
+sg3
+Vnews.news
+p347
+sg5
+(dp348
+g7
+VPhoto shoot wednesday in Féló
+p349
+sg9
+VMinnum fólk á að senda Helga (hfr1@hi.is) myndir af sér á nemendafélagsskírteinin fyrir 16 á miðvikudaginn næsta, helst í 150x168 upplausn. Þá fara kortin í prentun.\u000a\u000aÞeir sem eiga ekki mynd er velkomið að koma í myndatöku í Féló í hádegishléinu á miðvikudaginn.\u000a\u000aPartý.
+p350
+sg11
+g12
+(S"\x07\xd8\t\x0f\x11'\x11\x00\xee\x13"
+p351
+tp352
+Rp353
+sg16
+I68
+sg17
+VMyndataka á miðv. í Féló
+p354
+sg19
+(lp355
+sg21
+VWe remind people to send Helgi (hfr1@hi.is) photos of themselves before 16h on Wednesday, preferably of the resolution 150x168. The student association cards will be printed then.\u000a\u000aThose who don't have photos of themselves: we can take a picture of you on Wednesday at noon in Féló.
+p356
+sg23
+(lp357
+ssa(dp358
+g2
+I149
+sg3
+Vnews.news
+p359
+sg5
+(dp360
+g7
+VNo translation
+p361
+sg9
+VÍ bænum Silky Smooth eru eftirfarandi staðreyndir sannar:   Engir tveir íbúar hafa nákvæmlega sama fjölda af hárum á hausnum.   Enginn íbúi hef nákvæmlega 483,207 hár á hausnum   Það eru fleiri íbúar í Silky Smooth heldur en það eru hár á hausnum á hverjum     einum íbúa.  Hvað geta margir, í mesta lagi, búið í Silky Smooth?\u000a\u000aHérna er svo önnur þrautin. Þið getið skoðað síðuna hans Bóbó,\u000ahttp://www.hi.is/~sth4\u000aþar verða lausnir á öllum þrautunum geymdar.
+p362
+sg11
+g12
+(S'\x07\xd8\t\x0e\x1060\x07\x03\xac'
+p363
+tp364
+Rp365
+sg16
+I107
+sg17
+VÞraut númer 2
+p366
+sg19
+(lp367
+sg21
+VWe were too lazy
+p368
+sg23
+(lp369
+ssa(dp370
+g2
+I148
+sg3
+Vnews.news
+p371
+sg5
+(dp372
+g7
+VThe next 2 weeks
+p373
+sg9
+VSæl börnin góð,\u000a\u000aég ætla að reyna að taka upp á því að skrifa dagskrá næstu tveggja til fjögurra vikna af og til á sunnudögum og tala jafnvel um það sem gerðist undanfarnar vikur. Hér kemur s.s. fyrsta tilraun að þessu.\u000a\u000aFyrstu 3 vikurnar heppnuðust vel og fórum við í 2 ferðir, nýnema- og haustferð. Einnig grilluðum við með nýnemunum í fyrstu vikunni. Nova vísindaferðin heppnaðist mjög vel og minni ég á að fólk getur ennþá skráð sig í Nova og reddað félaginu smá pening þannig.\u000a\u000aÁ næstu 2 vikum, verða tvær vísindaferðir. Við ætlum að byrja á því að tækla bankana, byrjum á Landsbankanum núna á föstudaginn og svo viku eftir það förum við til Spron.\u000a\u000aSkráning hefur opnað fyrir Landsbanka vísindaferðina og við munum reyna að opna fyrir skráningu í flestar vísindaferðir á sunnudeginum fyrir ferðina.\u000a\u000aÁn þess að fara nánar í smáatriði á atburðum október mánaðar, þá verða a.m.k. 2 vísindaferðir og Haustfagnaður þá. Búið ykkur undir mega stuð.\u000a\u000aAnnað mál á dagskrá er lausn á þraut nr. 1 frá Bóbó,\u000ahttp://stigull.rhi.hi.is/skrar/lausnthraut1.pdf\u000a\u000aÞað verður ekki meira í bili, heyrumst!
+p374
+sg11
+g12
+(S'\x07\xd8\t\x0e\x10\x1a \r\xd1\xa5'
+p375
+tp376
+Rp377
+sg16
+I107
+sg17
+VNæstu 2 vikur
+p378
+sg19
+(lp379
+sg21
+VHi,\u000a\u000aI'll try and write an overview of the past weeks and the upcoming ones every other sunday or so. Here's the first attempt at doing so.\u000a\u000aThe first 3 weeks went smoothly and we went on 2 trips, the freshmen trip and the fall trip. We had a BBQ as well for the freshmen in the first week.\u000aThe first science trip was to the phone company Nova and we had a lot of fun there. I want to remind you that you can still switch over to Nova and make some extra money for Stigull, if you do so, let us know.\u000a\u000aIn the 2 upcoming weeks, we'll be hitting the banks, we'll start with Landsbankinn on friday and the friday after that we'll go to Spron.\u000aThe signups for Landsbankinn have opened and in most cases for science trips, we'll open the signups on the sunday before the trip.\u000a\u000aWithout going into a lot of details about october, we'll have at least 2 science trips and a Fall-celebration. \u000a\u000aBye!
+p380
+sg23
+(lp381
+ssa(dp382
+g2
+I147
+sg3
+Vnews.news
+p383
+sg5
+(dp384
+g7
+g64
+sg9
+VEf einhver hefur áhuga á að skipta yfir til Nova og hringja fáránlega trendí myndsímtöl yfir skiladæmunum, tsjékk ðis:\u000a\u000aVið fengum tilboð um að leggja fram annan lista af nemendum sem vilja skipta og fá monnís fyrir hvern sem skiptir yfir. Þannig að þeir sem vilja skipta mega endilega gera það í gegnum Stigul.
+p385
+sg11
+g12
+(S'\x07\xd8\t\x0b\x173*\x0b6\x16'
+p386
+tp387
+Rp388
+sg16
+I68
+sg17
+VNova
+p389
+sg19
+(lp390
+sg21
+VIf someone is still interested in changing phone companys and make awesome picture phone calls while studying, we got an offer hand in another list of students who want to change phone companys. We get paid for each member of Stigull that changes companys, if you feel like doing so, please do it through.
+p391
+sg23
+(lp392
+ssa(dp393
+g2
+I146
+sg3
+Vnews.news
+p394
+sg5
+(dp395
+g7
+VFalltrip [UPDATED PRICE]
+p396
+sg9
+VJójójó,\u000a\u000aá morgun förum við í hina árlegu haustferð.\u000aFarið verður í félagsheimilið Borg rétt hjá Selfossi og fer rúta frá Féló kl. 18.30, mæting uppúr 18.00.\u000a\u000aMJÖG MIKILVÆGT er að fólk skrái sig, því við þurfum að raða í bíla, einnig sýnir það hve mikið áfengi verður keypt. Svo að drífið ykkur að skrá ykkur.\u000aMælum hinsvegar með því að þeir sem ætla að verða hellaðir komi með eigið áfengi ofan á það sem við komum með.\u000a\u000aMinnum á að það kostar 2000 fyrir Stigla og 2500 fyrir ekki-Stigla.\u000aGrillað verður, mætið með mat á grillið!\u000a\u000aKveðja, Foringi Tímarúmsins.
+p397
+sg11
+g12
+(S'\x07\xd8\t\x0b\r\x00\x0b\n\xc5\xbb'
+p398
+tp399
+Rp400
+sg16
+I107
+sg17
+VHaustferð [UPPFÆRT VERÐ]
+p401
+sg19
+(lp402
+I70
+aI69
+asg21
+VTomorrow we'll go to the yearly fall-trip.\u000aWe'll be going to "félagsheimilið Borg", which is close by Selfoss and a bus will depart from Féló at 18.30, show up at 18.00.\u000a\u000aIT IS VERY IMPORTANT THAT YOU SIGN UP ON THE SITE, because we need to put people down in cars. Also, the more people that show up (and sign up), the more alcohol we can buy for YOU.\u000aIf you want to become completely shitfaced we advise you to bring some of your own as well.\u000a\u000aWe'd like to remind you that the fee for the trip will be 2000 ISK for members of Stigull and 2500 ISK for non-members.\u000aWe will BBQ, so if you plan to eat, bring some food.\u000a\u000aBye.
+p403
+sg23
+(lp404
+I2
+assa(dp405
+g2
+I145
+sg3
+Vnews.news
+p406
+sg5
+(dp407
+g7
+VStudent association fees
+p408
+sg9
+VJæja þá.\u000a\u000aÍ dag er 10. september, sem er fresturinn sem gefinn var til að greiða aðeins 2.500 krónur í nemendafélagsgjöld. Frá og með morgundeginum hækka þau upp í 3.000 krónur.\u000a\u000aMeðlimir Stiguls hafa aðgang að öllum boðsferðum Stiguls (vísindaferðir og haustfagnaður m.a.) og fá afslátt af öllum atburðum sem kostar í (haustferð, árshátíð, o.fl.).\u000a\u000aAðeins einn stjórnarmeðlimur hefur aðgang að heimabankanum, þar sem við sjáum hverjir hafa greitt, en allir stjórnarmeðlimir fá tölvupóst sem berst á stigull@hi.is, flýtir það fyrir ykkur að fá aðgang að síðunni ef þið sendið kvittun fyrir millifærslunni á stigull@hi.is.\u000a\u000aKennitala: 440992-2779\u000aReikningsnúmer: 1151-26-002492\u000a\u000aHamingjaveij.
+p409
+sg11
+g12
+(S'\x07\xd8\t\n\x0e7\x1b\x07\xd5\xe0'
+p410
+tp411
+Rp412
+sg16
+I68
+sg17
+VNemendafélögsgjöld
+p413
+sg19
+(lp414
+sg21
+VWell then.\u000a\u000aToday is 10th of September, which is the last day where the fees for Stigull are only 2.500 isk, from tomorrow the fees will be 3.000 kr.\u000a\u000aMembers of Stigull have access to all of Stigull's invites (vísindaferðir and the fall celebration among other things) and get a discount of all of the events with any cost (the fall trip, the annual festival and so on).\u000a\u000aYou can wire transfer to:\u000a\u000aSocial security no. of Stigull: 440992-2779\u000aAccount no: 1151-26-002492\u000a\u000aand send a receipt to stigull@hi.is.\u000a\u000aIf you don't have internet access you can contact [Arnaldur](http://stigull.rhi.hi.is/simaskra/nemendur/1/ass20/).\u000a\u000aHappiness yay.
+p415
+sg23
+(lp416
+ssa(dp417
+g2
+I144
+sg3
+Vnews.news
+p418
+sg5
+(dp419
+g7
+g64
+sg9
+VJæja kæru Stiglar.\u000a\u000aNýneminn [Kristín Björg](http://stigull.rhi.hi.is/simaskra/nemendur/kba1/) hefur nú fengið embættið Galois, sem er tengiliður nýnema við stjórn.\u000a\u000aVið óskum henni að sjálfsögðu til hamingju með þennan mikla heiður og efumst ekki um að hún á eftir að verða stjórninni, nýnemum og Stigli öllum til sóma.
+p420
+sg11
+g12
+(S'\x07\xd8\t\t\x16/4\x02\x83\xf3'
+p421
+tp422
+Rp423
+sg16
+I68
+sg17
+VKristín Galois
+p424
+sg19
+(lp425
+sg21
+VFellow Stigull members.\u000a\u000aThe freshman [Kristín Björg](http://stigull.rhi.hi.is/simaskra/nemendur/kba1/) is now the new Galois, which is the freshmen's connection to the Stigull council.\u000a\u000aWe congratulate her on this great honour and do not doubt that she will make the council, the freshmen and all of Stigull proud.
+p426
+sg23
+(lp427
+ssa(dp428
+g2
+I143
+sg3
+Vnews.news
+p429
+sg5
+(dp430
+g7
+VThe End of the World
+p431
+sg9
+VÞar kemur inn dimmi\u000adreki fljúgandi,\u000anaður fránn, neðan\u000afrá Niðafjöllum;\u000aber sér í fjöðrum,\u000aflýgur völl yfir,\u000aNiðhöggur nái.\u000aNú mun hún sökkvast.\u000a\u000aJæja, Ragnarök nálgast og allt er að fara til helvítis (heljar?).\u000aÁ miðvikudaginn fer hraðallinn í CERN, LHC í gang og hafa margir (vitleysingar?) spáð fyrir um heimsendi. Svarthol munu rífa í sig jörðina og fleira skemmtilegt.\u000aVið munum efla til samdrykkju með Soffíu, nemendafélagi Heimspekinga við HÍ á Næsta Bar, Ingólfsstræti.\u000a\u000aMæting uppúr 8.
+p432
+sg11
+g12
+(S'\x07\xd8\t\x08\x12\n\x08\x04\x99\xa2'
+p433
+tp434
+Rp435
+sg16
+I107
+sg17
+VHeimsendir
+p436
+sg19
+(lp437
+I68
+asg21
+VOn wednesday, LHC will be powered up and like a lot of people have predicted, the world was we know it will end.\u000aBlackholes will roam the earth and eat up everything in their path.\u000a\u000aWe'll be "hosting" a get-together and drink with Soffía, philosophy student society of HÍ at Næsti Bar, which is at Ingólfsstræti.\u000a\u000aShow up at around 8 o'clock
+p438
+sg23
+(lp439
+ssa(dp440
+g2
+I142
+sg3
+Vnews.news
+p441
+sg5
+(dp442
+g7
+VNo translation
+p443
+sg9
+VHÆ, OKKUR VANTAR MYNDIR AF FLESTUM Á NEMENDAFÉLAGSKORT, KORTIN FARA Í PRENTUM Í NÆSTU EÐA ÞARNÆSTU VIKU, SVO AÐ ENDILEGA SENDIÐ MYNDIR Á HFR1@HI.IS\u000a\u000aef þið sjáið ykkur fært um það, sendið mér myndirnar í 150x168 upplausn, takk.
+p444
+sg11
+g12
+(S'\x07\xd8\t\x05\x0c\x1c\x06\x07?\xd9'
+p445
+tp446
+Rp447
+sg16
+I107
+sg17
+VMYNDIR Á NEMENDAFÉLAGSKORT
+p448
+sg19
+(lp449
+I67
+aI66
+asg21
+VIf you want a picture of you on your Stigull card, send it to me at hfr1@hi.is\u000a\u000aIf possible, have the picture in 150x168 resolution, thank you.
+p450
+sg23
+(lp451
+ssa(dp452
+g2
+I141
+sg3
+Vnews.news
+p453
+sg5
+(dp454
+g7
+VSolutions to the first 
+p455
+sg9
+VSkilafrestur á lausn við [fyrstu þraut](http://stigull.rhi.hi.is/frettir/94-thraut-1.-vinekrur-asa-og-peningavelarnar/) er á sunnudag.\u000a\u000aFariði nú að hugsa og leysið þetta.
+p456
+sg11
+g12
+(S'\x07\xd8\t\x04\x16\x11\t\x02\xe2\xd6'
+p457
+tp458
+Rp459
+sg16
+I107
+sg17
+VLausnir við fyrstu þraut
+p460
+sg19
+(lp461
+sg21
+VWe were too lazy
+p462
+sg23
+(lp463
+ssa(dp464
+g2
+I140
+sg3
+Vnews.news
+p465
+sg5
+(dp466
+g7
+VScience trip to Nova
+p467
+sg9
+V[Hér](http://stigull.rhi.hi.is/skrar/myndir/nova.jpg) er plaggat frá Nova, lesið það og látið sjá ykkur á morgun!
+p468
+sg11
+g12
+(S'\x07\xd8\t\x04\x16\x0b\x14\x08Q\x84'
+p469
+tp470
+Rp471
+sg16
+I107
+sg17
+VNova vísindaferð
+p472
+sg19
+(lp473
+sg21
+V[Here](http://stigull.rhi.hi.is/skrar/myndir/nova.jpg) is a poster from Nova, read it (if you can) and show up tomorrow!
+p474
+sg23
+(lp475
+ssa(dp476
+g2
+I139
+sg3
+Vnews.news
+p477
+sg5
+(dp478
+g7
+VTo the freshmen
+p479
+sg9
+VHæbb\u000a\u000aVið erum að leita af Galois.\u000a\u000aGalois er tengiliður nýnema við stjórnina og er ótrúlega gaman að vera Galois og eini meðlimur stjórnar af fyrsta ári.\u000a\u000aÁhugasamir sendi póst á stigull@hi.is, með nafni og einhverri kynningu ef þið viljið.\u000aUmsóknarfrestur rennur út á mánudaginn og verður sigurvegari krýndur í haustferðinni.
+p480
+sg11
+g12
+(S'\x07\xd8\t\x04\x14\x1c,\tE\xc9'
+p481
+tp482
+Rp483
+sg16
+I107
+sg17
+VTil nýnema
+p484
+sg19
+(lp485
+sg21
+VWe're looking for a Galois, a representive of the freshmen in the Stigull board.\u000a\u000aIf you're a freshmen and are interested, send us an email at stigull@hi.is.\u000a\u000aAll applications must arrive before tuesday and the winner will be crowned the friday after that, in the fall-trip.
+p486
+sg23
+(lp487
+ssa(dp488
+g2
+I138
+sg3
+Vnews.news
+p489
+sg5
+(dp490
+g7
+VQuiz and football competitions
+p491
+sg9
+VÁ morgun ætlar stigull að rústa spurninga- og fótboltakeppninni. Spurningakeppnin byrjar kl 13:25 þar sem Stigull 1 og Stigull 2 keppa á móti hvort öðru. Viðureignin er haldin í stofu 101 í Lögbergi. Sigurliðið úr þeirri viðureign mætir Soffíu kl 15:05. Fótboltamótið byrjar kl 14:00 þar sem Stigull mætir Mími, fyrir framan aðalbygginguna. Ef einhverjar spurningar vakna, sendið þá bara póst á stigull [hjá] hi [punktur] is.
+p492
+sg11
+g12
+(S'\x07\xd8\t\x03\x12\x08\x1d\x07q\xe2'
+p493
+tp494
+Rp495
+sg16
+I23
+sg17
+VSpurningakeppni og fótboltamót
+p496
+sg19
+(lp497
+I65
+asg21
+VI already told you about it
+p498
+sg23
+(lp499
+ssa(dp500
+g2
+I137
+sg3
+Vnews.news
+p501
+sg5
+(dp502
+g7
+VBeer debt
+p503
+sg9
+VJæja.\u000a\u000aNú nálgast áfylling bjórísskápsins óðum. Kibbi bjórstjóri fer um hádegi á morgun og verslar.\u000a\u000aSkuldir á 160 krónur:\u000aArnaldur 3 bjórar\u000aMaggi Þór 4 bjórar\u000aÍvar 3 bjórar\u000aJón Blöndal 1 bjór\u000aSigrún Hlín 2 bjórar\u000aHákon 2 bjórar\u000aBóbó 5 bjórar\u000aGunnar Örn 9 bjórar\u000aHörður Freyr Yngvason 4 bjórar\u000aHafsteinn 2 bjórar\u000aJóhanna 1 bjór\u000aKiddi Guðna 1 bjór\u000a\u000aÞessar skuldir hækka í 180 kr. á bjórinn hjá þeim sem verða ekki búnir að borga á hádegi á morgun (fimmtudag).\u000a\u000aSkuldir á 180 kr.\u000aÍvar 1 bjór\u000aMaggi (Þór?) 3 bjórar\u000aBóbó 10 bjórar\u000aKiddi (Guðna?) 4 bjórar\u000aFreyr 4 bjórar\u000aAndri Egils 1 bjór\u000aBaldvin Örn Ólason 2 bjórar\u000a\u000a\u000aReikningsnúmer: 1151-26-002497\u000aKt: 440992-2779\u000a\u000aSem fyrst :)
+p504
+sg11
+g12
+(S'\x07\xd8\t\x03\x0f*;\x0c(\xbb'
+p505
+tp506
+Rp507
+sg16
+I68
+sg17
+VBjórskuld
+p508
+sg19
+(lp509
+sg21
+VIt's just about who owes how much for beer. And the names are there so you can see.
+p510
+sg23
+(lp511
+ssa(dp512
+g2
+I136
+sg3
+Vnews.news
+p513
+sg5
+(dp514
+g7
+VThe fall trip
+p515
+sg9
+VHaustferð Stiguls verður föstudaginn 12. september. Staðurinn er ekki enn niðurnegldur en fjörið verður í hámarki.\u000aEf við gistum ekki verður rúta, ef við gistum er nóg af fólki í stærðfræði og eðlisfræði sem á sugardaddy og þ.a.l. bíl, svo far á svæðið verður ekki vandamál. Kostnaður verður niðurgreiddur að einhverju leiti fyrir meðlimi Stiguls, svo við hvetjum fólk til að gerast meðlimir.\u000a\u000aVið minnum fólk á að skrá sig í þessa ferð sem fyrst (sem er bersýnilega atburður sem borgar sig ekki að missa af) svo við getum gert ráðstafanir sem nákvæmastar.\u000a\u000aNæsone.
+p516
+sg11
+g12
+(S'\x07\xd8\t\x02\x009\x1c\x00\x0b\n'
+p517
+tp518
+Rp519
+sg16
+I68
+sg17
+VHaustferð
+p520
+sg19
+(lp521
+sg21
+VStigull's fall trip will be friday the 12th of September. We haven't decided the spot yet but it will be fun.\u000aIf we won't spend the night, there will be a bus, if we will spend the night, there is enough of people in Stigull who have their own sugardaddy and therefore a car, so it won't be a problem to get there.\u000aThe cost will be downpaid for members of Stigull so we encourage people to join our cult.\u000a\u000aPlease sign up for the trip (which you don't want to miss) as soon as possible so the planning of it will be exact.
+p522
+sg23
+(lp523
+ssa(dp524
+g2
+I135
+sg3
+Vnews.news
+p525
+sg5
+(dp526
+g7
+VThe Nova vísindaferð and a dance
+p527
+sg9
+VNæsta föstudag er vísindaferð til [Nova](http://nova.is). Hún hefst klukkan 17 (fylgist með á síðunni, staðsetningin kemur síðar) með því að þeim sem þess óska er gefið færi á að skipta yfir til Nova.\u000a\u000aEinungis er hægt að vera hjá Nova ef viðkomandi er með 3G síma.\u000aTilboðið sem Stiglum gefst er sama tilboð og Nova hefur verið að auglýsa síðustu mánuði:\u000a- Hægt er að fá nýjan síma (3G) og greiða af honum 2.000 kr. á mánuði með kreditkorti í 12 mánuði og fá þá 2.000 kr. inneign (eða niðurgreiddan símreikning).\u000a- Einnig er hægt að staðgreiða símann (24.000 kr) og fá 2.000 kr. afnot í 12 mánuði.\u000a\u000aÞetta hentar öllum þeim sem nota símann sinn fyrir 2.000 kr. á mánuði eða meira virkilega vel.\u000a\u000a- Ef fólk á 3G síma fyrir en hyggst samt skipta yfir til Nova býðst því að fá 1.000 kr. afnot á mánuði í 12 mánuði án endurgjalds.\u000a\u000aAllir viðskiptavinir Nova hringja og senda frítt sms í aðra viðskiptavini Nova. Aukinheldur er internetið í símanum (sjúklega næs) frítt til áramóta.\u000a\u000aEn ekki nóg með þetta allt, heldur fær nemendafélagið 2.500 kr. á hvern þann Stigul sem skiptir yfir, svo að inneign þeirra sem skipta er tótallí monní well spent.\u000a\u000aVið hvetjum því alla til að skipta yfir og þeir sem hafa áhuga á að skipta en komast ekki í vísindaferðina eru beðnir að senda tölvupóst á stigull [hjá] hi [punktur] is með nafni og símanúmeri.\u000a\u000a\u000aAaallavega, eftir skiptin verður vísindaferð, og heyrst hefur frá þeim sem farið hafa til Nova að hún hafi verið tryllt þá. Endilega mætið í þessa fyrstu vísindaferð.\u000a\u000aOg munið að skrá ykkur á [Stigulssíðunni](http://stigull.rhi.hi.is).\u000a\u000a\u000aSíðar sama kvöld er dansleikur [Stúdentaráðs HÍ (SHÍ)](http://student.is) á Broadway þar sem FM Belfast og Sálin troða upp. Hægt er að nálgast miða á þá stórskemmtun á Háskólatorgi fyrir litlar 1.900 krónur.\u000aTilvalið er fyrir fólk að hafa það notalegt í Féló á milli þessara atburða. Dólgslæti og slökkvitækjarán eru afpöntuð.
+p528
+sg11
+g12
+(S'\x07\xd8\t\x02\x00\x1d\x1d\x0e\xa2\xfa'
+p529
+tp530
+Rp531
+sg16
+I68
+sg17
+VNova vísindaferðin og dansleikur
+p532
+sg19
+(lp533
+sg21
+VThe vísindaferð next friday is to a telephone company called [Nova](http://nova.is). Students will be given the chance to change telephone companys and the deal available is:\u000a\u000aYou get a 3G telephone, pay 2.000 kr. a month for 12 months via credit card and get 2.000 kr. credit on your telephone in stead. You can also pay the telephone on the spot for 24.000 kr. and get the credit for the next 12 months.\u000a\u000aIf you already have a 3G telephone (which I think you do Balthasar) you get 1.000 kr. credit a month for 12 months for joining Nova.\u000a\u000aEvery client of Nova calls and text messages other clients of Nova for free. In addition the internet on your phone is for free throughout this year.\u000a\u000aStigull gets 2.500 kr. for each member that joins Nova, which is a lot of beer if a lot of people join.\u000a\u000a\u000aWhen everyone who wants to join Nova have finished the process the real vísindaferð will start. Be there or be square. And remember to sign up on the [Stigull site](http://stigull.rhi.hi.is).\u000aIf you can't make it but still want to join Nova then send a mail to stigull [hjá] hi [punktur] is with your name and number.\u000a\u000aLater the same evening there is a dance at Broadway where the bands _FM Belfast_ and _Sálin hans Jóns míns_ will be playing. Tickets are for sale on Háskólatorg for 1900 kr.
+p534
+sg23
+(lp535
+ssa(dp536
+g2
+I134
+sg3
+Vnews.news
+p537
+sg5
+(dp538
+g7
+VNo translation
+p539
+sg9
+VMálstofa í tvinnfallagreiningu:\u000a\u000aTími:  Þriðjudaginn 2. september kl. 11.40-12.40.\u000a\u000aStaður:  Salur H-5 í Háskólabíói.\u000a\u000aFyrirlesari: Stéphane Rigat, Provence-háskóla í Marseille.\u000a\u000aTitle:  Integral representation of solutions of partial differential\u000aequations with constant coefficients.\u000a\u000aAbstract:  In the lecture we will explain basic integral\u000arepresentation formulas in complex analysis, among them the\u000aAndersson-Berndtsson-formula, and give applications of these\u000aformulas to division problems and partial differential equations.\u000a\u000a\u000a===\u000a\u000aMálstofa í stærðfræði:\u000a\u000aTími: Miðvikudaginn 3. september kl. 15:00\u000a\u000aStaður: Stofa 158 í VR-II (ATH! ný stofa)\u000a\u000aFyrirlesari: Wieslaw Zelasko, prófessor emeritus við Pólsku\u000avísindaakademíuna.\u000a\u000aTitill: Banach algebrur.\u000a\u000aÚtdráttur: In this talk I shall explain how Poland, having at the\u000abeginning of he 20th century very modest mathematical traditions, obtained\u000ain the period 1919-1939 a relatively good standing in some fields of\u000amodern mathematics.  In a more detailed way I shall describe the Lwow\u000aSchool of functional analysis (the Banach school).
+p540
+sg11
+g12
+(S'\x07\xd8\t\x01\x15\x1c\x1f\t\x12\xbc'
+p541
+tp542
+Rp543
+sg16
+I107
+sg17
+VMálstofa í stærðfræði
+p544
+sg19
+(lp545
+sg21
+VWe were too lazy
+p546
+sg23
+(lp547
+ssa(dp548
+g2
+I101
+sg3
+Vnews.news
+p549
+sg5
+(dp550
+g7
+VFreshmen trip
+p551
+sg9
+VElsku nýnemar.\u000a\u000aOkkur þykir leitt að tilkynna ykkur að þær upplýsingar bárust okkur í gær að fjárhagsstaða Stiguls er verri en við var búist.\u000a\u000aVið þurfum því að taka upp sið annarra nemendafélaga og rukka 1000 kr. á mann í ferðina, sem greiðist í rútunni. Þessi kostnaður er fyrir rútuna, Stigull greiðir húsnæðið og áfengið.\u000a\u000aÞað er góður siður að taka alltaf varalager af áfengi með, því fólk á það til að drekka ansi mikið af fríu áfengi. Þeim sem ætla að vera möddhöddaðir í kvöld er ráðlagt að taka með sér auka stash. :)\u000a\u000aAð lokum: frábært hversu margir eru búnir að greiða nemendafélagsgjöld og skrá sig í ferðina. Dugleg.\u000a\u000aKveðja,\u000askáld, féhirðir, Ásgeir XVI/tölvuhirðir, hófdýr og drottning.
+p552
+sg11
+g12
+(S'\x07\xd8\x08\x1d\r\x1c1\x01\x13\xf4'
+p553
+tp554
+Rp555
+sg16
+I68
+sg17
+VNýnemaferðin
+p556
+sg19
+(lp557
+sg21
+VFor the freshmen, and there are no foreign ones.
+p558
+sg23
+(lp559
+ssa(dp560
+g2
+I99
+sg3
+Vnews.news
+p561
+sg5
+(dp562
+g7
+VStudent association fees and ID
+p563
+sg9
+VHchalloh.\u000a\u000aFyrst og fremst minnum við á að skráning í nýnemaferðina er á töflunni í Féló. Allir að skrá sig, því áfengi verður keypt í samræmi við fjölda. Þeir eldri nemar sem ætla að mæta seinna um kvöldið eru líka beðnir að skrá sig á töfluna - ef þeir ætlið að drekka bjór.\u000a\u000a-----\u000a\u000aFullt af frábæru fólki er búið að borga nemendafélögsgjöldin sín, vel gert. Við erum búin að gefa þeim meðlimum aðgang að síðunni, með einhverjum undantekningum sökum tæknilegra örðuleika (ekki allir nýnemar eru komnir með notendanafn á Stigulssíðuna). Þeir sem eru búnir að borga en hafa ekki fengið aðgang eru beðnir að senda tölvupóst um það á stigull@hi.is.\u000a\u000aHinir sem eru ekki búnir að borga eru hvattir til að gera það sem fyrst, til að geta skráð sig á atburði (mjög mikilvægt í vísindaferðir þar sem aðgangur er oft takmarkaður í þeim) og þar sem gjöldin hækka í 3000 kr. eftir 10. sept.\u000a\u000a-----\u000a\u000aNemendafélagsskírteinin koma út um miðjan september, þeir sem vilja fá aðra mynd af sér en rassatrúðinn eru beðnir að senda mynd af sér til Helga á hfr1@hi.is.
+p564
+sg11
+g12
+(S'\x07\xd8\x08\x1c\x0e!2\x06\x88\xaf'
+p565
+tp566
+Rp567
+sg16
+I68
+sg17
+VNemendafélagsgjöld og -skírteini
+p568
+sg19
+(lp569
+sg21
+VFirst, there is a list in Féló for those who are going on the Freshmen trip to Alviðra, near Selfoss. There will be a bus going from the parking space outside Féló, only for the freshmen and exchange students. Sign your name on the board in Féló, beer will be bought with respect to number of people.\u000a\u000a----\u000a\u000aSecond, some students have already paid the student association fees and those have gotten access to the Stigull site. Those who haven't paid are asked to do so soon. After 10th of September the fees will go from 2500 isk. to 3000 isk.\u000a\u000a----\u000a\u000aThose who want a different picture on the Stigull ID are asked to send a picture to Helgi at hfr1@hi.is.
+p570
+sg23
+(lp571
+ssa(dp572
+g2
+I98
+sg3
+Vnews.news
+p573
+sg5
+(dp574
+g7
+VFreshmen barbeque and trip
+p575
+sg9
+VMinni hér með á nýnemagrillið, sem er á fimmtudaginn 28. ágúst og svo nýnemaferðina föstudaginn 29. ágúst.\u000aBáðir atburðir byrja kl. 6 en ég legg til að fólk láti sjá sig aðeins fyrir 6 á föstudaginn þar sem að rútan kemur þá.\u000aSafnast verður saman í féló báða daga.\u000a\u000aMætið með grillmat í báðar ferðir ef þið viljið borða eitthvað, bjór verður í boði Stigulls á föstudaginn, en ég legg til að þeir sem vilja gera kvöldið eftirminnilegt taki með sér eitthvað auka.\u000aBúið er að fylla bjórískápinn í féló þannig að hægt verður að kaupa bjór á morgun.\u000a\u000aVil minna á það að eldri nemendur eru allir velkomnir á báða atburði, hinsvegar á föstudaginn eru þeir ekki velkomnir fyrr en eftir kl. 9, þar sem að þetta er nú nýnemaferð. Minni enn og aftur á að farið verður til Alviðru, og að eldri nemendur ættu að byrja að skipuleggja bílaskipan sem fyrst, þar sem að rútan er aðeins fyrir nýnema. Þeir mega þó láta sjá sig hvenær sem er á fimmtudeginum.\u000a(Mæli með töflu í féló)\u000a\u000a\u000aYfir í önnur mál, sem tengjast aðeins nýnemum Stiguls.\u000a\u000aVið auglýsum hér með, eftir nýnema/um til þess að halda Haustfagnað Stiguls.\u000aHefð hefur skapast fyrir því að nýnemi haldi þennan fagnað og skemmtum við okkur konunglega í fyrra.\u000aEf þið hafið áhuga á því að halda þetta (stjórn Stiguls mun hjálpa til við þrif fyrir og eftir fagnaðinn) sendið okkur tölvupóst á stigull [hjá] hi [punktur] is\u000a\u000aAuglýsum einnig eftir Nýnema til þess að sitja í stjórn Stiguls. \u000aÍ fyrra var tekið upp á því að hafa nýnema í stjórninni og sem fyrsti [Galois](http://en.wikipedia.org/wiki/%C3%89variste_Galois) Stiguls, verð ég að segja að það hafi heppnast vel.\u000aHlutverk Galois (nýnema stjórnarmeðlimur) er s.s. að vera tengiliður stjórnarinnar við nýnema sem og rödd nýnema í skipulagi vetursins.\u000aEf þú hefur áhuga á að vera Galois þessa skólaárs, sendu okkur línu á stigull [hjá] hi [punktur] is
+p576
+sg11
+g12
+(S'\x07\xd8\x08\x1b\x10;\x03\x0b\xf5W'
+p577
+tp578
+Rp579
+sg16
+I107
+sg17
+VNýnemagrill og ferð
+p580
+sg19
+(lp581
+I64
+asg21
+VA reminder of the freshmen barbeque, which is on Thursday the 28th of august and the freshmen trip which is on Friday the 29th of august.\u000aBoth events will start at 6pm at Féló. I do recommend people showing up 15-30 minutes earlier for the trip since the bus will depart shortly after 6pm.\u000a\u000aShow up with something for the BBQ for both days if you want to eat something. Stigull will bring beer for friday but there will be beer for sale on thursday.\u000a\u000aI want to remind older students that they're welcome for both events. However for the trip on friday, they're not welcome until after 9pm, due to it being a trip mainly for the freshmen. The trip will be to Alviðra, just outside of Selfoss. The bus will only be for the freshmen so I recommend that the older students start organizing on who will bring cars and such.\u000a\u000aThe following is only for the freshmen:\u000a\u000aWe're looking for a freshman who can host the Fall-celebration of Stigull. It has become a tradition that a freshmen holds it and we had tremendous fun last year.\u000aIf you're interested in holding this event (Stigull's board will help you clean up before and after the celebration) send an email to stigull [hjá] hi [punktur] is\u000a\u000aWe're also looking for a freshman who would be interested in being on the board for Stigull.\u000aHe'll be the link between the board and the freshmen.\u000aIf you're interested, send an email to stigull [hjá] hi [punktur] is
+p582
+sg23
+(lp583
+ssa(dp584
+g2
+I97
+sg3
+Vnews.news
+p585
+sg5
+(dp586
+g7
+VCoffie in Féló
+p587
+sg9
+VHæ allir.\u000a\u000aNú er komið kaffi í Féló. Fyrikomulagið er mjög einfalt:\u000aVið keyptum Senseo kaffikönnu sem er mjög idiotproof. Spyrjið einhvern ef þið vitið ekki, svo eru leiðbeiningarnar í Nytjaskápnum.\u000a\u000aHver kaupir sinn poka með 18 kaffipúðum (þeir eru í kassa við hliðina á ísskápnum) og skrifar hann á sig með meðlimaskírteininu sínu (þau koma uppúr 10. sept. þegar fólk hefur greitt félagsgjöld) þegar bjór- og kaffitölvan kemst í lag, sem verður vonandi eftir ca. tvær vikur. Einn poki með 18 púðum kostar 320 krónur (í bili) og mjólk í kaffið er innifalin í því verði.\u000a\u000aÞangað til þetta fyrirkomulag kemst í lag er listi ofan í kaffipúðapokakassanum (mjög gott orð) til þess að skrá nafn þess sem verslar og upphæð sem verslað er fyrir.\u000a\u000a------------\u000a\u000aAð auki auglýsir stjórnin eftir kaffistjóra.\u000aHafið samband á stigull [hjá] hi [punktur] is með nafni og símanúmeri til að fá nánari upplýsingar eða sækja um stöðuna.
+p588
+sg11
+g12
+(S'\x07\xd8\x08\x1b\r- \x0f\r\x1c'
+p589
+tp590
+Rp591
+sg16
+I68
+sg17
+VKaffimál í Féló og kaffistjóri
+p592
+sg19
+(lp593
+sg21
+VYou can buy coffie in Féló now, one bag of 18 coffie cushions, for 320 kr. Milk is included.\u000a\u000aAsk Stefanía or someone in Féló for further information.
+p594
+sg23
+(lp595
+ssa(dp596
+g2
+I96
+sg3
+Vnews.news
+p597
+sg5
+(dp598
+g7
+VFootball and a popquiz (UPDATED)
+p599
+sg9
+VÍ næstu viku verður fótboltamót og spurningakeppni, Stigull ætlar að reyna að senda lið í báðar keppnir.\u000a\u000aEf þið hafið áhuga á öðru hvoru sendið póst á stigull [hjá] hi [punktur] is\u000a\u000aUndankeppni verður í báðum keppnum fimmtudaginn 4. september.\u000aÚrslit á föstudag.\u000aSkráningu líkur á sunnudagskvöld.\u000a\u000a7 menn eru inná í fótboltaliðunum.\u000a3 í hverju spurningakeppnisliði.\u000a\u000aVið megum senda fleiri en eitt lið í hvora keppni. Þannig að endilega sem flestir að skrá sig.\u000a\u000aNánari upplýsingar berast til keppenda eftir helgi.
+p600
+sg11
+g12
+(S'\x07\xd8\x08\x1a\x14#\x04\x05\xf3)'
+p601
+tp602
+Rp603
+sg16
+I107
+sg17
+VFótbolti og spurningakeppni (VIÐBÓT)
+p604
+sg19
+(lp605
+sg21
+VNext week there'll be a football tournament and a popquiz between different divisions in HÍ. Stigull will try to send teams for both.\u000a\u000aIf you're interested in either one, send an email to stigull [hjá] hi [punktur] is\u000a\u000aThe qualifications are on thursday the 4th of september.\u000aThe finals are on the 5th.\u000aSignups close on next sunday.\u000a\u000aWe can send more than one team for each competition so everyone can signup and everyone who signs up will get to participate.\u000a\u000aFurther information will be sent to the competitors after the weekend.
+p606
+sg23
+(lp607
+ssa(dp608
+g2
+I95
+sg3
+Vnews.news
+p609
+sg5
+(dp610
+g7
+VGeneral information
+p611
+sg9
+VSæl öllsömul,\u000a\u000aeins og þið hafið líklegast tekið eftir, hefur síðan verið voðalega óstabíl undanfarna daga. Þannig að ef þið ætlið að skoða reikningsnúmerið þá er best að gera það fyrir kl. 8 eða 9 á kvöldin.\u000a\u000aÞegar þið hafið borgað, fáið þið lykilorð á síðuna send í pósti, á mánudaginn, vegna tæknilegraörðuleika.\u000a\u000aYfir í önnur mál. Á fimmtudag er nýnemagrill, þar eru allir velkomnir og verður bjór kominn í ísskápinn (á hóflegu verði, býst við á sama og í fyrra) og fólk grillar sinn eigin mat og hefur það notalegt... ef veður leyfir. Fjörið byrjar kl. 6.\u000a\u000aÁ föstudaginn er svo nýnemaferð, farið verður í Alviðru og vil ég biðja þá nýnema sem sjá sér fært um að koma að skrifa nafn sitt á töfluna í féló, þetta er ekki nauðsynlegt en það væri æðislegt að sjá u.þ.b. fjölda af þeim sem ætla að koma.\u000aLagt verður af stað um 6 og væri flott ef safnast verður saman um hálf 6 í féló.\u000aGrillað verður í Alviðru svo að komið með eitthvað á grillið.\u000a\u000aEldri nemendur geta svo látið sjá sig í Alviðru uppúr 9 eða 10. Mæli með að fólk komi sér saman um bíla þar sem að rútan er aðeins fyrir nýnema.\u000a\u000aEf einhverjar spurningar vakna er alltaf hægt að láta í sér heyra í féló.
+p612
+sg11
+g12
+(S'\x07\xd8\x08\x1a\x0f\x0b\x1d\x0cU\x9d'
+p613
+tp614
+Rp615
+sg16
+I107
+sg17
+VAlmennar upplýsingar um fyrstu og aðra skólaviku
+p616
+sg19
+(lp617
+sg21
+VHi,\u000a\u000athe site has been unstable lately. If you're going to check the account number and such information, do it before 8 or 9pm.\u000a\u000aYou'll receive a password for the website after you've payed.\u000a\u000aOn thursday, there's a freshmen barbeque, everyone is welcome and it'll start at around 6pm.\u000a\u000aOn friday, the freshmen will depart at 6pm for Alviðra for their freshmentrip.\u000a\u000aOlder students are welcome to show up in Alviðra after 9pm. I suggest that the ones who plan to show up, start filling up cars and such.
+p618
+sg23
+(lp619
+ssa(dp620
+g2
+I94
+sg3
+Vnews.news
+p621
+sg5
+(dp622
+g7
+VNo translation
+p623
+sg9
+VÍ geymslu einni eru k-peningavélar, þar sem k \u005cin {1,...,9}. Allar nema ein prenta jafnþunga peningaseðla en sú vél prentar seðla sem vega grammi minna. Þú stendur í geymslunni og hefur fyrir framan þig eina rafmagnsvigt og færð verkefnið að finna út hvaða peningavél prentar þá peninga er vega minna og færð aðeins eina vigtun.\u000aÞyngri peningarnir vega meira en 1 gramm og eru náttúrleg tala að þyngd(Auka stig eru fyrir að útvíkka lausnina eins mikið og unnt er). Hlaða þarf peningum á vigtina áður en ýtt er á takka og þyngdin sýnd.\u000a\u000aEdit: Af gefnu tilefni þá þarfm svo engin sé ónákvæmnin, að tilgreina að líta má á fjölda véla sem gefna stærð en þyngd peninganna er óþekkt með öllu. En þetta mætti hugsanlega lesa úr uppsetningu dæmisins. \u000a\u000ap.s. Það mun líklega koma sér þrautasection seinna.\u000ap.p.s Ekki skrifa lausnir hér fyrir neðan, sendið þær á sth4 [hjá] hi [punktur] is\u000a\u000akveðja, Stefán "the riddler"
+p624
+sg11
+g12
+(S'\x07\xd8\x08\x19\r\x13\x15\x01\xe6\xbe'
+p625
+tp626
+Rp627
+sg16
+I107
+sg17
+VÞraut 1. Vínekrur Ása og peningavélarnar
+p628
+sg19
+(lp629
+I63
+asg21
+VWe were too lazy
+p630
+sg23
+(lp631
+ssa(dp632
+g2
+I93
+sg3
+Vnews.news
+p633
+sg5
+(dp634
+g7
+VBooksale [uppdated]
+p635
+sg9
+VVið ætlum að taka upp á því að hafa einhverskonar bókasölu hérna hjá Stigli.\u000a\u000aEf þið eigið einhverjar bækur sem þið viljið losa ykkur við, sendið [mér](http://stigull.rhi.hi.is/simaskra/nemendur/hfr1/) tölvupóst með upplýsingum um bókina.\u000a\u000aÉg mun þá bæta bókinni á lista, sem verður geymdur [hér](http://stigull.rhi.hi.is/skrar/baekur.pdf) og svo muna tilvonandi kaupendur og aðrir áhugasamir skoða listann þar og hafa samband við ykkur.\u000a\u000aÞegar bókin hefur verið seld sendir kaupandi mér svo aftur tölvupóst um söluna svo að ég geti fjarlægt bókina af listanum.\u000a\u000aForm upplýsinga verður eftirfarandi:\u000a\u000aNafn bókar, nafn höfunda(r),útgáfa eða útgáfuár. Nafn seljanda, símanr. seljanda, tölvupóstur seljanda. Verð hugmynd.\u000a\u000aSem dæmi:\u000a\u000aFuture Directions in Studies of Nuclei Far From Stability, North-Holland, 1980. Helgi Freyr Rúnarsson, 6965315, hfr1 [hjá] hi [punktur] is. Verð: Mól krónur.
+p636
+sg11
+g12
+(S"\x07\xd8\x08\r\x0c'$\x07\x9b "
+p637
+tp638
+Rp639
+sg16
+I107
+sg17
+VBókasala [uppfært]
+p640
+sg19
+(lp641
+sg21
+VWe'll be having a booksale from and for students here at Stigull.\u000a\u000aIf you have any old books that you want to get rid off, send [me](http://stigull.rhi.hi.is/simaskra/nemendur/hfr1/) an email with information about the book.\u000a\u000aI will then put the book on a list which will be kept [here](http://stigull.rhi.hi.is/skrar/baekur.pdf) and future buyers will be able to check the list there and contact you.\u000a\u000aOnce the book has been sold, the buyer sends me an email that the book has been sold and I'll remove it from the list.\u000a\u000aThe form of the information for each book will be:\u000a\u000aName of the book, name of the author(s), edition or year of publishing. Name of the seller, phone no. of the seller, email of the seller. Suggestion of a price.\u000a\u000aFor instance:\u000a\u000aFuture Directions in Studies of Nuclei Far From Stability, North-Holland, 1980. Helgi Freyr Rúnarsson, 6965315, hfr1 [hjá] hi [punktur] is.\u000aPrice: mole ISK
+p642
+sg23
+(lp643
+ssa(dp644
+g2
+I92
+sg3
+Vnews.news
+p645
+sg5
+(dp646
+g7
+VNo translation
+p647
+sg9
+VJæja, núna fer sumarið að klárast og skemmtilegasti partur ársins að byrja aftur, skólinn.\u000a\u000aVið í stjórn Stiguls höfum unnið hörðum höndum í sumar að gera komandi skólaár æðislegt í alla staði. Eins og þið sjáið á síðunni (Síðan er eitthvað óstabíl þessa dagana þar sem að rafmagnið fer alltaf af féló á kvöldin), eru þegar komnar nokkrar vísindaferðir inn og nýnemavikan verður full af stuði fyrir nýja og gamla nemendur Stiguls.\u000a\u000aÞeir nemendur sem vilja gerast Stiglar (Allir?) fyrir komandi skólaár, mega drífa sig í að borga nemendafélagsgjöld, sem eru 2500 krónur. Hægt er að finna reikningsnúmer og kennitölu Stiguls [hér](http://stigull.rhi.hi.is/upplysingar/).\u000a\u000aTil þess að hvetja fólk að borga sem fyrst, verður fyrirkomulagið í ár þannig að þeir sem borga eftir 10. september þurfa að borga 3000 krónur í stað 2500. Þess vegna er um að gera að drífa sig í að skrá sig í nemendafélagið.\u000a\u000aMeðlima aðgagur fólks verður aftur virkur hér á síðunni þegar þið hafið borgað nemendafélagsgjöldin, það innifelur t.d. að skrá á sig bjór, skrá sig í ferðir og atburði.\u000a\u000aSjáumst hress þann 25.!\u000a\u000a
+p648
+sg11
+g12
+(S'\x07\xd8\x08\r\x0c\x1c,\x07\xe6\xe1'
+p649
+tp650
+Rp651
+sg16
+I107
+sg17
+VUpphaf skólaárs!
+p652
+sg19
+(lp653
+sg21
+VWell well well, the summer is almost over and school about to start.\u000a\u000aWe've been working our asses off this summer to make the upcoming year as awesome as it can be for you. Like you can see on the site (if you understand it, that is, and if the site is up) we've already booked a few science trips and the freshmen week will be full of fun for both new and old members of Stigull.\u000a\u000aIf you want to become a member of Stigull for this upcoming year, I suggest you hurry up and pay as soon as possible because if you pay after the 10th of september, the price will rise by 500 ISK.\u000a\u000aThe account number is 1151-26-002492 \u000awith the kennitala 4409922779\u000aand the price (before the 10th of september) is 2500 ISK.\u000a\u000aOnce you've payed, you'll regain access to the members only functions of this site, for instance, buying beer, signing up for trips and events held by Stigull.\u000a\u000aSee you on the 25th!
+p654
+sg23
+(lp655
+ssa(dp656
+g2
+I91
+sg3
+Vnews.news
+p657
+sg5
+(dp658
+g7
+VNo translation
+p659
+sg9
+VKæru samnemendur,\u000a\u000aNú er komið að sumarnámskeiði Radíóklúbbs HÍ. Eins og síðustu ár verður kennt allt sem þarf að kunna til þess að verða radíóamatör og endar á prófi til réttinda. Námskeiðið er alls 12 kvöld, 3 kvöld í viku (þriðjudögum, miðvikudögum og fimmtudögum), ca tvær klst í senn og kostar einungis 3000 kr. (það er ekki neitt!!).\u000a\u000aKennsla er í höndum meðlima radíóklúbbsins og reyndra radíóamatöra. Námskeiðið verður sérstaklega sniðið að nemendum í rafmagns og tölvuverkfræði og er þessvegna styttra heldur en svona námskeið eru oftast (seinast var námskeið fyrir \u201ealmenning" 18 kvöld). Nemendur í stærðfræði, eðllisfræði, tölvunarfræði og öðrum verkfræðum ættu samt að ráða vel við þetta.\u000a\u000aRadíóamatöra réttindi leyfa manni að hafa radíósamskipti með allskonar aðferðum á mörgum tíðniböndum með allt að 1000W sendiafli. Þetta er tilvalið áhugamál fyrir rafmagnsverkfræðinga og aðra grúskara og er t.a.m. mjög skemmtilegt að stunda samferða ferðalögum. Radíóamatöraleyfi er gjarnan rós í hnappagatið á ferilskránni. Námskeiðið gefur annað sjónarhorn á rafmagnsheiminn og hefur hjálpað nemendum sem hafa farið á það tölvuert í náminu. Nánar um radíóamatöraleyfi má lesa í reglugerð: http://www.ira.is/myndir/nr_348_2004.pdf\u000a\u000aNámskeiðið byrjar þriðjudaginn 24. júní (það er eftir 4 daga) klukkan 20 á kynningu á námskeiðinu og útskýrt verður nánar hvað amatör radíó er og hvað það gengur út á.\u000aÞað er ekki ennþá komið á hreint í hvaða stofu námskeiðið verður en það verður í VR2.\u000a\u000aÞað verða líka útilegur og minni ferðir á vegum klúbbsins í sumar þar sem þeir sem ljúka námskeiðinu fá aðstoð við að taka sín fyrstu skref sem radíóamatörar.\u000a\u000aÞeir sem hafa áhuga á að taka þátt í námskeiðinu sendið tölvupóst á orrito@hi.is\u000aHeimasíða radíóklúbb háskólans er rafnem.hi.is/~tf3hi (heimasíða félags íslenskra radíóamatöra er www.ira.is).\u000a\u000aVonum til að sjá sem flesta\u000a\u000aFyrir hönd Radíóklúbbs HÍ\u000aOrri Tómasson - TF3OT
+p660
+sg11
+g12
+(S'\x07\xd8\x06\x14\x08%\x02\x06`)'
+p661
+tp662
+Rp663
+sg16
+I107
+sg17
+VViltu verða radíóamatör?
+p664
+sg19
+(lp665
+sg21
+VWe were too lazy
+p666
+sg23
+(lp667
+ssa(dp668
+g2
+I90
+sg3
+Vnews.news
+p669
+sg5
+(dp670
+g7
+VNo translation
+p671
+sg9
+VTil lífræði, eðlisfræði og stærðfræði nemenda.\u000a\u000aÉg er prófessor við Simon Fraser University, sem er í Vancouver,   Canada.\u000aÉg er að leita af nemendum sem hafa áhuga á að stunda masters   eða\u000adoktorsnám í Stærðfræðilegri Lífræði. Þetta svið getur verið mjög\u000aáhugavert fyrir bæði lífræðinga sem hafa áhuga á stærðfræði eða\u000atölvunarfræði, og fyrir eðlisfræðinga eða stærðfræðinga sem hafa   áhuga á\u000anota sína þekkingu til að leysa \u201dvandamál\u201d í lifræði.\u000aFyrir neðan er auglýsinging sem ég hef birt.\u000a\u000aEiríkur\u000a\u000aPS Útilifið hérna í Vancover er mjög gott til að fara á skíði,\u000afjallgöngur, kajak ofl.\u000a\u000a\u000aFully funded PhD or masters graduate student positions in\u000amathematical biology available, at Simon Fraser University,\u000aVancouver, Canada. For fall 2008 or spring 2009. Possible research\u000aprojects are: Cell-cell signaling in Dictyostelium discoideum or\u000apossibly using a 3-D model to study the effect that cell adhesion and\u000acell-cell signaling has on the movement and the sorting out of\u000adifferent cell-types. Other options are using the model to study   wound\u000ahealing, somitogenesis in Zebrafish, gastrulation and cancer   cell\u000ainvasion. Another project is studying the flow of Nitrogen,   Phosphorus\u000aand Carbon between various Phyla in marine systems. We   have a bare bone\u000amodel that lets us study how the stoichiometry of   various organisms in\u000athe system, combined with the availability of   nutrients affects the loss\u000aand accumulation of organically available   N and P. The project would\u000ainvolve improving existing model or\u000adesigning a new model to study how stoichiometry affects competition   in\u000aenvironments with varying nutrients and how a complete system   could\u000aevolve. If you are a biologist with interest in some\u000amathematical applications or if you are a mathematician or physicist\u000awith interest in biology and are interested in mathematical biology,\u000aplease email me with a brief resume, and summary of research interests.\u000a\u000a\u000aDr Eirikur Palsson, Department of Biology\u000a\u000aSimon Fraser University, 8888 University dr, Burnaby, BC V5A1S6\u000a\u000aTel: +1 778 782 4808\u000a\u000aFAX: +1 778 782 3496\u000a\u000aEmail: epalsson@sfu.ca (Internet)\u000a\u000ahttp://www.sfu.ca/~epalsson
+p672
+sg11
+g12
+(S'\x07\xd8\x06\x13\x109:\x06\x02H'
+p673
+tp674
+Rp675
+sg16
+I107
+sg17
+VMasters eða doktorsnám í stærðfræðilegri lífræði
+p676
+sg19
+(lp677
+sg21
+VWe were too lazy
+p678
+sg23
+(lp679
+ssa(dp680
+g2
+I88
+sg3
+Vnews.news
+p681
+sg5
+(dp682
+g7
+VNo translation
+p683
+sg9
+VKæru nemendur,\u000a\u000aFélag um stafrænt frelsi á Íslandi vill vekja athygli ykkar á\u000aráðstefnu okkar þann 5. júlí næstkomandi, þar sem málefni stafræns\u000afrelsis verða rædd útfrá landlægum og alþjóðlegum sjónarmiðum.\u000aAðalfyrirlesararnir eru Eben Moglen frá Software Freedom Law Center\u000aog John Perry Barlow frá Electronic Frontier Foundation.\u000a\u000aEben Moglen er prófessor í lögum og sögu laga við Columbia háskólann í\u000aBandaríkjunum og er stofnandi, aðalmálflutningsmaður og formaður\u000aSoftware Freedom Law Center sem er ætlað að vernda og styðja við frelsi\u000ahugbúnaðar. Moglen hefur unnið mjög náið með Free Software Foundation og\u000asat í stjórn stofnunarinnar frá árinu 2000 til ársins 2007. Moglen er\u000aeinn af lykilmönnunum í viðhaldi frjálsa hugbúnaðarleyfisins GNU General\u000aPublic License. Listi námskeiða sem hann kennir eða hefur kennt\u000ainniheldur meðal annarra námskeiða lög í nútímasamfélagi, lög í\u000anetsamfélagi, saga enskra laga og saga bandarískra laga.\u000a\u000aJohn Perry Barlow er þekktur baráttumaður frelsis í netheimum. Árið 1990\u000astofnaði hann ásamt Mitch Kapor og John Gilmore samtökin Electronic\u000aFrontier Foundation (EFF) og situr í stjórn samtakanna í dag. EFF eru\u000aþekkt alþjóðleg samtök sem berjast fyrir málfrelsi í netheimum á\u000alagalegum og stjórnmálalegum grundvelli. Árið 1999 valdi FutureBanker\u000atímaritið Barlow sem "einn af 25 áhrifamestu aðilunum í\u000afjármálaþjónustu." Hann talar alþjóðlega fyrir ýmsum málefnum,\u000asérstaklega stafrænni hagfræði, í ræðu, riti og ráðgjöf.\u000a\u000aAuk þeirra verða aðrir innlendir og erlendir fyrirlesarar með erindi\u000asem snerta stafrænt frelsi í íslensku þjóðlífi og önnur málefni sem\u000avarða stafrænt frelsi á alþjóðavettvangi og í alþjóðlegu samstarfi.\u000a\u000aRáðstefnan verður öllum opin án aðgangseyris á meðan húsrúm leyfir.\u000aFélag um stafrænt frelsi á Íslandi óskar eftir því að áhugasamir skrái\u000asig á http://www.fsfi.is/radstefna2008/ þannig að hægt sé að aðlaga\u000aráðstefnuna að fjölda gesta með fyrirvara og senda út tilkynningar\u000avarðandi ráðstefnuna til áhugasamra gesta.\u000a\u000aDagskrá ráðstefnunnar er í meðfylgjandi viðhengi. Nánari upplýsingar er\u000aað finna á vefsíðu FSFÍ http://www.fsfi.is\u000a\u000aVið í stjórn FSFÍ vonumst til þess að sjá sem flesta!\u000a\u000aATH: Frítt er á ráðstefnuna en við óskum eftir því að fólk skrái sig.\u000a\u000a\u000a - Stjórn FSFÍ
+p684
+sg11
+g12
+(S'\x07\xd8\x06\x12\x08%/\x05\x8c\x82'
+p685
+tp686
+Rp687
+sg16
+I107
+sg17
+VRáðstefna um stafrænt frelsi
+p688
+sg19
+(lp689
+sg21
+VWe were too lazy
+p690
+sg23
+(lp691
+ssa(dp692
+g2
+I87
+sg3
+Vnews.news
+p693
+sg5
+(dp694
+g7
+VNo translation
+p695
+sg9
+Vhttp://www.hallgeirsey2008.tk/\u000a\u000aHeimasíðan er komin upp og hægt er að kaupa miða á þetta þar.
+p696
+sg11
+g12
+(S'\x07\xd8\x06\x11\x117\t\x02Wm'
+p697
+tp698
+Rp699
+sg16
+I107
+sg17
+VÚtilega háskólanna
+p700
+sg19
+(lp701
+sg21
+VWe were too lazy
+p702
+sg23
+(lp703
+ssa(dp704
+g2
+I86
+sg3
+Vnews.news
+p705
+sg5
+(dp706
+g7
+VNo translation
+p707
+sg9
+VLeitað er eftir einhverjum sem er búinn með náttúrufræði braut eða slíka menntun og er til í að kenna grunnin í fögum sem tengjast því.\u000a\u000aBeðið var um að vera helst 2 tíma alla virka daga.\u000a\u000aTengliðir eru:\u000aMarilena Vokrri gsm: 696-7183 eða Herta gsm: 770-4264\u000a
+p708
+sg11
+g12
+(S'\x07\xd8\x06\x0e\x10\x0b\n\x05\x83\x04'
+p709
+tp710
+Rp711
+sg16
+I107
+sg17
+VAukakennsla
+p712
+sg19
+(lp713
+sg21
+VWe were too lazy
+p714
+sg23
+(lp715
+ssa(dp716
+g2
+I85
+sg3
+Vnews.news
+p717
+sg5
+(dp718
+g7
+VNo translation
+p719
+sg9
+VNú fer að styttast í hina árlegu háskólaútilegu Félags Verkfræðinema, sem\u000aað þessu sinni er haldin í Hallgeirsey helgina 27. til 29. júní.\u000aBrjáluð stemning myndast alltaf í kringum þessa útilegu og í ár verður\u000aengin breyting þar á.\u000aÍ fyrra var t.a.m. uppselt og þurfti að vísa fólki frá svæðinu sem var\u000abúið að keyra alla leið í Hallgeirsey í von um að fá miða seldan við\u000ainnganginn.\u000a\u000aMiðasala fer fram á þar til gerðri heimasíðu sem sett verður upp á næstu\u000adögum.\u000a\u000a\u000a\u000a\u000aVerð í forsölu\u000a4.300 kr. fyrir háskólanema\u000a4.900 kr. fyrir aðra\u000a\u000aVið fáum seinustu svör á mánudagskvöldi frá þeim sem performa í\u000aútilegunni, en drög að dagskrá lítur svona út:\u000a\u000aFöstudagur, 27. júní:\u000a18:00   Mæting, tjalda, opna öl\u000a22:00   Brekkusöngur undir stjórn X\u000a23:00   DJ spilar fram eftir nóttu\u000a\u000aLaugardagur, 28. júní\u000a16:00   Hallgeirseyjarleikar (létt sprell til að koma fólki í gang)\u000a19:00   Brekkusöngur undir stjórn X2\u000a21:00   DJ-inn hitar upp fyrir hljómsveitina\u000a22:00   Hljómsveit heldur uppi brjálaðri stemningu fram eftir nóttu\u000a\u000aSunnudagur, 29. júní\u000aPakka saman, fara heim og skoða myndir af helginni\u000a\u000a\u000aMeð stuðkveðjum og von um gott samstarf,\u000aFélag Verkfræðinema.
+p720
+sg11
+g12
+(S'\x07\xd8\x06\t\x10\x01\x12\x03\xce\xd8'
+p721
+tp722
+Rp723
+sg16
+I107
+sg17
+VÚtilega háskólanna
+p724
+sg19
+(lp725
+sg21
+VWe were too lazy
+p726
+sg23
+(lp727
+ssa(dp728
+g2
+I84
+sg3
+Vnews.news
+p729
+sg5
+(dp730
+g7
+VNo translation
+p731
+sg9
+VSumarstarf  á Landspítala\u000a\u000aÁhugavert tækniverkefni\u000a\u000a\u000aHeilbrigðistæknisvið á Landspítala will ráða nema í eðlisfræði eða verkfræði, helst lokið 2. námsári, til að sinna verkefni sem er styrkt af Nýsköpunarsjóði námsmanna í sumar.\u000aVerkefnið er um tækni og aðferðir við umhverfislýsingu og tengsl hennar við skoðun klínískra mynda á tölvuskjá þannig að gæði skjávinnu verði hámörkuð og áhrif umhverfislýsingar verði lágmörkuð. Margvíslegir þættir eins á sviði lífeðlisfræði, eðlisfræði og hönnunar eins og mannssjónin, myndskoðun og umhverfislýsing verða skoðaðir.\u000aVerkefnið er liður í stærra verkefni sem lýtur að þróun tæknibúnaðar til að tölvustýra ljósi (lit og magni) þar sem myndskoðun er notuð á skurðstofum og á röntgendeildum.\u000a\u000aGert er ráð fyrir að verkefnið hefjist í byrjun júní og ljúki í lok ágúst.\u000a\u000a\u000aUpplýsingar gefa:\u000a\u000aÞorgeir Pálsson, sviðsstjóri\u000a543-1528 og 8245415\u000athorgeir@lsh.is\u000a\u000aGísli Georgsson\u000a543-1529 og 8245220\u000agisli@lsh.is
+p732
+sg11
+g12
+(S'\x07\xd8\x06\x05\x16*#\x04.\\'
+p733
+tp734
+Rp735
+sg16
+I107
+sg17
+VSumarstarf á Landspítala
+p736
+sg19
+(lp737
+sg21
+VWe were too lazy
+p738
+sg23
+(lp739
+ssa(dp740
+g2
+I83
+sg3
+Vnews.news
+p741
+sg5
+(dp742
+g7
+VNo translation
+p743
+sg9
+VÞað vantar 3 eðlisfræðinga og 3 stærðfræðinga til þess að sitja fund um kosningu deildarforseta raunvísindadeildar.\u000a\u000aFundurinn er næsta miðvikudag og væri frábært ef fólk gæti sent póst á stigull@hi.is fyrir þriðjudag ef það kemst.\u000a\u000aBeðið var um að ef hægt væri, væri frábært að fá einn framhaldsnema úr hvorri grein.\u000a\u000aÞeir sem sitja þennan fund eru ekki skildugir til þess að fleiri fundi.
+p744
+sg11
+g12
+(S'\x07\xd8\x06\x01\t,:\x04d\xb5'
+p745
+tp746
+Rp747
+sg16
+I107
+sg17
+VKosning deildarforseta raunvísindadeildar
+p748
+sg19
+(lp749
+sg21
+VWe were too lazy
+p750
+sg23
+(lp751
+ssa(dp752
+g2
+I81
+sg3
+Vnews.news
+p753
+sg5
+(dp754
+g7
+VNo translation
+p755
+sg9
+VTÖLVUNARFRÆÐI VIÐ HR\u000aNámið hentar\u000aTölvunarfræðideild Háskólans í Reykjavík (HR) kynnir námsframboð á meistarastigi í\u000a\u2022 Tölvunarfræði\u000a\u2022 Hugbúnaðarverkfræði\u000a\u2022 Máltækni\u000aFarið verður yfir uppbyggingu námsins, forkröfur, námskeiðaval, erlent samstarf og\u000astyrkmöguleika. Kennarar námsins verða til staðar til skrafs og ráðagerða.\u000aDeildin er stærsta og öflugasta tölvunarfræðideild landsins og býður upp á fjölmarga\u000amöguleika á sérhæfingu, þ.m.t. í tölvuöryggi, hugbúnaðarverkfræði, gagnasafnsfræði,\u000agervigreind, máltækni, og fræðilegri tölvunarfræði.\u000aTölvunarfræðingum, verkfræðingum, stærðfræðingum og öðrum sem áhuga hafa á\u000aað bæta menntun sína og samkeppnisstöðu.\u000a\u000aUmsóknarfrestur er 30. maí.
+p756
+sg11
+g12
+(S'\x07\xd8\x05\x14\x13\x1f;\r\xdah'
+p757
+tp758
+Rp759
+sg16
+I107
+sg17
+VKynning á Meistaranámi í Tölvunarfræði
+p760
+sg19
+(lp761
+sg21
+VWe were too lazy
+p762
+sg23
+(lp763
+ssa(dp764
+g2
+I80
+sg3
+Vnews.news
+p765
+sg5
+(dp766
+g7
+VSurvey
+p767
+sg9
+V*** English Version below ***\u000a\u000aGóðan Daginn\u000a\u000aKönnun þessi er gerð af meistara- og doktorsnemum við Háskóla Íslands og\u000aer ætlunin að kanna viðhorf íslendinga til mengunnar frá bílum.\u000a\u000aÞað tekur um það bil fimm mínútar að klára könnuninni og það mundi hjálpa\u000aokkur míkið ef þú myndi taka könnunnin og vinsamlegist sendið þessi póst\u000aáfram til vinar þínar.\u000a\u000aMeð fyrirfram þökk\u000a\u000aVirgile Collin-Lange, doktorsnemi í landafræði &\u000aHanne Krage Carlsen, meistaranemi í lýðheilsuvísindum\u000ahkc1@hi.is\u000a\u000aHlekkur á könnun:\u000ahttp://www.questionpro.com/akira/TakeSurvey?id=950615
+p768
+sg11
+g12
+(S'\x07\xd8\x05\x0f\x07\x1c\x14\x07\xd2\xc7'
+p769
+tp770
+Rp771
+sg16
+I107
+sg17
+VUmhverfisvítund íslendinga
+p772
+sg19
+(lp773
+sg21
+VHallo\u000aThis survey is made by master and doctoral students at the University of\u000aIceland to explore the views of Icelanders to pollution from cars.\u000a\u000aIt takes about 5 minutes to finish the survey which is in Icelandic. It\u000awould be\u000aa  great help to us if you take the time to finish the survey and please\u000afeel free to forward it to your (icelandic speaking) friends and contacts.\u000a\u000aThank you.\u000a\u000aVirgile Collin-Lange, Ph.D. student in geography &\u000aHanne Krage Carlsen, MPH student in centre of Public Health\u000ahkc1@hi.is\u000a\u000aLink to survey:\u000ahttp://www.questionpro.com/akira/TakeSurvey?id=950615
+p774
+sg23
+(lp775
+ssa(dp776
+g2
+I78
+sg3
+Vnews.news
+p777
+sg5
+(dp778
+g7
+VCoffee
+p779
+sg9
+VÞar sem kaffisjóður hefur komið út í 16000 kr. mínus síðustu ár og er í mínus þetta árið, hvetjum við alla þá sem hafa drukkið kaffi að borga sína skuld.\u000a\u000aEinn bolli kostar 100 kr.\u000aEinn bolli á dag 2000 kr.\u000aHver bolli á dag eftir það 1000 kr.\u000a\u000aÞar sem við erum öll fátæk, er fátækt ekki afsökun fyrir að borga ekki!\u000a\u000a**Millifærist á Stigul**\u000a**kt 4409922779**\u000a**reikningsnr. 1151-26-002492**\u000a
+p780
+sg11
+g12
+(S'\x07\xd8\x05\x0e\x0f\x02.\n_\x87'
+p781
+tp782
+Rp783
+sg16
+I23
+sg17
+VKaffisjóður
+p784
+sg19
+(lp785
+I62
+asg21
+VIf you have drunk some coffee and not paid for it then please pay.\u000a\u000aOne cup 100 kr.\u000aOne cup everyday 2000 kr.\u000aOne cup everday after that 1000 kr.\u000a\u000a
+p786
+sg23
+(lp787
+ssa(dp788
+g2
+I77
+sg3
+Vnews.news
+p789
+sg5
+(dp790
+g7
+VThrowing away things
+p791
+sg9
+VEf einhver á mat, nestisbox eða aðra aukahluti í Féló sem hann vill ekki að verði hent, þá þarf hann að sækja það í dag eða í fyrramálið.\u000a\u000aAllt sem ekki verður sótt verður gert að Stigulseign á hádegi á morgun - og annað hvort nýtt fyrir fjöldann eða sett í svartan ruslapoka.
+p792
+sg11
+g12
+(S'\x07\xd8\x05\x0e\r,4\x027\xc6'
+p793
+tp794
+Rp795
+sg16
+I68
+sg17
+VHendum dóti
+p796
+sg19
+(lp797
+I61
+asg21
+VWe're throwing everything away tomorrow at noon, if you have something here you don't want thrown away, come get it.
+p798
+sg23
+(lp799
+ssa(dp800
+g2
+I76
+sg3
+Vnews.news
+p801
+sg5
+(dp802
+g7
+VTo Balthasar
+p803
+sg9
+VEnglish version also.\u000a\u000aJæja kids.\u000a\u000aNú fer að líða að þeirri langþráðu stund að prófum ljúki. Við minnum því á **próflokaferðina** sem farin verður fimmtudaginn **15. maí** á milli 17 og 18.\u000a\u000aVið förum til [Þingborgar](http://www.floahreppur.is/felagsheimili/thingborg), sem er rétt austan við Selfoss, svo ferðatíminn er um ein og hálf klst.\u000a\u000aVið **grillum** þegar við komum á svæðið, svo komið með grillmat. Tilvalið að fólk hópi sig saman um máltíðir til að auðvelda sér meðlætisgerð og annað.\u000a\u000a**K-ta afleiðan** verður líka þetta kvöld - svo við hvetjum flesta til að flippa og missa sig í undirbúningi súrra atriða.\u000a\u000aÁfengi verður á staðnum, en endanlegt magn, svo þeir sem ætla sér Hammertime (sem allir ættu auðvitað að stefna að) ættu að koma með auka, sem þeir geta gripið til þegar á líður.\u000a**Athugið: Áfengi verður keypt í samræmi við þann fjölda sem hefur skráð sig á hádegi 15. maí.**\u000a\u000aLífið kostar, og þessi ferð líka, nánar til tekið **1500 peninga í krónum talið**, sem greiðast ekki seinna en við mætingu.\u000aFrábært væri ef enginn væri prímadonna (ég veit ekki hver það ætti að vera) og gleymdi monnís.\u000a_Aðdáunarvert_ þykir enn fremur að **millifæra** fyrirfram á _Stigulsreikning_, með _"Þingborg" sem tilvísun_.\u000aReikningsnúmer: 1151-26-002492\u000aKennitala: 440992-2779\u000a\u000aVið förum á **einkabílum**, svo frábært væri ef allir þeir sem sjá sér fært að fara á bíl gætu svarað þessum tölvupósti með þeim upplýsingum (og símanúmeri svo við þurfum ekki að fletta þeim upp) ásamt fjölda lausra sæta.\u000aÞeir sem þurfa far geri slíkt hið sama, svo röðum við fólki niður á bíla.\u000a\u000a**Hafragrautur og kaffi** verður í morgunmat, svo þeir sem sætta sig ekki við slíkt lostæti verða að mæta með eitthvað annað.\u000a\u000a**Stikkorð ferðarinnar:**\u000a\u000a- Fimmtándi maí.\u000a\u000a- Áætluð brottför á milli 17 og 18 (farið verður á einkabílum).\u000a\u000a- Áætluð heimför um hádegi á föstudeginum.\u000a\u000a\u000a**Æskilegt meðferðis er:**\u000a\u000a- 1500 krónur.\u000a\u000a- Sundföt.\u000a\u000a- Matur til að grilla.\u000a\u000a- Aukabirgðir af blóðþynningarlyfjum.\u000a\u000a- Svefnpoki og koddi (dýnur eru á staðnum).\u000a\u000a- Skemmtiatriði fyrir K-tu afleiðuna.\u000a\u000a\u000aVonandi mæta sem flestir - þetta er með síðustu tækifærum til að knúsa útskriftarkrúttin okkar bless. Þau eru mörg að fara til útlanda.\u000a\u000aAttlæbless.
+p804
+sg11
+g12
+(S"\x07\xd8\x05\x0c\x0c4'\x01\x94G"
+p805
+tp806
+Rp807
+sg16
+I68
+sg17
+VPróflokaferð
+p808
+sg19
+(lp809
+I60
+asg21
+VCelebration of finishing our exams:\u000a\u000aApproximate departure for [Þingborg](http://www.floahreppur.is/felagsheimili/thingborg) is between 17 and 19, thursday the 15th of May. We're going on private cars, so let us know if you need a ride.\u000aBring 1500 krónur.\u000aBring food to barbeque.\u000aBring alcahol (there will be some, but you might need more).\u000aBring a sleeping bag and a pillow (don't need a mattress).\u000aBring an act to perform (doesn't matter which sort of act).\u000aBring a swimsuit.\u000aApproximate departure from Þingborg is around noon on friday.\u000a\u000aBe there or be square.
+p810
+sg23
+(lp811
+ssa(dp812
+g2
+I75
+sg3
+Vnews.news
+p813
+sg5
+(dp814
+g7
+VCleaning Féló
+p815
+sg9
+VÁ miðvikudaginn hefjast alþrif í Féló. Það verður geggjað partý, enda með eindæmum skemmtilegt fólk sem mun sjá um þann þriggja til fjögurra daga atburð.\u000aVið byrjum á miðvikudagsmorgun (einhverjir verða á skralli kvöldið áður vegna prófloka, svo gera má ráð fyrir mætingu um 10 (kannski 12).\u000a\u000aVið ætlum að þrífa hátt og lágt og endurnýja eitthvað af innviðinu. Húsgagnastyrkur er enn í vinnslu.\u000a\u000aAllir eru velkomnir með - margar hendur vinna létt verk. Við vonum að sem flestir sýni sig. Svo endum við þetta á að gera eitthvað skemmtilegt saman.\u000a\u000aMeð kveðju,\u000aStefanía
+p816
+sg11
+g12
+(S'\x07\xd8\x05\x0c\x0c2\x0e\x042+'
+p817
+tp818
+Rp819
+sg16
+I68
+sg17
+VFélótiltekt
+p820
+sg19
+(lp821
+sg21
+VWe are going to start cleaning Féló properly on Wednesday. We suppose it will take from three to four days.\u000a\u000aWe will start at 10:00 on Wednesday morning, but some people will be celebrating their exams finishing the night before, so perhaps not until 12:00.\u000a\u000aHope to see you there,\u000a\u000aStefanía
+p822
+sg23
+(lp823
+ssa(dp824
+g2
+I74
+sg3
+Vnews.news
+p825
+sg5
+(dp826
+g7
+VNo translation
+p827
+sg9
+VAfsláttur á barnum fyrir háskólanema.\u000a\u000a[Plaggat](http://stigull.rhi.hi.is/skrar/ymislegt/paris_lounge_poster.jpg)
+p828
+sg11
+g12
+(S'\x07\xd8\x05\n\x11-(\x06g;'
+p829
+tp830
+Rp831
+sg16
+I107
+sg17
+VAfsláttur á barnum á Paris Lounge
+p832
+sg19
+(lp833
+sg21
+VWe were too lazy
+p834
+sg23
+(lp835
+ssa(dp836
+g2
+I73
+sg3
+Vnews.news
+p837
+sg5
+(dp838
+g7
+VParty \u2013 sir Páll Óskar on NASA
+p839
+sg9
+VPróflokadjamm háskólanna \u2013 Páll Óskar á Nasa 16.maí\u000a\u000aKæru lestrarhestar, nú er komið að því að safnast saman og fagna því að\u000aprófin, skilaverkefnin, skýrslurnar og formúlublöðin verði nú lögð til\u000ahliðar.  Samkvæmt reglugerð um hvíld stúdenta eftir próf, segir að\u000amikilvægt sé fyrir andlega og líkamlega vellíðan að safna orku í hópi vina\u000aog sötra nokkrar kollur eftir átökin.  Am-Events í samstarfi við Miller\u000ahafa því boðað til próflokagleði, sem ætluð er nemendum háskólanna.\u000aGleðskapurinn er haldinn á Nasa, þann 16.maí og er það enginn annar en\u000asnillingurinn og glimmersnúðurinn Páll Óskar Hjálmtýsson sem mun sjá um að\u000askemmta fólki fram eftir nóttu.  Ballið byrjar á slaginu 23:00 og stendur\u000ayfir þangað til búið er að spæna upp spariskóna.\u000a\u000a\u000a\u000aMiðaverð eru litlar 1500 kr í forsölu, en 2000 kr við hurð.  Hægt er að\u000análgast miða á Nasa þann 15. og 16.maí milli kl: 16:00 til 20:00.  Allar\u000anánari upplýsingar veita Am-Events í síma: 588-0101, eða\u000aamevents@amevents.is\u000a\u000aSjá plakat: http://amevents.is/proflokadjamm/
+p840
+sg11
+g12
+(S'\x07\xd8\x05\n\x11%)\x01\xea\x8d'
+p841
+tp842
+Rp843
+sg16
+I107
+sg17
+VPróflokadjamm háskólanna \u2013 Páll Óskar á Nasa 16.maí
+p844
+sg19
+(lp845
+sg21
+VParty \u2013 sir Páll Óskar on NASA\u000aDearest brainiacs.\u000aThe time has come to gather round and celebrate that all those tedious\u000aexams, hand-in projects, reports and otherwise useless material have been\u000aput to rest.\u000aAccording to the Bill of Rest for Students after Tedious Exam Periods, it\u000ais our duty and plainly important for mental sanity and physical wellbeing\u000ato regain strength in a group of friends and down a few beers in the\u000aprocess. Am-Events and Miller have therefore sounded the party-horn and\u000aorganized a special end-of-exams party for the benefit of university\u000astudents. This party of parties will take place at Nasa on May 16th and\u000aour very own sparkling sprinkler and bringer of joy, Sir Páll Óskar\u000aHjálmtýsson will ensure that no ass will leave un-sweaty. This tremendous\u000agathering will commence at precisely 2300 hours on said day and will\u000acontinue until no one is left standing.\u000a\u000aTicket price will be as low as 1500 ISK when purchased before the party,\u000aand a measly 2000 ISK at the door. Tickets can be acquired at Nasa on May\u000a15th and 16th between 16:00 and 20:00. For further information, contact\u000aAm-Events either via phone, 588-0101, or via e-mail, amevents@amevents.is\u000a\u000a\u000a\u000aFor more info, see: http://amevents.is/proflokadjamm/\u000a
+p846
+sg23
+(lp847
+ssa(dp848
+g2
+I71
+sg3
+Vnews.news
+p849
+sg5
+(dp850
+g7
+VNo translation
+p851
+sg9
+VÞann 15. maí verður haldið í próflokaferð. Lagt verður af stað upp úr 6 og haldið verður austur fyrir fjall í sal sem heitir Þingborg.Þar verður grillað, farið í pottana og eitthvað álíka skemmtilegt. Gist verður þannig að fólki er ráðlagt að koma með svefnpokka, dýnur verða þó til staðar.Farið verður á einkabílum til þess að spara kostnað vegna ferðarinnar. Það mun kosta 1500 krónur í ferðina. Þetta verður auglýst betur síðar en skráið ykkur endilega á atburðinn svo að við sjáum hve margir sjá sér fært um að koma.
+p852
+sg11
+g12
+(S'\x07\xd8\x04\x17\r\x17\x1f\x0bH\x0c'
+p853
+tp854
+Rp855
+sg16
+I107
+sg17
+VPróflokaferð
+p856
+sg19
+(lp857
+sg21
+VWe were too lazy
+p858
+sg23
+(lp859
+ssa(dp860
+g2
+I70
+sg3
+Vnews.news
+p861
+sg5
+(dp862
+g7
+VSpring explosion on outdoor wear
+p863
+sg9
+VÞað er útsala í A3 outlet úti í Garðabæ, var beðinn um að láta ykkur vita.\u000a\u000a[Hér](http://hi.is/~hfr1/A3-outlet-vorsprengja-3.jpg) sjást allar upplýsingar sem þið gætuð þurft. Það eru seldar nánast allar útivistar vörur þarna og fullt af einhverju öðru.\u000a\u000aEf fólk er ekki nægilega ratvíst þá er þetta hliðiná Marel, sem sést beint frá Reykjanesbraut þegar keyrt er úr Kópavogi og inn í Hafnarfjörð, er á hægri hönd í hrauninu þar. Það er stórt Cintamani merki ofan á húsinu sem þetta er í.
+p864
+sg11
+g12
+(S'\x07\xd8\x04\x17\t;3\x00\xf0\xf6'
+p865
+tp866
+Rp867
+sg16
+I107
+sg17
+VVorsprengja á útivistar vörum
+p868
+sg19
+(lp869
+sg21
+VThere's a sale going on in a certain sports and outdoor wear store in town, up to 80% discount. The link in the Icelandic version of this has the address at the top.
+p870
+sg23
+(lp871
+ssa(dp872
+g2
+I69
+sg3
+Vnews.news
+p873
+sg5
+(dp874
+g7
+VA new interest representative for international students! 
+p875
+sg9
+VYngvi Eiríksson, verkfræðinemi hefur verið ráðinn sem hagsmunafulltrúi SHÍ.\u000aStaða hagsmunafulltrúa er hugsuð sem 50% starfshlutfall á skrifstofu\u000aStúdentaráðs. Hagsmunafulltrúi hefur yfirumsjón með réttindaskrifstofu SHÍ;\u000asvarar fyrirspurnum nema sem telja að á rétti sínum sé brotið innan\u000aháskólans og rekur í framhaldi mál þeirra. Hagsmunafulltrúi hefur\u000aeftirfarandi viðveru á skrifstofu SHÍ, sem staðsett er beint fyrir ofan\u000aBóksöluna á Háskólatorgi:\u000a\u000aMánudagar: 12.30-15.00 Viðtalstími\u000aMiðvikudagar: 13.00-17.00 Viðtalstími\u000aFöstudagar: 11.00-12.30 Viðtalstími\u000a\u000aViðtalstímar eru birtir með fyrirvara um breytingar.
+p876
+sg11
+g12
+(S'\x07\xd8\x04\x11\x0f5\x15\x05M\xd6'
+p877
+tp878
+Rp879
+sg16
+I68
+sg17
+VHagsmunafulltrúi Stúdentaráðs Háskóla Íslands
+p880
+sg19
+(lp881
+sg21
+VThe Student Council has now hired an interest representative for international students.  This is a new position to meet the needs of the increasing numbers of international students studying at the University of Iceland.  The representatives job is to answer any questions international students might have regarding their rights and assist international students in seeking those rights when broken.  The new representative is a Kanadian who has been living in Iceland for the past five years. Her name is Katelin Marit Parsons, you can contact her at the e-mail address katelin@hi.is. In the future she'll also be available once a week at the Student Council's office.  
+p882
+sg23
+(lp883
+ssa(dp884
+g2
+I68
+sg3
+Vnews.news
+p885
+sg5
+(dp886
+g7
+VSymposium about a bill regarding matters in the University
+p887
+sg9
+VYou can find a translation by clicking "en".\u000a\u000aYkkur er hér með boðið til opins málþings um frumvarp til\u000alaga um opinbera háskóla sem lagt var fyrir þingheim\u000a3. apríl síðastliðinn. Í frumvarpinu er kveðið á um\u000aveigamiklar breytingar á stjórnsýslu háskólans og meðal\u000aannars fækkun stúdenta í Háskólaráði. Málþingið verður\u000ahaldið í stofu 101 (hringleikasalnum) á Háskólatorgi\u000aföstudaginn 18. apríl kl. 11 stundvíslega en þar má fastlega\u000abúast við æsilegum jafnt sem fróðlegum\u000aumræðum þingmanna og stúdenta.\u000a\u000a\u000aFramsögufólk er eftirfarandi:\u000a\u000aSigurður Kári Kristjánsson, formaður menntamálanefndar Alþingis\u000aKatrín Júlíusdóttir, menntamálanefnd Alþingis\u000aKatrín Jakobsdóttir, menntamálanefnd Alþingis\u000aHöskuldur Þórhallsson, menntamálanefnd Alþingis\u000aJón Magnússon, menntamálanefnd Alþingis\u000aKristján Freyr Kristjánsson, menntamálanefnd Stúdentaráðs\u000a\u000aFundarstjóri er Björg Magnúsdóttir, formaður Stúdentaráðs.\u000a\u000aStúdentaráð hvetur stúdenta til þess að líta upp úr útúrslitnum\u000anámsbókum, fjölmenna í hringleikasal Háskólatorgs föstudaginn\u000a18. apríl kl. 11 og taka þátt í umræðu um framtíðarstefnu\u000aháskólasamfélagsins.\u000a
+p888
+sg11
+g12
+(S'\x07\xd8\x04\x11\x0f,6\x07\xe4\xde'
+p889
+tp890
+Rp891
+sg16
+I68
+sg17
+VMálþing um frumvarp til laga um opinbera háskóla
+p892
+sg19
+(lp893
+sg21
+VDear students\u000a\u000aYou are invited to an open symposium about a bill\u000aregarding matters in the University. The symposium\u000awill be in room 101 at Háskólatorg Friday the\u000a18th April at 11 o'clock.\u000a\u000aFollowing members of the parliament from all parties\u000awill answer question and discuss the bill:\u000a\u000aSigurður Kári Kristjánsson, president of the Education\u000aCommittee of the Parliament\u000aKatrín Júlíusdóttir, Educational Committee of the Parliament\u000aKatrín Jakobsdóttir, Educational Committee of the Parliament\u000aHöskuldur Þórhallsson, Educational Committee of the Parliament\u000aJón Magnússon, Educational Committee of the Parliament\u000aKristján Freyr Kristjánsson, Educational Committee of the\u000aStudent Council.\u000a\u000aChairperson of the symposium is Björg Magnúsdóttir, president of the\u000aStudent Council.\u000a\u000aWe urge students to come and ask questions regarding this bill on Friday\u000athe 18th of April at 11 o'clock in room 101 at Háskólatorg.\u000a
+p894
+sg23
+(lp895
+ssa(dp896
+g2
+I67
+sg3
+Vnews.news
+p897
+sg5
+(dp898
+g7
+VMusic "festival"
+p899
+sg9
+VRisa festival á Nasa\u000a\u000aSjónvarpsþátturinn Þráður er í fullum gangi á sjónvarpstöðinni SkífanTv.\u000aÞegar þeim er lokið eru tónleikar. Daganna 17-18-19 apríl verður\u000atónleikaveisla á Nasa. Flóran af bestu hljómsveitum þessa lands koma þar\u000afram.\u000a\u000aVeislan byrjar á fimmtudegi með Sign og lokahljómarnir á fimmtudeginum eru\u000asvo í höndum strákana í Brain Police.\u000a\u000aFöstudagurinn er Þannig skipaður fyrst á stokk stígur hljómsveitin Á móti\u000asól, þar á eftir kemur Últramega technóbandið Stefán og President Bongo\u000a(gus gus) sér svo um að halda géstunum heitum fram eftir nóttu\u2026\u000a\u000aÁ Laugardeginum  byrjum við með Hafdísi Huld, eftir henni koma svo\u000astrákarnir í xxx Rottweiler hundum og lokahnikkinn á þessari\u000atónleikaveislu eiga svo strákarnir í Sprengjuhöllinni. Midasala er á\u000amidi.is\u000a\u000aKynnir á þessum kvöldum er Davíð Þór Jónsson, kenndur við\u000aRadíusbræður.steedlord er ekki eins og viðhengir segir...pass it\u000aon,,,,,,,uppl I síma 6598434\u000aKv Eðalkvimindir ehf
+p900
+sg11
+g12
+(S'\x07\xd8\x04\x10\x10\x1a\x15\x00\x94\xd9'
+p901
+tp902
+Rp903
+sg16
+I107
+sg17
+VTónleikar?
+p904
+sg19
+(lp905
+sg21
+VThis is an advertisement for some semi-music festival that will be held the 17th, 18th and 19th of april. \u000a\u000aIcelandic bands like Sign, Brain Police, Á móti sól and a few more will be playing.\u000a\u000aYou can find information about tickets if you're interested on midi.is ...\u000a
+p906
+sg23
+(lp907
+ssa(dp908
+g2
+I66
+sg3
+Vnews.news
+p909
+sg5
+(dp910
+g7
+V21
+p911
+sg9
+VVið förum á 21 í kvöld, það verður 2 fyrir 1 svo að það er um að gera að láta sjá sig.\u000a\u000aHittumst í Féló rétt fyrir 6, og röltum svo út í Háskólabíó.\u000a\u000aMuniði eftir Stigulls kortunum ykkar.
+p912
+sg11
+g12
+(S'\x07\xd8\x04\x10\x0e\x10-\r\xd4\xaf'
+p913
+tp914
+Rp915
+sg16
+I107
+sg17
+VBíóferð á 21
+p916
+sg19
+(lp917
+sg21
+VThe movie starts at 18.00, we'll meet up in Féló at around 17.50, so be there or be an octagon.\u000a\u000aWe'll get an discount of 2 tickets for the price of 1.
+p918
+sg23
+(lp919
+ssa(dp920
+g2
+I65
+sg3
+Vnews.news
+p921
+sg5
+(dp922
+g7
+VThe movies
+p923
+sg9
+VJæja, núna á miðvikudaginn er planið að fara í hópferð í bíó á myndina 21 úti í Háskólabíó. Við förum á 6 sýninguna og ætli fólk hittist ekki bara úti í Háskólabíó eða féló rétt fyrir sýningu.\u000a\u000aEinnig fengum við boð um hópferð á myndina Brúðgumann, þá einhverskonar Stigulls sýningu. Þannig að ég bið alla sem eru áhugasamir að skrá sig á þann atburð. Það er ekki komin tímasetning en það fer allt eftir fjölda sem skrá sig og sýna áhuga. Væri ágætt að fá staðfestingu í email'i um hverjir væru til í að koma.\u000a\u000aVerð á þessar sýningar er enn óljóst en það verður reynt að fá afslátt á 21 og afsláttur er svo gott sem öruggur á Brúðgumann.\u000a\u000aSvo afsaka ég að K-tu afleiðu skeytið skaut upp kollinum aftur, það var alveg óvart.
+p924
+sg11
+g12
+(S'\x07\xd8\x04\x0e\x16+\t\x0e\xd2\x17'
+p925
+tp926
+Rp927
+sg16
+I107
+sg17
+VBíóferðir [Uppfært]
+p928
+sg19
+(lp929
+I59
+asg21
+VLazy?
+p930
+sg23
+(lp931
+ssa(dp932
+g2
+I64
+sg3
+Vnews.news
+p933
+sg5
+(dp934
+g7
+VThe k-th derivative
+p935
+sg9
+V**Partý**. Næsta föstudagskvöld **klukkan 20:00** verður K-ta afleiðan haldin á **Glaumbar**. **Frír bjór** á meðan birgðir endast. **Partý**\u000a\u000aFyrir þá sem ekki þekkja til K-tu afleiðunnar þá er hún ekki brandarakvöld. K-ta afleiðan er háalvarlegur atburður, ekki jafn alvarlegur og ástandið í Darfúr, en líklega jafn alvarlegt og AIDS smit. Samt verður hlegið en líklega mun öllum leiðast. Í besta falli skilur enginn neitt í neinu og flestir drífa sig heim og horfa á Útsvar. Ef vel tekst til þá verður K-ta afleiðan súrasta kvöld ársins. K-ta afleiðan byggist samt algjörlega á ykkur kæru Stiglar. K-ta afleiðan er hæfileikakeppni þar sem enginn vinnur, allir taka þátt eða enginn tekur þátt og allir vinna, allir taka þátt og allir vinna eða enginn tekur þátt og enginn vinnur. Það eru allavega engin verðlaun.\u000a\u000aÞað veit enginn um hvað K-ta afleiðan snýst. Samt munu allir keppast við það að fara upp á svið á föstudaginn og reyna að útskýra það. Við viljum að **[þú](/simaskra/nemendur/ans3)** útskýrir það í máli, myndum, hljóði eða ljóði. Það eru engar reglur, ekkert verður skilgreint en eflaust munum við reyna að sanna eitthvað.\u000a\u000aEf þú veist ekki hvað K-ta afleiðan er þá ættirðu ekki að örvænta. Andaðu djúpt, íhugaðu augnablikið og sess þinn í keðju lífsins. Hallaðu þér síðan að náunganum og spyrðu hann hvort hann skilji yfirleitt eitthvað í einhverju. Kannski veit hann hvað K-ta afleiðan er. Finndu blómið innra með þér, því annars mun það ekki vaxa.\u000a\u000aK-ta afleiðan föstudaginn 11.apríl klukkan 20:00 á Glaumbar.\u000a\u000a
+p936
+sg11
+g12
+(S'\x07\xd8\x04\t\x169:\x0b\xe1r'
+p937
+tp938
+Rp939
+sg16
+I44
+sg17
+VK-ta afleiðan
+p940
+sg19
+(lp941
+I58
+asg21
+VNúna þegar árið er liðið ættirðu að skilja nógu mikið í íslensku til þess að skilja þennan texta. Ef ekki:\u000a\u000aThis Friday, it's disco party time! Glaumbar at eight p.m. Bring your [disco shoes and glimmer sunglasses](\u000ahttp://www.youtube.com/watch?v=7MZvPkUHfP0&feature=related). Free beer while the supplies last.\u000a\u000a
+p942
+sg23
+(lp943
+ssa(dp944
+g2
+I63
+sg3
+Vnews.news
+p945
+sg5
+(dp946
+g7
+VNo translation
+p947
+sg9
+VÚrslit kosninga eru eftirfarandi\u000a\u000a### Stjórn ###\u000a\u000a* *Drottning Stiguls*: [Stefanía](/simaskra/nemendur/sbo4/)\u000a* *Féhirðir*: [Arnaldur](/simaskra/nemendur/ass20/)\u000a* *Skáld:* [Jóhanna](/simaskra/nemendur/jos14/)\u000a* *Hófdýr:* [Erik](/simaskra/nemendur/ets1/)\u000a* *Tölvuhirðir/Auglýsingastjóri Ásgeir XVII:* [Helgi](/simaskra/nemendur/hfr1/)\u000a\u000a### Önnur embætti ###\u000a\u000a* *Endurskoðendur:* [Jóhann](/simaskra/nemendur/jthb2/) og [Kristján](/simaskra/nemendur/kre7/)\u000a* *Skorarfulltrúar í stærðfræði:* [Stefán](/simaskra/nemendur/sth4/) og [María](/simaskra/nemendur/mao14/)\u000a* *Skorarfulltrúi í eðlisfræði:* [Birgir](/simaskra/nemendur/bua1/)\u000a* *Íþróttafulltrúi:* [Magnús](/simaskra/nemendur/mthb2/)\u000a* *Nemendaráðgjafar:* [Örn](/simaskra/nemendur/ors1/) og [Bjarni](/simaskra/nemendur/brg14/)\u000a\u000a* *Ritstjórn Verpils:* "The Dream Team" : [Freyr](/simaskra/nemendur/frs1/), [Einar](/simaskra/nemendur/ebg6/) og [Ólafur](/simaskra/nemendur/olj5/)\u000a\u000a### Lagabreytingatillögur ###\u000a\u000aFyrsta tillaga, lögð fram af Daða var samþykkt:\u000a\u000a> Efnisskiptingu laga Stiguls verður breytt á þann veg að í stað grein 0-x komi þess í stað kaflar 0 \u2013 x og undirkaflar sem nefndir   verða greinar. \u000a\u000aÖnnur tillaga, einnig lögð fram af Daða var samþykkt:\u000a\u000a#### Breyting á kafla IV, grein IV ####\u000a\u000aVar:\u000a\u000a> Formaður skal nefndur forseti. \u000a\u000aVerður\u000a\u000a> Formaður skal nefndur konungur/drottning. Höll konungs/drottningar eru félagsaðstaða Stiguls. Meðlimir í Stigli eru þegnar hans/hennar. Um konung/drottningu er aðall. Hlutverk aðals eru skilgreind í greinum III, V, VI, VII. \u000a\u000a> Opinber klæðnaður konungs/drottningar er hirðskikkja Stiguls. Konungur/drottning skal að minnsta kosti klæðast opinberum klæðnaði sínum á aðalfundi, fyrstu viku skólaársins og á sérhverjum opinberum atburði Stiguls.\u000a\u000a#### Breyting á kafla IV, grein VIII ####\u000a\u000aVar:\u000a\u000a> Á stjórnarfundum ræður meirihluti. Falli atkvæði jafnt skal atkvæði forseta ráða. \u000a\u000aVerður:\u000a\u000a> Á stjórnarfundum ræður meirihluti. Falli atkvæði jafnt skal atkvæði konungs/drottningar ráða.\u000a\u000aÞriðja og síðasta lagabreytingatillaga, lögð fram af undirrituðum\u000a\u000aBætt verður við lögin nýjum kafla\u000a\u000a> Kafli IX. Önnur mál\u000a>\u000a> Grein I. \u000a>\u000a> Stigull skal hefja hvert skólaár á því að kaupa eða útvega fjórar nýjar fræðibækur, tvær um stærðfræði og tvær um eðlisfræði.\u000a>\u000a> Stjórn félagsins skal kynna sex bóka úrtak fyrir 1. október; úrtakið skal samanstanda af þremur bókum um stærðfræði og þremur bókum um eðlisfræði. Félagsmenn velja síðan úr tvær bækur um stærðfræði og tvær bækur um eðlisfræði í lýðræðislegri kosningu.\u000a>\u000a> Bækurnar skulu ávallt geymdar í félagsaðstöðu nemenda þar sem allir félagsmenn hafa aðgang að þeim.\u000a\u000aÁ fundinum var rætt um IAESTE og hvort við hefðum sagt okkur úr því félagi á aðalfundi 2007. Það þarf því að fjarlægja þær greinar úr lögunum sem og bæta nýnemafulltrúanum Galois.\u000a\u000aLögin verða uppfærð innan nokkra daga.\u000a\u000aAllar athugasemdir skulur berast á stigull [hjá] hi [punktur] is
+p948
+sg11
+g12
+(S'\x07\xd8\x04\x07\x16.\x01\x05\x18e'
+p949
+tp950
+Rp951
+sg16
+I44
+sg17
+VNiðurstaða aðalfundar
+p952
+sg19
+(lp953
+sg21
+VWe were too lazy
+p954
+sg23
+(lp955
+ssa(dp956
+g2
+I62
+sg3
+Vnews.news
+p957
+sg5
+(dp958
+g7
+VNo translation
+p959
+sg9
+VVið vekjum athygli ykkar á styrk sem raunvísindadeildin við Háskólann í Lundi býður upp á  fyrir konur í grunnnámi í eðlisfræði eða stjörnufræði. Styrkurinn er í formi einskonar sumarvinnu þar sem ungum \u000avísindakonum er borgað 10,000 sænskar krónum á mánuði í 2 eða 3 mánuði í sumar. Það er reiknað með að umsækjendur séu langt komnir í grunnnáminu.  Umsóknarfrestur rennur út 21. apríl svo það er ekki mikill tími til stefnu. \u000a\u000aÞeir sem eru sleipir í sænsku geta kjammsað á þessu:\u000a\u000a"Inom ramen för jämställdhetsprogrammet utlyser institutionerna för teoretisk fysik och astronomi upp till fyra stipendier för förkovran inom inom ämnena teoretisk\u000aelementarpartikelfysik (1), beräkningsbiologi (1) och astronomi/astrofysik (2).\u000aKvinnliga studenter som till sommaren fullgjort tre år av sin grundutbildning inom lämpliga utbildningslinjer kan söka. Lämpliga utbildningslinjer för teoretisk\u000aelementarpartikelfysik och astronomi/astrofysik är fysikprogram inom naturvetarutbildningen eller teknisk fysik, medan för beräkningsbiologi kan en bakgrund dessutom\u000autgöras av datalogi, tillämpad matematik, nanoteknologi eller utbildningar inom biomedicin och kemi som innehåller en beräkningskomponent, till exempel bioinformatik.\u000aStipendierna, som avser två eller tre månader (10000/mån), skall under sommarmånaderna användas till fördjupningsstudier och projektdeltagande inom forskningsinriktningarna vid institutionen. Dessa studier kan eventuellt utgöra en förberedelse till framtida examensarbete.\u000a\u000aAnsökningar, som skall innehålla kort CV samt LADOK utdrag, skall vara institutionen för teoretisk fysik, Sölvegatan 14A, S-223 62 Lund, tillhanda senast den 21 april 2008.\u000aOm ej tillräckligt kvalificerade sökanden finnes, förbehåller sig institutionerna att ej utdela stipendium." \u000a\u000aEf það eru einhverjar áhugasamar þá get ég sent þeim meiri upplýsingar, en þær eru allar á sænsku!\u000a
+p960
+sg11
+g12
+(S'\x07\xd8\x04\x07\x0e\x07\x17\n\x16\x07'
+p961
+tp962
+Rp963
+sg16
+I133
+sg17
+VStyrkur til kvenna í grunnnámi í eðlisfræði-stjörnufræði
+p964
+sg19
+(lp965
+sg21
+VWe were too lazy
+p966
+sg23
+(lp967
+I1
+assa(dp968
+g2
+I61
+sg3
+Vnews.news
+p969
+sg5
+(dp970
+g7
+VAnnual meeting
+p971
+sg9
+VAnnað kvöld verður árlegur aðalfundur Stiguls haldinn í stofu 158 í VRII. Hefst fundurinn klukkan 19:30 og mun Stigull bjóða upp á pítsur og gos.\u000a\u000a### Dagskrá aðalfundar: ###\u000a	\u000a* Fundargerð síðasta aðalfundar.\u000a* Skýrsla stjórnar.\u000a* Endurskoðaðir reikningar lagðir fram.\u000a* Skorarfulltrúar kynna málefni skora.\u000a* Lagabreytingar. \u000a* Kosning nýrrar stjórnar.\u000a* Kosning tveggja endurskoðenda.\u000a* Kosning fulltrúa nemenda í stærðfræði- og eðlisfræðiskor\u000a* Kosning tveggja fulltrúa nemenda í Raunvísindadeild og tveggja varamanna þeirra.\u000a* Kosning fulltrúa nemenda í IAESTE-nefnd\u000a* Kosning íþróttafulltrúa félagsins\u000a* Kosning nemendaráðgjafa\u000a* Önnur mál.\u000a\u000aEftir fundinn röltum við svo yfir á Fálkagötu heim til Stefáns þar sem Stigull býður upp á eitthvað af veigum og ný stjórn verður krýnd með öli. Þeir sem ætla að endurtaka leikinn frá síðasta föstudagskvöldi ættu samt að taka með sér auka áfengi. \u000a\u000aStjórn Stiguls barst ein lagabreytingatillaga.\u000a\u000a#### Lagabreytingartillaga: ####\u000a\u000aHöfundur: Jóhann Þ. Bergþórsson\u000a\u000a> Bæta við nýrri grein laga sem svo hljóðar\u000a\u000a> 9\u005c. gr. Önnur mál\u000a>\u000a> 9.1. \u000a>\u000a> Stigull skal hefja hvert skólaár á því að kaupa eða útvega fjórar nýjar fræðibækur, tvær um stærðfræði og tvær um eðlisfræði.\u000a>\u000a> Stjórn félagsins skal kynna sex bóka úrtak fyrir 1. október; úrtakið skal samanstanda af þremur bókum um stærðfræði og þremur bókum um eðlisfræði. Félagsmenn velja síðan úr tvær bækur um stærðfræði og tvær bækur um eðlisfræði í lýðræðislegri kosningu.\u000a>\u000a> Bækurnar skulu ávallt geymdar í félagsaðstöðu nemenda þar sem allir félagsmenn hafa aðgang að þeim.
+p972
+sg11
+g12
+(S'\x07\xd8\x04\x03\x17\x06\t\x0cW\xc4'
+p973
+tp974
+Rp975
+sg16
+I44
+sg17
+VAðalfundur
+p976
+sg19
+(lp977
+sg21
+VTomorrow evening will Stigul's annual meeting be held in classroom 158 in VRII. The meeting starts at 19:30 and there will be free pizza and soda drinks. After the meeting we will stroll over to Stéfán's place and drink some free Stigul's beer and enjoy the evening with a new government.
+p978
+sg23
+(lp979
+ssa(dp980
+g2
+I60
+sg3
+Vnews.news
+p981
+sg5
+(dp982
+g7
+VBingo
+p983
+sg9
+VFimmtudagskvöldið 3. apríl og laugardaginn 5. apríl munu útskriftarnemar í land- og ferðamálafræði halda bingó. Er það gert til fjáröflunar útskriftarferðar til Thailands.\u000a\u000a### Fullorðinsbingó ###\u000a\u000aFimmtudagskvöld 3. apríl kl. 19:30 í Öskju.\u000aFullt af flottum vinningum. Sjoppa á staðnum - pizzusala.\u000a\u000a\u000a### Fjölskyldubingó ###\u000a\u000aLaugardaginn 5. apríl kl. 14:00 í Öskju.\u000aFullt af flottum vinningum. Sjoppa á staðnum - kökusala.\u000a\u000a\u000aVerð á bingóspjaldi er 500 kr. Eftir hlé er hvert spjald á 300 kr og tvö spjöld á 500 kr.\u000a\u000aMisstu ekki af þessum frábæru viðburðum!\u000a\u000a
+p984
+sg11
+g12
+(S'\x07\xd8\x04\x02\x13\x129\x0b6\xb3'
+p985
+tp986
+Rp987
+sg16
+I44
+sg17
+VBingó
+p988
+sg19
+(lp989
+I57
+aI56
+asg21
+VStudents in geography and tourism will be having a fund raising bingo for their gratuation trip to Thailand.\u000a\u000aThursday, April 3. at 19:30 in Askja. Refreshments for sale \u2013 pizzas.\u000a\u000aAnd Saturday April 5th there will be family bingo at 14:00 in Askja.\u000aRefreshments for sale \u2013 cakes.\u000a\u000aPrice: 500 kr. for one board. 300 kr for one board and 500 for two after\u000athe break.\u000a\u000aLots of great prizes and lots of fun.
+p990
+sg23
+(lp991
+ssa(dp992
+g2
+I59
+sg3
+Vnews.news
+p993
+sg5
+(dp994
+g7
+VNo translation
+p995
+sg9
+VFöstudagskvöldið 4. apríl kl. 21 heldur Sinfónían tónleika í röðinni\u000aHeyrðu mig nú!, sem sérstaklega er ætluð yngra fólki sem er forvitið\u000aum klassíska tónlist.\u000a\u000aTónleikarnir í þetta sinn verða óvenju sérstæðir þar sem gesturinn er Robert Levin, prófessor við Harvard og einn mesti snillingur í\u000aflutningi tónlistar Mozarts og Beethovens sem fyrirfinnst í dag.\u000aLevin mun kynna Ludwig van Beethoven fyrir tónleikagestum, leika\u000apíanókonsert nr. 3 eftir Beethoven með eigin kadensu sem hann spinnur á staðnum, og síðan mun hann spinna "fantasíu" um stef sem\u000atónleikagestir sjálfir semja og leggja til í kassa áður en\u000atónleikarnir hefjast.\u000a\u000aRobert Levin er einn frægasti píanóleikari Bandaríkjanna og hefur\u000ameðal annars leikið með helstu hljómsveitum í Boston, Chicago, Berlín og London.  Hann hefur hljóðritað alla píanókonserta Beethovens með John Eliot Gardiner, alla píanókonserta Mozarts með Christopher Hogwood, og leikið Wohltemperiertes Klavier eftir Bach inn á geisladisk sem hluta af heildarsafni Hanssler-útgáfunnar á verkum Bachs. Hann hefur fullgert Sálumessu Mozarts og nótur að\u000aeinleikskadensum hans að konsertum Mozarts hafa verið gefnar út á\u000aheimsvísu.\u000a\u000aMiðaverði á tónleikana er stillt í hóf og er aðeins 1000 kr.  Að\u000atónleikum loknum verður boðið upp á léttar veitingar í anddyri Háskólabíós og dj Þorbjörn mætir á svæðið. Þar gefst gestum tækifæri\u000atil að taka einleikara og stjórnanda tali, og meðlimir úr Sinfóníunni verða einnig á staðnum.  Þá verður happdrætti þar sem fjórir iPod-spilarar eru í vinning, í boði FL Group.\u000a\u000aVið hvetjum alla til að mæta á þessa spennandi tónleika og taka með\u000asér eigin stef á blaði handa Levin til að spinna út frá í lok\u000atónleikanna!
+p996
+sg11
+g12
+(S'\x07\xd8\x04\x01\x12 0\rV\x17'
+p997
+tp998
+Rp999
+sg16
+I44
+sg17
+VHEYRÐU MIG NÚ - Krassandi föstudagskvöld með Sinfóníuhljómsveit Íslands
+p1000
+sg19
+(lp1001
+I55
+asg21
+VWe were too lazy
+p1002
+sg23
+(lp1003
+ssa(dp1004
+g2
+I58
+sg3
+Vnews.news
+p1005
+sg5
+(dp1006
+g7
+VLatex symbols
+p1007
+sg9
+VEf einhver hefur einhvern tímann leitað að tákni í Latex þá er það líklega að finna [hér](/skrar/ymislegt/symbols-a4.pdf).
+p1008
+sg11
+g12
+(S"\x07\xd8\x03\x1b\x15\x02'\x06\x00\x0c"
+p1009
+tp1010
+Rp1011
+sg16
+I44
+sg17
+VTákn í Latex
+p1012
+sg19
+(lp1013
+sg21
+VEvery goddamn latex symbol imaginable rests [here](/skrar/ymislegt/symbols-a4.pdf).
+p1014
+sg23
+(lp1015
+ssa(dp1016
+g2
+I57
+sg3
+Vnews.news
+p1017
+sg5
+(dp1018
+g7
+VVífilfell, Amazeen and annual meeting
+p1019
+sg9
+V## Vífilfell og Amazeen ##\u000a\u000aÁ morgun er síðasta vísindaferð vetrarins en þá verður drykkjaframleiðandinn Vífilfell heimsóttur upp á Stuðlaháls 1. Ferðin hefst klukkan 17:00 en því miður er löngu yfirfullt í ferðina.\u000a\u000aÞeir sem voru ekki nógu fljótir að skrá sig í vísindaferðina þurfa þó ekki að örvænta vegna þess að eftir ferðina verður haldið niður í bæ, nánar tiltekið á Grettisgötu 55b, heim til [Baldurs](http://stigull.rhi.hi.is/simaskra/nemendur/bas4/) þar sem Grétar Amazeen fyrrum Stigull verður heiðraður. Fólk mun keppast við að segja skemmtisögur af kempunni en farið yfir feril hans í máli og myndum ... og það verður drukkið óhóflega mikið af sterku áfengi. Stigull býður upp á nokkrar flöskur en allir eru hvattir að koma með a.m.k. eina flösku svo *enginn* muni eftir síðustu vísindaferð vetrarins. Þannig hefði Grétar viljað hafa það ...\u000a\u000a## Aðalfundur ##\u000a\u000aFöstudaginn 4. apríl verður haldinn árlegur aðalfundur Stiguls. Á aðalfundi er kosið í embætti og farið yfir lög Stiguls. Lög Stiguls verða hengd upp í féló á morgun en þau má einnig sjá [hér](http://stigull.rhi.hi.is/upplysingar/log-stiguls/).\u000a\u000aAllar lagabreytingatillögur verða að hafa borist stjórninni fyrir fimmtudaginn 3. apríl. Best er að senda þær á stigull@hi.is\u000a\u000a### Stjórn ###\u000a\u000aHefð er fyrir því að nýnemar taki við stjórn. Þessum embættum er því sérstaklega beint til ykkar nýnema. Núna er tækifærið til að taka rækilega til hendinni, hefja grimma kosningabaráttu og sýna okkur vesælu stjórnarmeðlimum hvernig á að gera þetta.\u000a\u000a* Forseti\u000a* Féhirðir\u000a* Skáld\u000a* Hófdýr \u000a* Hölvuhirðir/auglýsingastjóri Ásgeir XVII\u000a\u000a### Önnur embætti ###\u000a\u000a* Tveir endurskoðendur\u000a* Tveir fulltrúar í stærðfræðiskor og tveir fulltrúar í eðlisfræðiskor (Spurning hvort þetta á við undir breyttu skipulagi HÍ? Þeir sem vita meira um málið mega hafa samband. (Ég á þá líklega við núverandi skorafulltrúa))\u000a* Tveir fulltrúar nemenda í Raunvísindadeild og tveir varamenn þeirra (Set einnig spurningarmerki við þetta)\u000a* Kosning íþróttafulltrúa \u000a* Kosning nemendaráðgjafa\u000a\u000aEinnig verður kosið í ráð sem mun sjá um útgáfu Verpils, tímarit félagsins. Ef eitthvað er að gleymast þá endilega látið okkur vita.\u000a\u000a## Lokaorð ##\u000a\u000aVið minnum að lokum á yfirferð eðlisfræðikeppninnar. Sjá nánar [hér](http://stigull.rhi.hi.is/frettir/56-landskeppnin-i-edlisfraedi/)\u000a\u000aGleymum öllu á morgun.
+p1020
+sg11
+g12
+(S'\x07\xd8\x03\x1b\x13#:\x0cJ\x9d'
+p1021
+tp1022
+Rp1023
+sg16
+I44
+sg17
+VVífilfell, Amazeen og aðalfundur
+p1024
+sg19
+(lp1025
+sg21
+VTomorrow night will Stigull visit the beverage producer Vifilfell at Stuðlaháls 1. The trip starts at 17:00 but at the moment there are no empty places on the trip. After the trip everyone will go to Baldur's home at Grettisgata 55b and honor the great Stigull, Grétar Amazeen. There we will only drink strong alcohol; Stigull will bring a few bottles but everyone is encouraged to bring a bottle or two.\u000a\u000aThe Friday after next hosts the annual meeting of Stigull where we will vote for a new administration and any changes of Stiguls' laws.
+p1026
+sg23
+(lp1027
+ssa(dp1028
+g2
+I56
+sg3
+Vnews.news
+p1029
+sg5
+(dp1030
+g7
+VNo translation
+p1031
+sg9
+VNæstkomandi laugardag verða haldin úrslit í landskeppninni í eðlisfræði. Keppnin verður frá 9 -12 og alls verða keppendurnir 14. Eftir að keppninni lýkur munum við strax hefjast handa við að fara yfir úrlausnirnar. Ég er því að leita að nokkrum einstaklingum til að hjálpa mér við yfirferðina og hugsanlega við samningu keppninnar líka. Að sjálfsögðu verður pizza og gos í boði.\u000a\u000aÁhugasamir geta komið við hjá mér á VRIII, sent mér póst eða hringt í síma 823-5444.\u000a\u000aBestu kveðjur,\u000aPétur Gordon Hermannsson
+p1032
+sg11
+g12
+(S'\x07\xd8\x03\x1b\x0e\x00\x07\x0cK0'
+p1033
+tp1034
+Rp1035
+sg16
+I44
+sg17
+VLandskeppnin í eðlisfræði
+p1036
+sg19
+(lp1037
+sg21
+VWe were too lazy
+p1038
+sg23
+(lp1039
+ssa(dp1040
+g2
+I55
+sg3
+Vnews.news
+p1041
+sg5
+(dp1042
+g7
+VTakk
+p1043
+sg9
+VTakk fyrir frábæra árshátíð en mér sýndust allir skemmta sér vel.\u000a\u000a[Hérna](/skrar/myndbond/StyrjaldirVorraTima_enc3.avi) er hið frábæra árshátíðarmyndband nýnemanna.\u000a\u000aEinnig er búið að bæta myndunum hans Daða frá Swing-dansinum og árshátíðinni sjálfri við myndmengið. Gaman væri ef þeir sem tóku myndir myndu senda okkur þær svo að við getum haft þetta allt á sama stað.\u000a
+p1044
+sg11
+g12
+(S"\x07\xd8\x03\x11\r'\n\x07G\xf1"
+p1045
+tp1046
+Rp1047
+sg16
+I44
+sg17
+VTakk fyrir frábæra árshátíð
+p1048
+sg19
+(lp1049
+I53
+aI52
+asg21
+VWe were too lazy
+p1050
+sg23
+(lp1051
+ssa(dp1052
+g2
+I54
+sg3
+Vnews.news
+p1053
+sg5
+(dp1054
+g7
+VPre-celebration party tomorrow
+p1055
+sg9
+VVið minnum á Swing danskennsluna í kvöld kl. 19:45 í íþróttahúsi Háskólans. [Helgi sundkappi](http://en.wikipedia.org/wiki/Holy_Diver) verður á staðnum og alvöru Swing-danskennarar. Vonumst til að sjá sem flesta.\u000a\u000aÁ morgun er svo árshátíðin. Fyrirpartíið er heima hjá Tómasi Jónassyni, Klapparstíg 29 (beint á móti Sirkus). Fjörið hefst klukkan 17:00 og eru að sjálfsögðu fullt af fríum veigum.
+p1056
+sg11
+g12
+(S'\x07\xd8\x03\x0e\r\x07\x0e\r\xbas'
+p1057
+tp1058
+Rp1059
+sg16
+I44
+sg17
+VSwing kvöld og fyrirpartí
+p1060
+sg19
+(lp1061
+sg21
+VWe have already told you all about this Balthasar. Just remember the pre-celebration party tomorrow \u000aFree alcohol and fun!
+p1062
+sg23
+(lp1063
+ssa(dp1064
+g2
+I53
+sg3
+Vnews.news
+p1065
+sg5
+(dp1066
+g7
+VAnnual Celebration week
+p1067
+sg9
+V## Miðasala á árshátíð ##\u000a\u000aÁ morgun er síðasti dagurinn til þess að kaupa miða á árshátíðina, en miðar eru seldir á milli 11:00 og 13:20 í VRII.\u000aEf fólk kemst ekki þá, þá er hægt að leggja miðaverðið inn á aðalreikninginn\u000a \u000a* Reikningsnúmer: 1151-26-002492\u000a* Kennitala: 440992-2779\u000a\u000aen þá verður kennitala/nafn kaupanda að koma skýrt fram. Ekki er hægt að kaupa miða á þennan hátt eftir klukkan 15:00 á morgun.\u000a\u000a### Grænmetismatseðill ###\u000a\u000a* Forréttur: Gulrótar og graskerssúpa.\u000a* Aðalréttur: Lagskipt grænmeti að grískum hætti.\u000a\u000aVinsamlegast látið vita ef þið viljið grænmetismatseðilinn þegar þið kaupið miðann.\u000a\u000a## Árshátíðarkvikmyndakvöld ##\u000a\u000aAnnað kvöld er svo árshátíðarkvikmyndakvöld þar sem sýndar verða stórmyndirnar Casablanca og The Sting. Nánari upplýsingar [hér](http://stigull.rhi.hi.is/atburdir/39-arshatidar-kvikmyndakvold/).\u000a\u000a## Föstudagur: Swing danskennsla ##\u000a\u000aÁ föstudagskvöldið munu nemendafélögin þrjú hittast í íþróttahúsi Háskólans frá kl.19.45 til 21.15 og læra Swing dansa. Þetta er frábært tækifæri fyrir alla einhleypa Stigla til þess að æfa kynþokkafull dansspor sem gætu heillað aðila af hinu kyninu á laugardaginn. (Engin loforð)\u000a\u000a## Laugardagur: Árshátíð ##\u000a\u000aÁ laugardaginn er svo eins og allir vita sjálf árshátíðin. Fyrirpartíið verður annað árið í röð heima hjá Tómasi Árna. Nánari upplýsingar um það síðar.\u000a\u000a\u000a\u000a
+p1068
+sg11
+g12
+(S'\x07\xd8\x03\x0b\x13\x16-\x01^\xa0'
+p1069
+tp1070
+Rp1071
+sg16
+I44
+sg17
+VÁrshátíðarvikan
+p1072
+sg19
+(lp1073
+sg21
+V## Last chance to buy tickets ##\u000a\u000aThe last chance to buy tickets for the annual celebration this Saturday will be tomorrow between 11:00 and 13:20 in VRII! It is also possible to transfer the amount to our account before 15.00 tomorrow\u000a\u000a* Account: 1151-26-002492\u000a* SSN: 440992-2779\u000a\u000a## Vegetarian menu ###\u000a\u000a* Starter: Carrot and pumpkin soup\u000a* Main course: Layered vegetables ala Greece\u000a\u000aPlease say so when you buy the tickets if you would like the vegetarian menu\u000a\u000a## This week ##\u000aTomorrow night (Wednesday) the three student bodies will show the films Casablanca and The Sting in classroom 158 in VRII. The screening starts at 20:00.\u000a\u000aFriday night's dance seminar is your chance to learn Swing dances from 19:45 to 21:15 at the HÍ gymnasium.\u000a\u000a
+p1074
+sg23
+(lp1075
+ssa(dp1076
+g2
+I52
+sg3
+Vnews.news
+p1077
+sg5
+(dp1078
+g7
+VTicket sale
+p1079
+sg9
+VVið minnum á árshátíðarmiðasöluna í dag og á morgun frá 11:00 til 13:20 í VRII.\u000a\u000a
+p1080
+sg11
+g12
+(S'\x07\xd8\x03\x0b\x0c \x19\r\x06{'
+p1081
+tp1082
+Rp1083
+sg16
+I44
+sg17
+VMiðasala
+p1084
+sg19
+(lp1085
+sg21
+VTickets for the annual celebration will be on sale, today and tomorrow  from 11:00 to 13:20 in VRII
+p1086
+sg23
+(lp1087
+ssa(dp1088
+g2
+I51
+sg3
+Vnews.news
+p1089
+sg5
+(dp1090
+g7
+VAnnual Celebration preprations
+p1091
+sg9
+VNú fer að koma að því, árshátíðin á næsta leyti. Það hefur vonandi ekki farið fram hjá neinum að í ár er stórskemmtilegt þema og við vonum að allir nýti tækifærið og hleypi sínum innri hefðarketti út.\u000a\u000aHér eru slóðir á nokkrar síður og myndbönd sem geta hjálpað til við undirbúninginn. Von á fleirum síðar.\u000a\u000a[40´s hair do in 5 minutes](http://youtube.com/watch?v=e2QyEWv4WDo&feature=)\u000a\u000a[Pin-up girl make up] (http://youtube.com/watch?v=neGIurzTRBI)\u000a\u000a[Hér] (http://www.angelfire.com/retro2/lisa/nostalgia.html) er ágæt síða um tískutímabil.\u000a\u000aSvo er líka ágætt að fletta upp Ritu Hayworth, Veronicu Lake, Betty Page og fleirum til þess að fá hugmyndir ;o)
+p1092
+sg11
+g12
+(S'\x07\xd8\x03\x08\x0f\x06\n\n\xa6\x9c'
+p1093
+tp1094
+Rp1095
+sg16
+I133
+sg17
+VÁrshátíðarundibúningur
+p1096
+sg19
+(lp1097
+sg21
+VAbove are a few links to fashion, make up and hair do tips for the theme on the annual celebration, which is the 40´s.
+p1098
+sg23
+(lp1099
+ssa(dp1100
+g2
+I50
+sg3
+Vnews.news
+p1101
+sg5
+(dp1102
+g7
+VQuiz and chess tournament
+p1103
+sg9
+VAnnað kvöld verður hið árlega skákmót og hin árlega spurningakeppni Stiguls haldin í Féló. Vinningar eru í boði í báðum flokkum og eru allir hvattir til þess að byrja kvöldið á rólegu nótunum í Féló áður en haldið er niður í bæ. Hefst þetta allt saman klukkan 21:00.\u000a\u000aSíðan tilkynnum við það hér með að miðasala á árshátíðina hefst á mánudaginn klukkan 11 í VRII
+p1104
+sg11
+g12
+(S'\x07\xd8\x03\x06\x13\x07%\x0b\xf1\xa0'
+p1105
+tp1106
+Rp1107
+sg16
+I44
+sg17
+VSkákmót og spurningakeppni
+p1108
+sg19
+(lp1109
+sg21
+VTomorrow night at 21:00 will Stigul's annual chess and quiz tournament  be held in Féló. Great prizes and an excellent place to start the night.\u000a\u000aThe tickets to the annual celebration will be on sale on Monday at 11:00 in VRII.
+p1110
+sg23
+(lp1111
+ssa(dp1112
+g2
+I49
+sg3
+Vnews.news
+p1113
+sg5
+(dp1114
+g7
+VNo translation
+p1115
+sg9
+VEyja ein, langt út á Grumagaliahafi er þakin mjög vel þenkjandi frumstæðum eyjaskeggjum. Þeir eru mjög rökréttir í hugsun og vita að hinir eyjaskeggjarnir eru rökréttir í hugsun og vita að allir vita að þeir séu rökréttir í hugsun, o.s.frv. Þeir hafa ýmist blá eða brún augu, fyrir nákvæmni, þá segjum við að af þeim k mönnum sem búa á eyjunni, þá eru n af þeim með blá augu. þar sem n,k \u005cin C (LOL). Þeir, eins og aðrir u.þ.b. vitibornir menn hafa sína trú. Hún felur meðal annars í sér að stranglega bannað sé að vita sinn augnlit og ber þeim sem hann vita að fyrirfara sér á altari guðanna um nón næsta dags.\u000a\u000aEftir sátt og samlyndi í tugþúsundir ára, einangaraðir frá umheiminum, finnur þá ferðalangur einn. Hann nær að vinna heilli þeirra og fær að dvelja hjá þeim um sinn. Er nálgast  fer að brottför hans ákveður hann að halda örlitla þakkarræðu fyrir gestristni og gott smurt brauð. Í lok ræðu sinnar segir hann eftirfarandi "...Þykir mér einkennilegt að til sé annar maður, á þessum stað jarðkringlunar, sem einnig er bláeygður". Þetta hefur afdrifarík örlög eyjaskeggjanna í för með sér, því á n+1'sta degi, eru þeir allir dauðir. \u000a\u000aSpurning mín, til ykkar , er sú , hví? útskýrið.\u000a\u000a[Lausn hér.](http://www.hi.is/~sth4)\u000a
+p1116
+sg11
+g12
+(S'\x07\xd8\x03\x05\x13\t#\x00\xf3\xc3'
+p1117
+tp1118
+Rp1119
+sg16
+I70
+sg17
+VBláeygði mógullinn og félagar hans.
+p1120
+sg19
+(lp1121
+I51
+asg21
+VWe were too lazy
+p1122
+sg23
+(lp1123
+ssa(dp1124
+g2
+I48
+sg3
+Vnews.news
+p1125
+sg5
+(dp1126
+g7
+VAnnual Celebration
+p1127
+sg9
+VÞá er komið að árshátíð Stiguls, Hvarfs og Hnallþóru en hún verður haldin 15. mars næstkomandi á Hótel Sögu.\u000a\u000aHérna er matseðillinn:\u000a\u000a* Forréttur: Blackeraður lax á steinseljurótarmauki með teriyakisósu og stökku kryddjurtasalati.\u000a* Aðalréttur: Spínat og salvíufyllt kalkúnabringa með kartöflugratíni og madeirasósa\u000a* Eftirréttur: Þriggja laga súkkulaðifrauð með ananas og rósapiparsýrópi\u000a\u000aog kosta herlegheitin \u000a\u000a* 3000 kr fyrir Stigla sem greiða með SPRON námsmannakorti, \u000a* 4500 kr fyrir meðlimi í Stigli\u000a* 5500 kr fyrir aðra.\u000a\u000aÍ ár var ákveðið að hafa Casablanca/Chicago 30's þema, þ.e. fólk er hvatt til að mæta í sparifötum í stíl við 1940 ± 10. Ef fólk er í vanda þá eru The Sting og Casablanca góðar kvikmyndir og áreiðanlegar heimildir um klassískan klæðaburð.\u000a\u000aEitthvað verður um dagskrá í árshátíðarvikunni, en hún verður tilkynnt þegar nær dregur eins og hvernig staðið verður að miðasölu.\u000a\u000a
+p1128
+sg11
+g12
+(S'\x07\xd8\x03\x03\x0f\x16\x1f\x0b\x1c\xab'
+p1129
+tp1130
+Rp1131
+sg16
+I44
+sg17
+VÁrshátíð
+p1132
+sg19
+(lp1133
+sg21
+VStigul's annual celebration will be held on the 15th of March at Hótel Saga.\u000a\u000aMenu:\u000a\u000a* Starter: Blackened salmon with teriyaki sauce\u000a* Main course: Spinach and sage filled turkey breast with potato gratin and madeira sauce\u000a* Dessert: Three layered chocolate mousse with pineapple and rosepepper syrup\u000a\u000aPrice:\u000a\u000a* 3000 for members of Stigull who pay the tickets with SPRON debit/creditcard\u000a* 4500 for members of Stigull\u000a* 5500 for others\u000a\u000aThe theme of the ball is Casablanca/Chicago thirties.\u000a
+p1134
+sg23
+(lp1135
+ssa(dp1136
+g2
+I46
+sg3
+Vnews.news
+p1137
+sg5
+(dp1138
+g7
+VNo translation
+p1139
+sg9
+VHér er smá þraut þar sem ég hef lítið annað að gera en að liggja lemstraður og aumingjalegur upp í sófa, veikur.\u000a\u000aGefið sé mengið M={1,2,3,....,2n}. Búum okkur til tvær runur úr mengi M. önnur vaxandi, a1 < a2 < .... < an, en hin minnkandi b1 > b2 > .... > bn. Sýnið eftirfarandi:\u000a\u000a|a1-b1| + .... + |an-bn| = n^2.
+p1140
+sg11
+g12
+(S'\x07\xd8\x02\x1b\x14.\x0e\n8\x05'
+p1141
+tp1142
+Rp1143
+sg16
+I70
+sg17
+VProizvolov og glitrandi andagift hugans.
+p1144
+sg19
+(lp1145
+I49
+asg21
+VI am the backwards man.
+p1146
+sg23
+(lp1147
+ssa(dp1148
+g2
+I45
+sg3
+Vnews.news
+p1149
+sg5
+(dp1150
+g7
+VNo translation
+p1151
+sg9
+VGyllt augnablik\u000a\u000a* [Kynþokki](/skrar/myndbond/kynthokkafullur_olafur.avi)\u000a* [Hlátur](/skrar/myndbond/kiddi_rokk.avi)\u000a* [Innlifun] (/skrar/myndbond/bobo_im_gonna_leave_you.avi)\u000a
+p1152
+sg11
+g12
+(S'\x07\xd8\x02\x16\x0b\x07\x18\x07u\xf5'
+p1153
+tp1154
+Rp1155
+sg16
+I44
+sg17
+VAugnablik
+p1156
+sg19
+(lp1157
+I44
+aI43
+asg21
+VWe were too lazy
+p1158
+sg23
+(lp1159
+ssa(dp1160
+g2
+I14
+sg3
+Vnews.news
+p1161
+sg5
+(dp1162
+g7
+VNo title
+p1163
+sg9
+VÍ gær var í síðasta skipti vaskað upp eftir ykkur sóðana sem eyðið frítíma ykkar í féló. Ef vaskurinn verður aftur eins og hann var í gær, uppfullur af skítugu leirtaui og myglaðri g-mjólk verður öllu leirtaui pakkað niður og hent.\u000a\u000aÞað er auðvelt að vaska upp eftir sig og henda rusli. Gerum það.
+p1164
+sg11
+g12
+(S'\x07\xd8\x02\x15\x16\x0e,\x01\x8b\xf8'
+p1165
+tp1166
+Rp1167
+sg16
+I44
+sg17
+VUmgengni í féló
+p1168
+sg19
+(lp1169
+I47
+aI45
+aI42
+asg21
+VWe were too lazy
+p1170
+sg23
+(lp1171
+ssa(dp1172
+g2
+I13
+sg3
+Vnews.news
+p1173
+sg5
+(dp1174
+g7
+VKaupthing bank
+p1175
+sg9
+VVið minnum á vísindaferðina í Kaupþing á föstudaginn. Ferðin hefst klukkan 17:00 og er mæting í aðalstöðvar bankans í Borgartúni 19. Ennþá eru þrjú laus pláss en nú fer hver að verða síðastur.
+p1176
+sg11
+g12
+(S'\x07\xd8\x02\x13\x08\x02+\x07\x86C'
+p1177
+tp1178
+Rp1179
+sg16
+I44
+sg17
+VKaupþing
+p1180
+sg19
+(lp1181
+I41
+asg21
+VThis Friday we are invited to the headquarters of international bank Kaupthing in Borgartún 19. The invitation starts at 17:00.
+p1182
+sg23
+(lp1183
+ssa(dp1184
+g2
+I12
+sg3
+Vnews.news
+p1185
+sg5
+(dp1186
+g7
+VExamples really do proof.
+p1187
+sg9
+VÉg hef heyrt á förnum vegi að fólk sé ekki alls kostar sammála um hversu awesome það er að segja awesome. Ég hef komist að sannleikanum, hann er að finna í þessari kviku mynd.\u000a\u000a[Awesome](http://www.b2.is/?sida=tengill&id=274518)\u000a\u000aVarúð, Michael Bay framundan.
+p1188
+sg11
+g12
+(S'\x07\xd8\x02\x11\x13\x0b(\x03\xa0\t'
+p1189
+tp1190
+Rp1191
+sg16
+I70
+sg17
+VDæmi í raun og veru sanna.
+p1192
+sg19
+(lp1193
+I40
+aI39
+aI38
+asg21
+VBecause I am awesome, i will translate. On my rocky journey through the dark streets of Reykjavík it has come to my attention that people do not agree on wether or not the word awesome is in fact awesome to say. But I have proof, it is awesome.\u000a\u000a[Awesome](http://www.b2.is/?sida=tengill&id=274518)\u000a\u000aBe warned, Michael Bay ahead.
+p1194
+sg23
+(lp1195
+ssa(dp1196
+g2
+I11
+sg3
+Vnews.news
+p1197
+sg5
+(dp1198
+g7
+VNo translation
+p1199
+sg9
+VÁ föstudaginn verður farið í vísindaferð til Landsvirkjunar. Mæting er á Háaleitisbraut 68 (Austurver) kl. 16.30 og stendur heimsóknin yfir til 18.30.
+p1200
+sg11
+g12
+(S'\x07\xd8\x02\r\t;\x06\x07.\xa6'
+p1201
+tp1202
+Rp1203
+sg16
+I133
+sg17
+VLandsvirkjun - virkjun allra landsmanna
+p1204
+sg19
+(lp1205
+sg21
+VThe Landsvirkjun vísindaferð will start at 16.30 on Friday. Landsvirkjun is located at Háaleitisbraut 68, also known as the shopping complex "Austurver". See you there!
+p1206
+sg23
+(lp1207
+ssa(dp1208
+g2
+I10
+sg3
+Vnews.news
+p1209
+sg5
+(dp1210
+g7
+VNo translation
+p1211
+sg9
+VÞað er ekki komin endanleg tímasetning á vísindaferð í LV, en hún verður síðar en kl. 15. 
+p1212
+sg11
+g12
+(S'\x07\xd8\x02\x0c\x11\x05-\x05\xbc\xc7'
+p1213
+tp1214
+Rp1215
+sg16
+I133
+sg17
+VVísindaferð í Landsvirkjun
+p1216
+sg19
+(lp1217
+sg21
+VThe time for the Landsvirkjun vísindaferð will be announced soon, but it will be later than 15.00.
+p1218
+sg23
+(lp1219
+ssa(dp1220
+g2
+I9
+sg3
+Vnews.news
+p1221
+sg5
+(dp1222
+g7
+VLandsbanki, annual celebration and beer
+p1223
+sg9
+VSælir Stiglar\u000a\u000aÁ morgun er vísindaferð í Landbankann, banka allra landsmanna. Ferðin hefst klukkan 17:00 og er mæting í Hafnarstræti 5, á fjórðu hæð en inngangurinn er undir brúnni sem liggur á milli húsanna, Veiðibúðarmegin. Ferðin í fyrra var mjög vegleg og var mjög gaman og fróðlegt að spjalla við prúðbúna bankastarfsmennina. Hver veit nema einhver komi heim með sumarstarf í farteskinu?\u000a\u000a### Árshátíð ###\u000a\u000aÁrshátíð Stiguls verður haldin **15. mars** á Hótel Sögu með Hvarfi, félagi efnafræðinga og Hnallþóru, félagi matvælafræðinga. Allir eru hvattir til að taka daginn frá enda verðu miðaverð sanngjarnt (sérstaklega fyrir þá sem borga með Spron korti) og mikið **stuð!** á ballinu. \u000a\u000aVið lýsum hér eftir aðila sem er tilbúinn að halda fyrirpartí.\u000a\u000aEinnig eru nýnemarnir minntir á það að það er þeirra að sjá um skemmtiatriði Stiguls þó að það verði erfitt að toppa atriðið frá því í fyrra.\u000a\u000a### Aðalfundur ###\u000a\u000aEinnig styttist í aðalfund en á honum eru lagabreytingar tillögur ræddar og kosið í nýja stjórn. Í tilefni af því er búið að birta lög Stiguls á heimasíðunni. Ef einhver man einhverjar samþykktar lagabreytingatillögur af síðasta aðalfundi skal sá hinn sami hafa samband.\u000a\u000a### Ný stjórn ###\u000a\u000aEins og með skemmtiatriði á árshátíð er það hlutverk nýnema að fylla upp í nýja stjórn svo ráð er á að þeir sem hafa áhuga á að stjórna hinu **spillta** nemendafélagi Stigli á næsta skólaári ættu að fara að hanna veggspjöld og safna undirskrifum. \u000a\u000aÁ næsta skólaári þarf einnig að fara að huga að útgáfu Verpils, hins virta tímarit okkar Stigla og þarf nokkra fallega og greinda einstaklinga í það. Þeir sem hafa áhuga á því ættu að ...\u000a\u000aAllt verður þetta ákveðið á aðalfundi sem verður haldinn einhvern tímann eftir árshátíð, líklega eftir páska.\u000a\u000a### Bjór ###\u000a\u000aVerðbólgan hefur látið finna fyrir sér því Vífilfell hefur hækkað verðið á bjórnum. Neyðumst við því til að hækka verðið á bjórnum úr **150 krónum upp í 170 krónur**. Hækkunin tekur gildi næsta mánudag og allar bjórskuldir munu því hækka í samræmi við það. Það er því ráð að **borga sínar skuldir fyrir helgi** svo þið lendið ekki í verðbólgunni.\u000a\u000aFleira var það ekki að sinni\u000a\u000aLifið vel!\u000a\u000a
+p1224
+sg11
+g12
+(S'\x07\xd8\x02\x07\x16\x15\x0b\x00+\xe8'
+p1225
+tp1226
+Rp1227
+sg16
+I44
+sg17
+VLandsbankinn, árshátíð og bjór
+p1228
+sg19
+(lp1229
+sg21
+V* Tomorrow:a trip to Landbanki, starts at 17:00\u000a* 15 . March: Annual celebration\u000a* Inflation: Beer price goes up! Pay your debts before monday or pay a higher price
+p1230
+sg23
+(lp1231
+ssa(dp1232
+g2
+I3
+sg3
+Vnews.news
+p1233
+sg5
+(dp1234
+g7
+VFramadagar
+p1235
+sg9
+V<p>&nbsp;</p>\u000a \u000a<p class="MsoNormal">Kynning &aacute; Framad&ouml;gum:</p>\u000a<p class="MsoNormal">Flest erum vi&eth; a&eth; mennta okkur til a&eth; geta unni&eth; vi&eth; &thorn;a&eth; sem\u000aokkur finnst skemmtilegt, til a&eth; b&uacute;a okkur betra l&iacute;f og v&iacute;kka\u000asj&oacute;ndeildarhringinn. En hvernig f&ouml;rum vi&eth; &thorn;&aacute; a&eth; &thorn;v&iacute; a&eth; finna &thorn;&aacute; vinnu sem\u000ahentar okkur sem best? Hva&eth;a eiginleikum s&aelig;kjast fyrirt&aelig;ki eftir &iacute; framt&iacute;&eth;arstarfsm&ouml;nnum?\u000aEr n&oacute;g a&eth; hafa g&oacute;&eth;ar einkunnir e&eth;a l&iacute;ta fyrirt&aelig;kin einnig og jafnvel frekar til\u000aannarra &thorn;&aacute;tta &iacute; fari okkar? Hva&eth; hefur vinnumarka&eth;urinn a&eth; bj&oacute;&eth;a okkur?</p>\u000a \u000a<p class="MsoNormal">&nbsp;</p>\u000a \u000a<p class="MsoNormal">&THORN;&uacute; getur n&aacute;&eth; forskoti &iacute; leitinni a&eth; atvinnu og &aacute;framhaldandi\u000an&aacute;mi me&eth; &thorn;v&iacute; a&eth; m&aelig;ta &aacute; Framadaga 2008. &THORN;ar getur&eth;u leita&eth; svara vi&eth; &thorn;essum og\u000a&ouml;&eth;rum spurningum sem kannt a&eth; hafa um fyrirt&aelig;kin &aacute; atvinnumarka&eth;num og fleira.\u000a&THORN;v&iacute; langar mig a&eth; bj&oacute;&eth;a &thorn;&eacute;r &aacute; Framadaga sem haldnir ver&eth;a &iacute; H&aacute;sk&oacute;lab&iacute;&oacute; &thorn;ann 1.\u000afebr&uacute;ar n&aelig;stkomandi &aacute; milli 11:00 og 16:00. &THORN;ar munu helstu fyrirt&aelig;ki\u000aatvinnul&iacute;fsins kynna starfsemi s&iacute;na fyrir &thorn;&eacute;r og &ouml;&eth;rum nemendum v&iacute;&eth;svegar af\u000alandinu.</p>\u000a \u000a<p class="MsoNormal">&nbsp;</p>\u000a \u000a<p class="MsoNormal">&Aacute; Framad&ouml;gum getur &thorn;&uacute;:</p>\u000a \u000a<ul style="margin-top: 0cm;" type="disc">\u000a<li class="MsoNormal">kynnst\u000a     &thorn;v&iacute; hva&eth;a t&aelig;kif&aelig;ri atvinnul&iacute;fi&eth; b&yacute;&eth;ur upp &aacute; a&eth; n&aacute;mi loknu </li>\u000a \u000a<li class="MsoNormal">fundi&eth;\u000a     &thorn;&eacute;r framt&iacute;&eth;arstarf e&eth;a sumarstarf </li>\u000a \u000a<li class="MsoNormal">kynnst\u000a     fulltr&uacute;um helstu fyrirt&aelig;kja &aacute; vinnumarka&eth;num</li>\u000a \u000a<li class="MsoNormal">komist\u000a     &iacute; samband vi&eth; fyrirt&aelig;ki sem vilja l&aacute;ta vinna lokaverkefni fyrir sig</li>\u000a \u000a<li class="MsoNormal">sko&eth;a&eth;\u000a     kosti um &aacute;framhaldandi n&aacute;m</li>\u000a \u000a<li class="MsoNormal">komi&eth;\u000a     &thorn;&eacute;r&nbsp;og &thorn;&iacute;num hugmyndum &aacute; framf&aelig;ri</li>\u000a \u000a</ul>\u000a<p class="MsoNormal">&nbsp;</p>\u000a \u000a<p class="MsoNormal">&THORN;&uacute; getur n&aacute;lgast frekari uppl&yacute;singar um Framadaga &aacute; <a href="http://www.framadagar.is/">www.framadagar.is</a>. Vi&eth; hl&ouml;kkum til a&eth; sj&aacute;\u000aykkur!</p>\u000a \u000a<p class="MsoNormal">&nbsp;</p>\u000a \u000a<p class="MsoNormal">Framkv&aelig;mdastj&oacute;rn Framadaga 2008</p>\u000a \u000a<p class="MsoNormal">Netfang: <a href="mailto:framadagar [hj&aacute;] gmail [punktur] com">framadagar [hj&aacute;] gmail [punktur] com</a></p>
+p1236
+sg11
+g12
+(S'\x07\xd8\x01\x1c\t-;\n\x03G'
+p1237
+tp1238
+Rp1239
+sg16
+I44
+sg17
+VFramtíðin bíður þín á Framadögum
+p1240
+sg19
+(lp1241
+sg21
+V<p>Visit <a href="http://www.framadagar.is">www.framadagar.is</a> for more info</p>
+p1242
+sg23
+(lp1243
+ssa(dp1244
+g2
+I2
+sg3
+Vnews.news
+p1245
+sg5
+(dp1246
+g7
+VUpdated website and SPRON
+p1247
+sg9
+V<p>Eflaust hafa nokkrir teki&eth; eftir &thorn;v&iacute; a&eth; vi&eth; erum b&uacute;in a&eth; uppf&aelig;ra heimas&iacute;&eth;u Stiguls. Gamla s&iacute;&eth;an var alltaf d&aacute;ldi&eth; h&aacute;lf kl&aacute;ru&eth; en n&yacute;ja s&iacute;&eth;an b&yacute;r yfir flestum &thorn;eim m&ouml;guleikum sem st&oacute;&eth; til a&eth; innlei&eth;a.</p>\u000a \u000a<p>St&aelig;rstu breytingarnar eru eflaust &thorn;&aelig;r a&eth; myndmengi&eth; virkar og b&uacute;i&eth; er a&eth; hla&eth;a inn &ouml;llum &thorn;eim myndas&ouml;fnum sem voru &aacute; eldg&ouml;mlu heimas&iacute;&eth;unni. Ef einhver &thorn;arna &uacute;ti lumar &aacute; myndasafni er s&aacute; hinn sami hvattur til &thorn;ess a&eth; senda okkur &thorn;a&eth; svo allir geti noti&eth; &thorn;ess.</p>\u000a \u000a<p>Einnig er b&uacute;i&eth; a&eth; innlei&eth;a gl&oacute;susafn &thorn;ar sem innskr&aacute;&eth;ir notendur geta hla&eth;i&eth; inn gl&oacute;sum. Ef &thorn;a&eth; vantar &thorn;a&eth; n&aacute;mskei&eth; sem &thorn;i&eth; eigi&eth; gl&oacute;sur fyrir hafi&eth; &thorn;&aacute; samband &aacute; <a href="mailto:stigull [hj&aacute;] hi [punktur] is">stigull [hj&aacute;] hi [punktur] is.</a></p>\u000a \u000a<p>&THORN;a&eth; er b&uacute;i&eth; a&eth; opna fyrir skr&aacute;ningu &iacute; v&iacute;sindafer&eth; til SPRON sem ver&eth;ur farin n&aelig;sta f&ouml;studag. Gu&eth;j&oacute;n vinur okkar hj&aacute; &thorn;eim vill helst f&aacute; &aacute;&aelig;tla&eth;a m&aelig;tingu n&aelig;sta mi&eth;vikudag svo &thorn;i&eth; eru&eth; be&eth;in um a&eth; skr&aacute; ykkur sem fyrst.</p>\u000a \u000a<p>A&eth; lokum vil &eacute;g bi&eth;ja &thorn;&aacute; sem eiga eftir a&eth; senda inn mynd af s&eacute;r fyrir s&iacute;&eth;una og nemendaf&eacute;lagskort a&eth; gera &thorn;a&eth; &iacute; dag, &thorn;v&iacute; kortin ver&eth;a prentu&eth; &uacute;t um helgina og &aelig;ttu a&eth; vera tilb&uacute;in &iacute; n&aelig;stu viku.</p>\u000a \u000a<p>Sj&aacute;umst svo &ouml;ll &iacute; sp&oacute;lum og snakki &aacute; morgun &iacute; F&eacute;l&oacute;</p>\u000a \u000a<p>Kve&eth;ja</p>\u000a \u000a<p>J&oacute;hann</p>
+p1248
+sg11
+g12
+(S'\x07\xd8\x01\x19\x0b\x03\x1a\n\xf74'
+p1249
+tp1250
+Rp1251
+sg16
+I44
+sg17
+VUppfærð heimasíða og SPRON
+p1252
+sg19
+(lp1253
+sg21
+V<p>We have improved the websites and added a gallery and a library of notes. If you have a gallery of some event or some well written notes for a difficult course, please send it to us.</p>\u000a \u000a<p>Next Friday there will be a trip to the bank SPRON. Registered users can sign up for the trip and should do so before the next Wednesday.</p>
+p1254
+sg23
+(lp1255
+ssa(dp1256
+g2
+I1
+sg3
+Vnews.news
+p1257
+sg5
+(dp1258
+g7
+VNo trip tomorrow! Hangover day
+p1259
+sg9
+V<p>H&aelig;</p>\u000a \u000a<p>&THORN;v&iacute; mi&eth;ur er engin v&iacute;sindafer&eth; &aacute; f&ouml;studaginn vegna &thorn;ess a&eth; Landsvirkjun<br />&thorn;urfti a&eth; f&aelig;ra hana til 15. febr&uacute;ar. &Iacute; sta&eth;inn ver&eth;ur enginn atbur&eth;ur &aacute; f&ouml;studaginn en f&oacute;lk er hvatt til &thorn;ess a&eth; sleppa fram af s&eacute;r beislinu &aacute; eigin vegum. &Aacute; laugardaginn ver&eth;ur nefnilega &thorn;ynnkudagur Stiguls, en fr&aacute; h&aacute;degi ver&eth;a s&yacute;ndar &yacute;msar &thorn;ynnkumyndir &aacute; brei&eth;tjaldi og Stigull b&yacute;&eth;ur upp &aacute; gos og snakk.</p>\u000a \u000a<p>Ef f&oacute;lk er duglegt a&eth; borga &iacute; bj&oacute;rsj&oacute;&eth; &thorn;&aacute; ver&eth;ur bj&oacute;r til s&ouml;lu &iacute; &iacute;ssk&aacute;pnum, og &thorn;egar f&oacute;lk ver&eth;ur svangt er tilvali&eth; a&eth; para sig saman og panta p&iacute;tsur.</p>\u000a \u000a<p>Vonumst til a&eth; sj&aacute; sem flesta &iacute; &thorn;ynnkunni<br /><br />Einnig minnum vi&eth; &thorn;&aacute; sem drekka kaffi a&eth; borga &iacute; kaffisj&oacute;&eth; (sj&aacute; bla&eth; fyrir ofan vaskinn) og n&yacute;nemana til a&eth; fara a&eth; huga a&eth; &aacute;rsh&aacute;t&iacute;&eth;aratri&eth;i, en &thorn;a&eth; er g&ouml;mul og g&oacute;&eth; hef&eth; a&eth; n&yacute;nemarnir skemmti hinum eldri &aacute;rsh&aacute;t&iacute;&eth;arkv&ouml;ldinu (sem ver&eth;ur l&iacute;klega laugardaginn 15.mars)</p>\u000a \u000a<p>Kve&eth;ja<br />Stj&oacute;rnin</p>
+p1260
+sg11
+g12
+(S'\x07\xd8\x01\x18\x12\x04\x1d\x05?>'
+p1261
+tp1262
+Rp1263
+sg16
+I44
+sg17
+VEngin vísindaferð - þynnkudagur!
+p1264
+sg19
+(lp1265
+sg21
+V<p>The trip to Landsvirkjun that was planned for this Friday has been<br />moved to the 15th of February.</p>\u000a \u000a<p>Instead there is a hangover movie fest the Saturday that starts at<br />12:00. Free soda and snacks.</p>
+p1266
+sg23
+(lp1267
+ssa(dp1268
+g2
+I44
+sg3
+Vnews.news
+p1269
+sg5
+(dp1270
+g7
+VNo translation
+p1271
+sg9
+V&Aacute; f&ouml;studaginn ver&eth;ur v&iacute;sindafer&eth; &iacute; Capacent. Fari&eth; ver&eth;ur me&eth; efnafr&aelig;&eth;ingunum &iacute; Hvarfi og a&eth;eins 20 komast fr&aacute; hvoru f&eacute;lagi. Eins og stendur er &thorn;v&iacute; fullb&oacute;ka&eth; &iacute; fer&eth;ina. Fer&eth;in hefst kl. 17:00 og m&aelig;ting er &iacute; Borgart&uacute;n 27.
+p1272
+sg11
+g12
+(S'\x07\xd8\x01\x0f\x0e\x13-\x00\x00\x00'
+p1273
+tp1274
+Rp1275
+sg16
+I82
+sg17
+VVísindaferð í Capacent
+p1276
+sg19
+(lp1277
+sg21
+VWe were too lazy
+p1278
+sg23
+(lp1279
+ssa(dp1280
+g2
+I43
+sg3
+Vnews.news
+p1281
+sg5
+(dp1282
+g7
+VNo translation
+p1283
+sg9
+VVi&eth; minnum &aacute; v&iacute;sindafer&eth;ina &iacute; Talnak&ouml;nnun &aacute; f&ouml;studaginn. H&uacute;n byrjar kl. 16:00 og m&aelig;ting er &iacute; Borgart&uacute;n 23.
+p1284
+sg11
+g12
+(S'\x07\xd8\x01\t\x10\x04\x1e\x00\x00\x00'
+p1285
+tp1286
+Rp1287
+sg16
+I82
+sg17
+VVísindaferð í Talnakönnun
+p1288
+sg19
+(lp1289
+I35
+asg21
+VWe were too lazy
+p1290
+sg23
+(lp1291
+ssa(dp1292
+g2
+I42
+sg3
+Vnews.news
+p1293
+sg5
+(dp1294
+g7
+VNo translation
+p1295
+sg9
+VG&oacute;&eth;an dag og gle&eth;ilega helgi<br />&THORN;eir sem &aelig;tla til Akureyrar &aelig;ttu a&eth; vita af &thorn;v&iacute; a&eth; gist er &iacute; f&eacute;lagsheimili &THORN;&oacute;rs, Skar&eth;shl&iacute;&eth;. Einnig er mikilv&aelig;gt a&eth; &thorn;eir sem &aelig;tla &iacute; v&iacute;sindafer&eth;ina (t.d. &thorn;eir sem b&uacute;a &aacute; Akureyri) &aacute; morgun klukkan 16 &iacute; V&iacute;king verksmi&eth;juna &aacute; Akureyri sendi Brynjari (8480056) sms, svo hann geti &aacute;&aelig;tla&eth; fj&ouml;ldann.<br />G&oacute;&eth;a skemmtun<br />Stj&oacute;rnin
+p1296
+sg11
+g12
+(S'\x07\xd8\x01\x04\r\x0e2\x00\x00\x00'
+p1297
+tp1298
+Rp1299
+sg16
+I44
+sg17
+VSkíðaferð - áríðandi
+p1300
+sg19
+(lp1301
+sg21
+VWe were too lazy
+p1302
+sg23
+(lp1303
+ssa(dp1304
+g2
+I41
+sg3
+Vnews.news
+p1305
+sg5
+(dp1306
+g7
+VNo translation
+p1307
+sg9
+V<p>S&aelig;lir Stiglar, gle&eth;ileg j&oacute;l og gle&eth;ilegt &aacute;r! N&uacute; styttist &iacute; hina svok&ouml;llu&eth;u sk&iacute;&eth;afer&eth; og loksins koma n&aacute;nari uppl&yacute;singar um hana: </p><p>&Aacute;kve&eth;i&eth; var a&eth; l&aacute;ta kosta 6600 kr&oacute;nur &iacute; fer&eth;ina en &thorn;ar af eru 5000<br />kr&oacute;nur fyrir r&uacute;tur fram og til baka og 1600 kr fyrir gistingu &iacute; tv&aelig;r<br />n&aelig;tur &iacute; &iacute;&thorn;r&oacute;ttah&uacute;si KA e&eth;a &THORN;&oacute;rs (man ekki hvort).</p><p>Fari&eth; ver&eth;ur &uacute;r b&aelig;num klukkan 12 &aacute; h&aacute;degi f&ouml;studaginn 4.jan&uacute;ar og<br />komi&eth; til baka sunnudaginn sj&ouml;tta og er nau&eth;synlegt a&eth; taka me&eth; s&eacute;r<br />svefnpoka, hl&yacute; f&ouml;t, mat og drykk (e&eth;a pening), sk&iacute;&eth;i og g&oacute;&eth;a skapi&eth;.<br />&THORN;eir sem vilja passa &iacute; Hl&iacute;&eth;afjall, skulu endilega senda okkur p&oacute;st og<br />vi&eth; reynum a&eth; redda h&oacute;pafsl&aelig;tti.</p><p>&THORN;eir sem &aelig;tla a&eth; koma me&eth; &iacute; fer&eth;ina skulu &thorn;v&iacute; leggja 6600 kr&oacute;nur inn &aacute;<br />a&eth;alreikninginn<br />1151-26-002492, kt: 4409922779<br />me&eth; skida sem tilvisun fyrir mi&eth;n&aelig;tti mi&eth;vikudagsins 2.jan&uacute;ar.</p><p>Ef einhverjar spurningar vakna, endilega svari&eth; &thorn;essum p&oacute;sti.<br />Kve&eth;ja<br />Stj&oacute;rnin</p>
+p1308
+sg11
+g12
+(S'\x07\xd7\x0c\x1f\r\x01\t\x00\x00\x00'
+p1309
+tp1310
+Rp1311
+sg16
+I44
+sg17
+VSkíðaferð
+p1312
+sg19
+(lp1313
+sg21
+VWe were too lazy
+p1314
+sg23
+(lp1315
+ssa(dp1316
+g2
+I40
+sg3
+Vnews.news
+p1317
+sg5
+(dp1318
+g7
+VNo translation
+p1319
+sg9
+VMinni &aacute; j&oacute;lagl&ouml;ggina &iacute; kv&ouml;ld upp &uacute;r n&iacute;u. Fullt af veigum og skemmtun heima hj&aacute; Einari B&uacute;a og Antoni, &THORN;&oacute;rsg&ouml;tu 6, 101.
+p1320
+sg11
+g12
+(S'\x07\xd7\x0c\x15\x11"%\x00\x00\x00'
+p1321
+tp1322
+Rp1323
+sg16
+I44
+sg17
+VJólaglögg í kvöld
+p1324
+sg19
+(lp1325
+sg21
+VWe were too lazy
+p1326
+sg23
+(lp1327
+ssa(dp1328
+g2
+I39
+sg3
+Vnews.news
+p1329
+sg5
+(dp1330
+g7
+VNo translation
+p1331
+sg9
+V<p>S&aelig;lir Stiglar<br />Stigull stefnir a&eth; &thorn;v&iacute; a&eth; fara til Akureyrar &iacute; sk&iacute;&eth;afer&eth; helgina 4-6 jan&uacute;ar &aacute; n&aelig;sta &aacute;ri. Hugmyndin er s&uacute; a&eth; ver&eth;a samfer&eth;a efnafr&aelig;&eth;ingum og l&aelig;knisfr&aelig;&eth;inemum, gista &iacute; einu af &aacute;g&aelig;tum &iacute;&thorn;r&oacute;ttah&uacute;sum b&aelig;jarins og s&yacute;na sk&iacute;&eth;afimina &iacute; Hl&iacute;&eth;afjalli. &THORN;ar sem vi&eth; munum deila r&uacute;tum me&eth; efna- og l&aelig;knisfr&aelig;&eth;inemum ver&eth;ur ver&eth; h&oacute;flegt.<br />&THORN;eir sem hafa &aacute;huga &aacute; &thorn;essari sk&iacute;&eth;afer&eth; endilega s&yacute;ni&eth; &aacute;huga ykkar me&eth; &thorn;v&iacute; a&eth; skr&aacute; ykkur (&oacute;formlega) &aacute; atbur&eth;as&iacute;&eth;unni </p><p>S&iacute;&eth;an viljum vi&eth; benda f&oacute;lki &aacute; a&eth; taka fr&aacute; f&ouml;studagskv&ouml;ldi&eth; 21.desember en &thorn;&aacute; ver&eth;ur haldin hin &aacute;rlega j&oacute;lagl&ouml;gg Stiguls, en n&aacute;nari uppl&yacute;singar um hana ver&eth;a kynntar s&iacute;&eth;ar.</p><p>Gangi ykkur &ouml;llum vel &iacute; pr&oacute;funum<br />Kve&eth;ja<br />Stj&oacute;rnin</p>
+p1332
+sg11
+g12
+(S'\x07\xd7\x0c\x06\x1047\x00\x00\x00'
+p1333
+tp1334
+Rp1335
+sg16
+I44
+sg17
+VJólaglögg og skíðaferð
+p1336
+sg19
+(lp1337
+I34
+aI33
+aI32
+asg21
+VWe were too lazy
+p1338
+sg23
+(lp1339
+ssa(dp1340
+g2
+I38
+sg3
+Vnews.news
+p1341
+sg5
+(dp1342
+g7
+VNo translation
+p1343
+sg9
+VLitlu j&oacute;l Stiguls ver&eth;a &aacute; morgun &iacute; sk&uacute;rnum eftir t&iacute;man sem endar kl 11:30.&nbsp; &THORN;a&eth; ver&eth;a sm&aacute;k&ouml;kur og eitthva&eth; gott a&eth; drekka me&eth; &iacute; bo&eth;i fyrir &thorn;&aacute; sem m&aelig;ta.&nbsp; Einnig ver&eth;ur hin &aacute;rlega (var allavega l&iacute;ka &iacute; fyrra) ath&ouml;fn &thorn;ar sem j&oacute;laser&iacute;unni ver&eth;ur stungi&eth; &iacute; samband. Endilega m&aelig;ti&eth; og elski&eth; fri&eth;inn!
+p1344
+sg11
+g12
+(S'\x07\xd7\x0b\x1d\x10*%\x00\x00\x00'
+p1345
+tp1346
+Rp1347
+sg16
+I51
+sg17
+VLitlu jólin
+p1348
+sg19
+(lp1349
+sg21
+VWe were too lazy
+p1350
+sg23
+(lp1351
+ssa(dp1352
+g2
+I37
+sg3
+Vnews.news
+p1353
+sg5
+(dp1354
+g7
+VNo translation
+p1355
+sg9
+V<p>&THORN;a&eth; &aacute; a&eth; m&aelig;ta &iacute; Glersk&aacute;lann sem er n&aacute;l&aelig;gt Bar&oacute;nsst&iacute;g (stjarnan &aacute; kortinu).&nbsp; &THORN;a&eth; er gengi&eth; inn um gler rennihur&eth; og inn &iacute; sal, &thorn;ar ver&eth;ur teki&eth; &aacute; m&oacute;ti okkur.&nbsp; For&eth;ist a&eth; vera of sein &thorn;v&iacute; a&eth; flestum hur&eth;um sp&iacute;talans er l&aelig;st eftir venjulegan skrifstofut&iacute;ma.</p><p><img src=\u005c"http://www.hi.is/~kkg2/landspitali.jpg\u005c" alt=\u005c"Kort\u005c" width=\u005c"420\u005c" height=\u005c"337\u005c" align=\u005c"bottom\u005c" /> </p>
+p1356
+sg11
+g12
+(S'\x07\xd7\x0b\x16\x0f(\x17\x00\x00\x00'
+p1357
+tp1358
+Rp1359
+sg16
+I51
+sg17
+VMæting á Landspítalann
+p1360
+sg19
+(lp1361
+sg21
+VWe were too lazy
+p1362
+sg23
+(lp1363
+ssa(dp1364
+g2
+I36
+sg3
+Vnews.news
+p1365
+sg5
+(dp1366
+g7
+VNo translation
+p1367
+sg9
+VJ&aelig;ja, &thorn;&aacute; er komi&eth; a&eth; s&iacute;&eth;ustu v&iacute;sindafer&eth; fyrir pr&oacute;f.&nbsp; N&uacute; ver&eth;ur fer&eth;inni heiti&eth; &aacute; Landsp&iacute;talann &thorn;ar sem e&eth;lisfr&aelig;&eth;ingur mun taka &aacute; m&oacute;ti okkur og segja okkur fr&aacute; starfi s&iacute;nu.&nbsp; Hann vinnur &iacute; krabbameinsdeildinni &thorn;ar sem notast er vi&eth; geislun til a&eth; ey&eth;a krabbameininu.&nbsp; Deildin var a&eth; taka &iacute; notkun n&yacute;tt t&aelig;ki sem hefur v&aelig;ntanlega ekki fari&eth; fram hj&aacute; nokrum manni &thorn;ar sem &thorn;etta var &iacute; &ouml;llum fj&ouml;lmi&eth;lum landsins.&nbsp; &THORN;a&eth; m&aacute; lesa og horfa &aacute; video um &thorn;etta hj&aacute; <a href=\u005c"http://www.mbl.is/mm/frettir/togt/frett.html?nid=1302446\u005c" target=\u005c"_blank\u005c" title=\u005c"MBL\u005c">mbl.is</a>.&nbsp; Einnig er veri&eth; a&eth; sko&eth;a m&ouml;guleika &aacute; a&eth; fleirri deildir komi inn &iacute; &thorn;etta og vi&eth; f&aacute;um a&eth; sj&aacute; meira.&nbsp; &Eacute;g &aelig;tla a&eth; benda &aacute; a&eth; Landsp&iacute;talinn m&aacute; ekki veita gestum &aacute;feingar veitingar og &thorn;v&iacute; hentar h&uacute;n vel svona r&eacute;tt fyrir pr&oacute;f en &thorn;eir sem hafa &aacute;huga geta n&aacute;tt&uacute;rulega haldi&eth; &aacute;fram ni&eth;ri &iacute; b&aelig; og fengi&eth; s&eacute;r &iacute; t&aacute;nna.
+p1368
+sg11
+g12
+(S'\x07\xd7\x0b\x13\x0127\x00\x00\x00'
+p1369
+tp1370
+Rp1371
+sg16
+I51
+sg17
+VVísó á Landspítalann
+p1372
+sg19
+(lp1373
+sg21
+VWe were too lazy
+p1374
+sg23
+(lp1375
+ssa(dp1376
+g2
+I35
+sg3
+Vnews.news
+p1377
+sg5
+(dp1378
+g7
+VNo translation
+p1379
+sg9
+V&Iacute; tilefni fl&ouml;skudags: <a href=\u005c"http://www.vbsymphony.com.au/\u005c" title=\u005c"v&iacute;dj&oacute;\u005c">v&iacute;dj&oacute;</a> 
+p1380
+sg11
+g12
+(S'\x07\xd7\x0b\x10\x0f9"\x00\x00\x00'
+p1381
+tp1382
+Rp1383
+sg16
+I133
+sg17
+VTjékk it out
+p1384
+sg19
+(lp1385
+I30
+asg21
+VWe were too lazy
+p1386
+sg23
+(lp1387
+ssa(dp1388
+g2
+I34
+sg3
+Vnews.news
+p1389
+sg5
+(dp1390
+g7
+VNo translation
+p1391
+sg9
+VK&aelig;ru Stiglar, &iacute; dag er s&iacute;&eth;asti dagurinn til a&eth; skr&aacute; sig &aacute; r&aacute;&eth;stefnu &Iacute;slenska st&aelig;r&eth;fr&aelig;&eth;af&eacute;lagsins &iacute; Borgarnesi.&nbsp; S&aacute; &oacute;v&aelig;nti atbur&eth;ur &aacute;tti s&eacute;r sta&eth; a&eth; ver&eth;i&eth; var l&aelig;kka&eth;i fyrir n&aacute;msf&oacute;lk og er n&uacute; 5.000 kr&oacute;nur &aacute; mann.&nbsp; &THORN;etta er algj&ouml;rt gjafvir&eth;i og m&aelig;li &eacute;g eindreigi&eth; me&eth; &thorn;v&iacute; a&eth; f&oacute;lk skr&aacute;i sig.&nbsp; Til a&eth; skr&aacute; sig fari&eth; &thorn;i&eth; inn &aacute; &thorn;essa heimas&iacute;&eth;u: <a href=\u005c"http://www.raunvis.hi.is/staefelag/radstefna07/index.php\u005c" target=\u005c"_blank\u005c" title=\u005c"http://www.raunvis.hi.is/staefelag/radstefna07/index.php\u005c">http://www.raunvis.hi.is/staefelag/radstefna07/index.php</a> og velji&eth; &thorn;ar skr&aacute;ning.&nbsp; Einnig m&aacute; finna allar nau&eth;sinlegar uppl&yacute;singar &thorn;arna inni.
+p1392
+sg11
+g12
+(S'\x07\xd7\x0b\x0e\x0e*)\x00\x00\x00'
+p1393
+tp1394
+Rp1395
+sg16
+I51
+sg17
+VStærðfræði á Íslandi - rástefna
+p1396
+sg19
+(lp1397
+sg21
+VWe were too lazy
+p1398
+sg23
+(lp1399
+ssa(dp1400
+g2
+I30
+sg3
+Vnews.news
+p1401
+sg5
+(dp1402
+g7
+VNo translation
+p1403
+sg9
+V<p>Fyrir &thorn;&aacute; sem &aelig;tla a&eth; taka st&aelig;rt&oacute; &thorn;&aacute; hentar lei&eth; nr. 11 best, h&uacute;n fer fr&aacute; H&oacute;tel S&ouml;gu og stoppar svo &thorn;arna vi&eth; Austurst&ouml;rnd &thorn;ar sem &thorn;etta ver&eth;ur, &thorn;eir sem treysta s&eacute;r ekki til a&eth; rata geta veri&eth; samfer&eth;a m&eacute;r, &eacute;g reikna me&eth; a&eth; vera &iacute; sk&uacute;rnum um 2 leiti&eth; og fara svo beint &iacute; SPRON &thorn;a&eth;an.</p><p>-Kjartan</p>
+p1404
+sg11
+g12
+(S'\x07\xd7\x0b\x08\x0c"2\x00\x00\x00'
+p1405
+tp1406
+Rp1407
+sg16
+I51
+sg17
+VStrætó í SPRON
+p1408
+sg19
+(lp1409
+I29
+aI28
+asg21
+VWe were too lazy
+p1410
+sg23
+(lp1411
+ssa(dp1412
+g2
+I29
+sg3
+Vnews.news
+p1413
+sg5
+(dp1414
+g7
+VNo translation
+p1415
+sg9
+V<p>Spron hefur &aacute;kve&eth;i&eth; a&eth; gera enn betur vi&eth; okkur en s&iacute;&eth;ast og hefur &aacute;kve&eth;i&eth; a&eth; halda a&eth;ra og enn veglegri SPRON viku fyrir Stigla til &thorn;ess a&eth; kynna starfsemi s&iacute;na og f&aacute; a&eth; kynnast okkur n&aacute;msm&ouml;nnunum. Alla &thorn;essa viku munu &thorn;v&iacute; starfsmenn SPRON taka vel &aacute; m&oacute;ti &ouml;llum &thorn;eim leggja lei&eth; s&iacute;na &uacute;t &aacute; Seltjarnarnes (Austurstr&ouml;nd 3) og kynna &yacute;msar &aacute;v&ouml;xtunar- og sparna&eth;arlei&eth;ir sem bj&oacute;&eth;ast n&aacute;msm&ouml;nnum, eins og okkur sem eru &aacute; lei&eth; &uacute;t &aacute; hinn grimma vinnumarka&eth; . Allir sem m&aelig;ta &aacute; sv&aelig;&eth;i&eth; og stofna til vi&eth;skipta munu auk &thorn;ess f&aacute; gefins USB lykil og opinn b&iacute;&oacute;mi&eth;a &iacute; Regnbogann e&eth;a Sm&aacute;rab&iacute;&oacute; sem gildir til 31.03.2008.</p><p>En &thorn;a&eth; er ekki &thorn;a&eth; eina &thorn;v&iacute; efnt ver&eth;ur til h&oacute;pfer&eth;ar n&aelig;stkomandi fimmtudag &aacute; milli 14:00 og 16:00 en &thorn;&aacute; mun bankinn einnig bj&oacute;&eth;a  upp &aacute; kaffi, gos og samlokur samhli&eth;a &thorn;v&iacute; a&eth; r&aelig;&eth;a vi&eth; okkur um bankavi&eth;skipti. Stj&oacute;rnin mun m&aelig;ta &aacute; sv&aelig;&eth;i&eth; og eru allir hvattir til a&eth; taka &thorn;ennan t&iacute;ma fr&aacute; og skj&oacute;tast ni&eth;ur &aacute; Austurstr&ouml;nd og kynna s&eacute;r bankavi&eth;skipti vi&eth; SPRON &iacute; &thorn;essari litlu SPRON-v&iacute;sindafer&eth; sem er nokkurs konar upphitun fyrir &thorn;&aacute; st&aelig;rri sem ver&eth;ur eftir &aacute;ram&oacute;t.</p><p> N&aacute;nari uppl&yacute;singar um h&oacute;pfer&eth;ina ver&eth;a kynntar s&iacute;&eth;ar.</p><p>Sj&aacute;umst &iacute; bankanum &aacute; fimmtudaginn!</p><p>&nbsp;//------Sm&aacute; vi&eth;b&oacute;t-------//</p><p>Fyrir &thorn;&aacute; sem &aelig;tla a&eth; taka st&aelig;rt&oacute; &thorn;&aacute; hentar lei&eth; nr. 11 best, h&uacute;n fer fr&aacute; H&oacute;tel S&ouml;gu og stoppar svo &thorn;arna vi&eth; Austurst&ouml;rnd &thorn;ar sem &thorn;etta ver&eth;ur, &thorn;eir sem treysta s&eacute;r ekki til a&eth; rata geta veri&eth; samfer&eth;a m&eacute;r, &eacute;g reikna me&eth; a&eth; vera &iacute; sk&uacute;rnum um 2 leiti&eth; og fara svo beint &iacute; SPRON &thorn;a&eth;an.</p><p>-Kjartan</p><p>//-------------------------//&nbsp;</p><span></span>
+p1416
+sg11
+g12
+(S'\x07\xd7\x0b\x05\x14\x03#\x00\x00\x00'
+p1417
+tp1418
+Rp1419
+sg16
+I44
+sg17
+VLitla Spron-vísindaferðin
+p1420
+sg19
+(lp1421
+sg21
+VWe were too lazy
+p1422
+sg23
+(lp1423
+ssa(dp1424
+g2
+I28
+sg3
+Vnews.news
+p1425
+sg5
+(dp1426
+g7
+VNo translation
+p1427
+sg9
+V<p>K&aelig;ru Stiglar! Hj&aacute; Raunveru, hagsmunaf&eacute;lagi raunv&iacute;sindanema vi&eth; H&Iacute;, eru n&uacute;na uppi &aacute; bor&eth;inu till&ouml;gur a&eth; breyttu kennsluskipulagi &iacute; raunv&iacute;sindadeild. Hugmyndin er s&uacute; a&eth; breyta skipulaginu a&eth; fyrirmynd erlendra h&aacute;sk&oacute;la &thorn;ar sem kennslu&aacute;rinu er skipt &iacute; 4-5 kennslumisseri &iacute; sta&eth; tveggja. &THORN;&aacute; yr&eth;i hvert misseri um 7 vikur og &aacute; &thorn;eim t&iacute;ma kennd tv&ouml; n&aacute;mskei&eth; (6-8einingar). Fj&ouml;ldi kennslustunda &aacute; viku yr&eth;i 12-16 &iacute; hverju n&aacute;mskei&eth;i mi&eth;a&eth; vi&eth; n&uacute;verandi skipulag. &Iacute; lok hvers misseris v&aelig;ru lokapr&oacute;f &uacute;r &thorn;eim n&aacute;mskei&eth;um. Fimmta misseri&eth; v&aelig;ri sumarmisseri sem v&aelig;ri styttra en hin fj&ouml;gur og g&aelig;ti &thorn;a&eth; henta&eth; vel fyrir n&aacute;mskei&eth; sem krefjast &thorn;ess a&eth; kennsla og vinna nemenda fari fram utandyra (t.d. l&iacute;ffr&aelig;&eth;i, landfr&aelig;&eth;i, jar&eth;fr&aelig;&eth;i o.s.frv.)</p><p>&nbsp;</p><p>Nokkrir kostir &thorn;essa kerfis g&aelig;tu talist:</p><p>1. Nemendu g&aelig;tu einbeitt s&eacute;r a&eth; hverju n&aacute;mskei&eth;i &iacute; stuttan t&iacute;ma</p><p>2. Styttri pr&oacute;ftarnir</p><p>3. Kennarar hef&eth;u meiri t&iacute;ma til &thorn;ess a&eth; sinna ranns&oacute;knum</p><p>4. Meiri sveigjanleiki</p><p>5. Meiri m&ouml;guleikar &iacute; skiptin&aacute;mi</p><p>Kennarar hafa n&uacute; &thorn;egar l&aacute;ti&eth; heyra &iacute; s&eacute;r og eru flestir j&aacute;kv&aelig;&eth;ir &iacute; gar&eth; &thorn;essara breytinga. &THORN;eir benda &thorn;&oacute; &aacute; a&eth; grasi&eth; er oft gr&aelig;nna hinum megin. </p><p>N&uacute; viljum vi&eth; f&aacute; a&eth; heyra ykkar &aacute;lit. Hva&eth; finnst ykkur um &thorn;essa tilh&ouml;gun? Er &thorn;etta fyrirkomulag sem &thorn;i&eth; telji&eth; a&eth; g&aelig;ti henta&eth; st&aelig;r&eth;fr&aelig;&eth;i- og e&eth;lisfr&aelig;&eth;inemum? Endilega l&aacute;ti&eth; &iacute; ykkur heyra, anna&eth;hvort &iacute; athugasemdum e&eth;a me&eth; e-maili: stigull@hi.is, fyrir mi&eth;vikudag. &THORN;&aacute; ver&eth;ur endanleg &aacute;kv&ouml;r&eth;un tekin hvort Stigull standi me&eth; hinum nemendaf&eacute;l&ouml;gunum a&eth; &thorn;essari breytingu. <br /> </p><p>&nbsp;</p>
+p1428
+sg11
+g12
+(S'\x07\xd7\x0b\x05\n\x0c\x0b\x00\x00\x00'
+p1429
+tp1430
+Rp1431
+sg16
+I133
+sg17
+VTillögur um að skipta upp kennslumisserum
+p1432
+sg19
+(lp1433
+I27
+aI26
+asg21
+VWe were too lazy
+p1434
+sg23
+(lp1435
+ssa(dp1436
+g2
+I27
+sg3
+Vnews.news
+p1437
+sg5
+(dp1438
+g7
+VNo translation
+p1439
+sg9
+VTil a&eth; hafa &thorn;a&eth; alveg &aacute; hreinu &thorn;&aacute; er m&aelig;ting upp &aacute; B&aelig;jarh&aacute;ls &iacute; a&eth;alst&ouml;&eth;var OR.
+p1440
+sg11
+g12
+(S'\x07\xd7\x0b\x02\r\x03 \x00\x00\x00'
+p1441
+tp1442
+Rp1443
+sg16
+I44
+sg17
+VVísindaferð á eftir
+p1444
+sg19
+(lp1445
+sg21
+VWe were too lazy
+p1446
+sg23
+(lp1447
+ssa(dp1448
+g2
+I26
+sg3
+Vnews.news
+p1449
+sg5
+(dp1450
+g7
+VNo translation
+p1451
+sg9
+V<p>&Aacute; f&ouml;studaginn kl. 21 eru t&oacute;nleikar me&eth; Sinf&oacute;n&iacute;uhlj&oacute;msveit &Iacute;slands &iacute; H&aacute;sk&oacute;lab&iacute;&oacute;. &THORN;etta er tilraun Sinf&oacute;n&iacute;unnar til &thorn;ess a&eth; fanga unga og &oacute;har&eth;na&eth;a &iacute; net klass&iacute;skrar t&oacute;nlistar. Flutt ver&eth;ur Geysir eftir J&oacute;n Leifs og Vorbl&oacute;ti&eth; eftir Stravinsky. Or&eth;i&eth; &aacute; g&ouml;tunni segir a&eth; t&oacute;nlistin s&eacute; svo kraftmikil a&eth; ungab&ouml;rn bresti &iacute; gr&aacute;t og aldra&eth;ar konur falli &iacute; yfirli&eth;. </p><p>Svo ef ykkur langar til &thorn;ess a&eth; lifa &aacute; ystu n&ouml;f og &ouml;gra skilningarvitunum &thorn;&aacute; skelli&eth; ykkur &iacute; H&aacute;sk&oacute;lab&iacute;&oacute; anna&eth; kv&ouml;ld og svo &iacute; part&yacute; &aacute; eftir me&eth; hlj&oacute;msveitinni og DJ &THORN;orbirni! 1000 kall inn.</p><p>&nbsp;Ef heppnin er me&eth; ykkur m&aacute; heyra undirrita&eth;an taka s&oacute;l&oacute; &aacute; kontrafagotti&eth;.</p><p>&nbsp;</p>
+p1452
+sg11
+g12
+(S'\x07\xd7\x0b\x01\x11 \x15\x00\x00\x00'
+p1453
+tp1454
+Rp1455
+sg16
+I133
+sg17
+V Tónleikar Sinfóníuhljómsveitar Íslands
+p1456
+sg19
+(lp1457
+I25
+aI24
+asg21
+VWe were too lazy
+p1458
+sg23
+(lp1459
+ssa(dp1460
+g2
+I25
+sg3
+Vnews.news
+p1461
+sg5
+(dp1462
+g7
+VNo translation
+p1463
+sg9
+V<p>S&aelig;lir Stiglar<br />Vi&eth; viljum minna &aacute; v&iacute;sindafer&eth;ina &aacute; morgun, en &thorn;&aacute; ver&eth;ur fari&eth; &iacute; heims&oacute;kn til Orkuveitunnar. Skr&aacute;ning er &aacute; heimas&iacute;&eth;unni og ef einhver &aacute; &iacute; vandr&aelig;&eth;um me&eth; skr&aacute;ningu hafi&eth; &thorn;&aacute; endilega samband. Dagskr&aacute;in er eftirfarandi:</p><p>16:30 M&aelig;ting t&iacute;manlega B&aelig;jarh&aacute;ls/Minjasafn. Kynning &aacute; Orkuveitu Reykjav&iacute;kur<br />Umr&aelig;&eth;ur (Allir a&eth; koma me&eth; tv&aelig;r REI spurningar)<br />Farin sko&eth;unarfer&eth; um h&uacute;si&eth;. (Kerfisstj&oacute;rn - B&oacute;kasafn - 6.h&aelig;&eth;)<br />17:30 Veitingar<br />18:30 F&ouml;rinni haldi&eth; &aacute; Gauk &aacute; st&ouml;ng &iacute; r&uacute;tu.</p><p>F&oacute;lk &thorn;ar sem sagt a&eth; koma s&eacute;r sj&aacute;lft upp &aacute; B&aelig;jarh&aacute;ls (www.bus.is) en vi&eth; sk&ouml;ffum r&uacute;tu til baka ni&eth;ur &iacute; b&aelig;.<br />Endilega v&aelig;ri gaman a&eth; f&aacute; a&eth; heyra &iacute; f&oacute;lki var&eth;andi framt&iacute;&eth;ar r&uacute;tufyrirkomulag, hvort f&oacute;lk vill almennt f&aacute; r&uacute;tur e&eth;a ei</p><p>Kve&eth;ja<br />Stj&oacute;rnin<br /></p>
+p1464
+sg11
+g12
+(S'\x07\xd7\x0b\x01\r\x15 \x00\x00\x00'
+p1465
+tp1466
+Rp1467
+sg16
+I44
+sg17
+VVísindaferð í OR
+p1468
+sg19
+(lp1469
+sg21
+VWe were too lazy
+p1470
+sg23
+(lp1471
+ssa(dp1472
+g2
+I24
+sg3
+Vnews.news
+p1473
+sg5
+(dp1474
+g7
+VNo translation
+p1475
+sg9
+VK&aelig;ru Stiglar<br />N&aelig;stkomandi f&ouml;studagskv&ouml;ld, &thorn;ann 26.okt&oacute;ber, mun Stigull halda kvikmyndakv&ouml;ld og ver&eth;a fj&oacute;rar e&eth;alkvikmyndir s&yacute;ndar &aacute; st&oacute;ru tjaldi &iacute; upp&aacute;halds kofa okkar allra: F&eacute;l&oacute;. <br /> Dagskr&aacute;in er eftirfarandi:<br />18:00 - <a href=\u005c"http://www.imdb.com/title/tt0069332/\u005c">Super Fly</a><br />19:45 - P&iacute;tsur &iacute; bo&eth;i Stiguls<br />20:00 - <a href=\u005c"http://www.imdb.com/title/tt0079501/\u005c">Mad Max</a><br /> 21:45 - <a href=\u005c"http://www.imdb.com/title/tt0103873/\u005c">Braindead</a><br /> 23:30 - <a href=\u005c"http://www.imdb.com/title/tt0072271/\u005c">The Texas Chainsaw Massacre</a><br /> Bj&oacute;r ver&eth;ur eins og alltaf til s&ouml;lu en Stigull b&yacute;&eth;ur upp &aacute; p&iacute;tsur, gos, snakk og popp. F&oacute;lki er velkomi&eth; a&eth; m&aelig;ta hven&aelig;r sem er og &aacute; hva&eth;a mynd sem &thorn;v&iacute; s&yacute;nist en auglj&oacute;st er a&eth; &thorn;v&iacute; fyrr sem m&aelig;tt er &thorn;v&iacute; betri s&aelig;ti.<br /> Sj&aacute;umst &aacute; f&ouml;studaginn &iacute; F&eacute;l&oacute;<br /> Stj&oacute;rnin<br /> <br /> <br /> 
+p1476
+sg11
+g12
+(S'\x07\xd7\n\x18\x13\x073\x00\x00\x00'
+p1477
+tp1478
+Rp1479
+sg16
+I44
+sg17
+VKvikmyndakvöld
+p1480
+sg19
+(lp1481
+I22
+asg21
+VWe were too lazy
+p1482
+sg23
+(lp1483
+ssa(dp1484
+g2
+I22
+sg3
+Vnews.news
+p1485
+sg5
+(dp1486
+g7
+VNo translation
+p1487
+sg9
+VN&uacute; er komi&eth; a&eth; hinum &aacute;rlega haustfagna&eth;i Stiguls, en fagna&eth;urinn ver&eth;ur haldinn n&aelig;stkomandi f&ouml;studag &thorn;ann 19. okt&oacute;ber heima hj&aacute; n&yacute;nemanum &Oacute;lafi J&oacute;nassyni, ofurstigli/hei&eth;ursstigli 2007-2008 a&eth; Bjarmalandi 10, 108 Reykjav&iacute;k. Fagna&eth;urinn hefst klukkan 21:00 og b&yacute;&eth;ur stj&oacute;rnin upp &aacute; fr&iacute;ar veigar. &THORN;eim sem &aelig;tla samt gj&ouml;rsamlega a&eth; tapa sj&aacute;lfsvir&eth;ingunni er r&aacute;&eth;lagt a&eth; koma me&eth; auka &aacute;fengi.<br />&Ouml;llum kennurum st&aelig;r&eth;fr&aelig;&eth;i- og e&eth;lisfr&aelig;&eth;iskors var bo&eth;i&eth; &iacute; f&ouml;gnu&eth;inn og v&aelig;ri fr&aacute;b&aelig;rt ef &thorn;i&eth; v&aelig;ru&eth; dugleg vi&eth; a&eth; hvetja &thorn;&aacute; til a&eth; m&aelig;ta.<br /><br />Einnig er vert a&eth; minnast &aacute; &thorn;a&eth; a&eth; vi&eth; h&ouml;fum fengi&eth; &aacute;minningu vegna umgengni &iacute; F&eacute;l&oacute; svo vi&eth; skulum reyna a&eth; hj&aacute;lpast a&eth; taka til eftir<br />okkur, &thorn;&aacute; s&eacute;rstaklega ganga fr&aacute; bj&oacute;rd&oacute;sum eftir a&eth; &thorn;&aelig;r eru drukknar.<br /><br />Sj&aacute;umst svo &ouml;ll &aacute; f&ouml;studaginn klukkan 21:00 a&eth; Bjarmalandi 10<br />Kve&eth;ja<br />Stj&oacute;rnin
+p1488
+sg11
+g12
+(S'\x07\xd7\n\x10\x12!)\x00\x00\x00'
+p1489
+tp1490
+Rp1491
+sg16
+I44
+sg17
+VHaustfagnaður
+p1492
+sg19
+(lp1493
+I20
+aI19
+aI18
+asg21
+VWe were too lazy
+p1494
+sg23
+(lp1495
+ssa(dp1496
+g2
+I21
+sg3
+Vnews.news
+p1497
+sg5
+(dp1498
+g7
+VNo translation
+p1499
+sg9
+V<p>N&uacute; fer hver a&eth; ver&eth;a s&iacute;&eth;astur a&eth; skreppa &uacute;t &iacute; SPRON &aacute; Seltjarnarnesi og spjalla vi&eth; f&oacute;lki&eth; &thorn;ar, a&eth;eins tveir dagar eftir! Fr&aacute;b&aelig;r kj&ouml;r og allir sem skr&aacute; sig f&aacute; b&iacute;&oacute;mi&eth;a, gjafabr&eacute;f hj&aacute; Griffli og minnislykil. Auk &thorn;ess sem Stigull n&yacute;tur g&oacute;&eth;s af. Ekki l&aacute;ta &thorn;etta t&aelig;kif&aelig;ri fram hj&aacute; &thorn;&eacute;r fara!</p><p>Svo minnum vi&eth; &aacute; v&iacute;sindafer&eth; &iacute; Icebank &aacute; f&ouml;studag, t&iacute;masetning kemur innan skamms.  </p>
+p1500
+sg11
+g12
+(S'\x07\xd7\t\x1a\x14+0\x00\x00\x00'
+p1501
+tp1502
+Rp1503
+sg16
+I133
+sg17
+VGríptu gæsina - meðan hún gefst!
+p1504
+sg19
+(lp1505
+sg21
+VWe were too lazy
+p1506
+sg23
+(lp1507
+ssa(dp1508
+g2
+I20
+sg3
+Vnews.news
+p1509
+sg5
+(dp1510
+g7
+VNo translation
+p1511
+sg9
+V<p>&Iacute; tilefni a&eth; samstarfi SPRON og Stiguls mun starfsf&oacute;lk SPRON &aacute; Austurstr&ouml;nd Seltjarnarnesi &iacute; n&aelig;stu viku, <span>dagana 24. til 28. sept.,</span> taka s&eacute;rstaklega &aacute; m&oacute;ti &ouml;llum &thorn;eim sem vilja kynnast N&aacute;msmanna&thorn;j&oacute;nustu SPRON. &Iacute; lei&eth;inni munu &thorn;au kynna DMK &thorn;j&oacute;nustu SPRON sem er &thorn;j&oacute;nusta sem &aacute; a&eth; vera s&eacute;rsni&eth;in a&eth; f&oacute;lki sem er a&eth; kl&aacute;ra n&aacute;m og er tilb&uacute;i&eth; til &thorn;ess a&eth; takast &aacute; vi&eth; fj&aacute;rhagslegar &oacute;gnir hversdagsl&iacute;fsins. Me&eth;al &thorn;ess sem DMK &thorn;j&oacute;nustan hefur upp &aacute; a&eth; bj&oacute;&eth;a er m.a. DMK korti&eth; sem er b&aelig;&eth;i debit og kreditkort (hver vill ekki f&aelig;kka kortunum &iacute; veskinu?), &iacute;b&uacute;&eth;al&aacute;n og yfirdr&aacute;ttarheimild &aacute; L&Iacute;N kj&ouml;rum. Allir sem koma &iacute; vi&eth;skipti &iacute; &thorn;essari viku f&aacute; einnig tvo b&iacute;&oacute;mi&eth;a &aacute; myndina Disturbia, gjafabr&eacute;f hj&aacute; Griffli a&eth; upph&aelig;&eth; 3.000 kr. og einn <span>1 Gb USB minnislykil. </span></p><p>Vi&eth; viljum s&iacute;&eth;an minna &aacute; &thorn;a&eth; a&eth; allir me&eth;limir Stiguls sem eru &iacute; N&aacute;msmanna&thorn;j&oacute;nustu SPRON og grei&eth;a me&eth; SPRON n&aacute;msmannakorti &aacute; &aacute;rsh&aacute;t&iacute;&eth; f&eacute;lagsins &iacute; vor, f&aacute; 1.500. kr. ni&eth;urgrei&eth;slu &aacute; mi&eth;ann &aacute;samt &thorn;v&iacute; a&eth; <span>SPRON styrkir f&eacute;lagi&eth; um &aacute;kve&eth;na upph&aelig;&eth; fyrir hvern virkan nemanda &iacute; N&aacute;msmanna&thorn;j&oacute;nustu SPRON</span>. (20. debetf&aelig;rslur &aacute; m&aacute;nu&eth;i). &THORN;a&eth; &thorn;&yacute;&eth;ir b&oacute;kstaflega a&eth; me&eth; &thorn;v&iacute; a&eth; ganga &iacute; SPRON ver&eth;ur ykkar venjulega daglega neysla &ouml;llum Stiglum til g&oacute;&eth;s enda auglj&oacute;st a&eth; &thorn;v&iacute; meira fj&aacute;rmagn =&gt; &thorn;v&iacute; veglegri atbur&eth;ir. </p><p>Vi&eth; vonumst til &thorn;ess a&eth; sem flestir leggi lei&eth; s&iacute;na &uacute;t &aacute; Nes og sko&eth;i hva&eth; SPRON hafi upp &aacute; bj&oacute;&eth;a fyrir okkur &aacute;stk&aelig;ru st&aelig;r&eth;- og e&eth;lisfr&aelig;&eth;inga.</p>
+p1512
+sg11
+g12
+(S'\x07\xd7\t\x15\t\t\x1c\x00\x00\x00'
+p1513
+tp1514
+Rp1515
+sg16
+I44
+sg17
+VVið erum alltaf velkomin ... en sérstaklega dagana 24. til 28 sept!
+p1516
+sg19
+(lp1517
+sg21
+VWe were too lazy
+p1518
+sg23
+(lp1519
+ssa(dp1520
+g2
+I19
+sg3
+Vnews.news
+p1521
+sg5
+(dp1522
+g7
+VNo translation
+p1523
+sg9
+VEins og flestir vita er v&iacute;sindafer&eth; &aacute; f&ouml;studaginn og a&eth;eins 25 komast a&eth;. &THORN;ar sem &thorn;etta er fyrsta skr&aacute;ningin &aacute; n&yacute;jum vef&thorn;j&oacute;ni &aacute; n&yacute;rri heimas&iacute;&eth;u m&aacute; eflaust b&uacute;ast vi&eth; einhverju veseni. Ekki vera feimin vi&eth; a&eth; hafa beint samband vi&eth; mig 662-4766 ef &thorn;i&eth; lendi&eth; &iacute; vandr&aelig;&eth;um.
+p1524
+sg11
+g12
+(S'\x07\xd7\t\x11\x0f\x06 \x00\x00\x00'
+p1525
+tp1526
+Rp1527
+sg16
+I44
+sg17
+VStraumur - Burðarás vísindaferð
+p1528
+sg19
+(lp1529
+I17
+aI16
+aI15
+aI14
+aI12
+aI10
+asg21
+VWe were too lazy
+p1530
+sg23
+(lp1531
+ssa(dp1532
+g2
+I18
+sg3
+Vnews.news
+p1533
+sg5
+(dp1534
+g7
+VNo translation
+p1535
+sg9
+V<p>Vi&eth; viljum minna &aacute; a&eth; enn&thorn;&aacute; er opi&eth; fyrir frambo&eth; &iacute; Galois, fulltr&uacute;a n&yacute;nema &iacute; stj&oacute;rn Stiguls. Nokkur frambo&eth; hafa borist og kosi&eth; ver&eth;ur &aacute; m&aacute;nudaginn h&eacute;r &aacute; s&iacute;&eth;unni.</p><p>Einnig viljum vi&eth; bi&eth;ja &thorn;&aacute; sem muna eftir &thorn;v&iacute; a&eth; hafa veri&eth; kosnir &iacute; emb&aelig;tti &aacute; s&iacute;&eth;asta a&eth;alfundi a&eth; hafa samband vi&eth; stj&oacute;rnina.</p><p><strong>English summary</strong></p><p>This saturday is the day of the annual autumn trip. The bus leaves from F&eacute;lo (the shed outside of VRII) at 17.00 and returns to town after midnight. If you are a member of Stigull (have paid the 2500 fee, <span> 1151-26-002492, kt: 440992-2779 ) the trip cost you 1500 kr, (included the bus trip to Alvidra, lots of alcohol and food-accessories). Otherwise the trip costs 2500 kr. he only thing to bring is some food on the barbique and your good humour.&nbsp;</span></p><p>If you are a freshman and want to be a part of the Stigull-administration please contact us before monday&nbsp;</p><p>&nbsp;</p>
+p1536
+sg11
+g12
+(S'\x07\xd7\t\x0e\r\x15\x07\x00\x00\x00'
+p1537
+tp1538
+Rp1539
+sg16
+I44
+sg17
+VGalois - Síðustu forvöð - English summary below
+p1540
+sg19
+(lp1541
+I13
+aI9
+aI8
+asg21
+VWe were too lazy
+p1542
+sg23
+(lp1543
+ssa(dp1544
+g2
+I17
+sg3
+Vnews.news
+p1545
+sg5
+(dp1546
+g7
+VNo translation
+p1547
+sg9
+VK&aelig;ru Stiglar. Haustfer&eth; Stiguls ver&eth;ur farin n&aelig;stkomandi laugardag, &thorn;ann 15. september 2007. R&uacute;ta leggur af sta&eth; til <a href=\u005c"http://www.landvernd.is/yflokkar.asp?flokkur=932\u005c" target=\u005c"_blank\u005c" onclick=\u005c"return top.js.OpenExtLink(window,event,this)\u005c">Alvi&eth;ru</a> fr&aacute; f&eacute;l&oacute; <span style=\u005c"font-weight: bold\u005c"> klukkan 17:00</span> og heldur aftur &iacute; b&aelig;inn upp &uacute;r mi&eth;n&aelig;tti. F&oacute;lk sem bor&eth;ar &thorn;arf a&eth; taka me&eth; s&eacute;r mat en me&eth;l&aelig;ti, kol, grillv&ouml;kvi, diskar, gl&ouml;s, hn&iacute;fap&ouml;r og grill ver&eth;a &aacute; sta&eth;num. &Iacute; fer&eth;ina kostar <span style=\u005c"font-weight: bold\u005c"> 1500 kr fyrir &thorn;&aacute; sem hafa borga&eth; nemendaf&eacute;lagsgj&ouml;ldin </span>en 2500 kr fyrir alla a&eth;ra sem vilja koma me&eth;. Gert er r&aacute;&eth; fyrir a&eth; allir m&aelig;ti svo &thorn;eir sem vita a&eth; &thorn;eir komist ekki v&aelig;ru ind&aelig;lir a&eth; l&aacute;ta stj&oacute;rnina vita me&eth; &thorn;v&iacute; a&eth; svara &thorn;essum p&oacute;sti. &THORN;eir sem eiga eftir a&eth; borga nemendaf&eacute;lagsgj&ouml;ldin &aelig;ttu &thorn;v&iacute; a&eth; fara a&eth; dr&iacute;fa &iacute; &thorn;v&iacute; me&eth; &thorn;v&iacute; a&eth; grei&eth;a 2500 kr inn &aacute; reikning n&uacute;mer: 1151-26-002492, kt: 440992-2779 og setja nemgjold sem tilv&iacute;sun. (Ef greitt er undir annarri kennit&ouml;lu en sinni eigin er nau&eth;synlegt a&eth; kennitala einstaklingsins sem greitt er fyrir komi fram)
+p1548
+sg11
+g12
+(S"\x07\xd7\t\x0c\x15',\x00\x00\x00"
+p1549
+tp1550
+Rp1551
+sg16
+I44
+sg17
+VHaustferð
+p1552
+sg19
+(lp1553
+I11
+aI7
+aI6
+aI5
+aI4
+aI2
+aI1
+asg21
+VWe were too lazy
+p1554
+sg23
+(lp1555
+ssa(dp1556
+g2
+I15
+sg3
+Vnews.news
+p1557
+sg5
+(dp1558
+g7
+VNo translation
+p1559
+sg9
+V<p>Stj&oacute;rn Stiguls b&yacute;&eth;ur ykkur &ouml;ll velkomin aftur til n&aacute;ms og vonar a&eth; &aacute;ri&eth; ver&eth;i eftirminnilegt. </p><p>N&uacute; koma &yacute;msar uppl&yacute;singar: </p><p>N&yacute;nemafer&eth; Stiguls 2007 ver&eth;ur farin <strong>f&ouml;studaginn 31.&aacute;g&uacute;st</strong> og er &aacute;fangasta&eth;urinn <strong>KR-sk&iacute;&eth;ask&aacute;linn Sk&aacute;lafelli</strong>. R&uacute;tan me&eth; n&yacute;nemunum fer klukkan 17:30 fr&aacute; F&eacute;l&oacute; og kostar ekkert &iacute; fer&eth;ina. Bo&eth;i&eth; ver&eth;ur upp &aacute; fr&iacute;ar veigar og me&eth;l&aelig;ti en &aelig;skilegt er a&eth; f&oacute;lk taki me&eth; s&eacute;r mat &aacute; grilli&eth;. Eldri Stiglar eru velkomnir upp &uacute;r n&iacute;u og eru hvattir til a&eth; m&aelig;ta og bj&oacute;&eth;a n&yacute;nemana velkomna og l&aacute;ta &thorn;eim l&iacute;&eth;a eins og &thorn;eir s&eacute;u komnir heim.</p><p>A&eth; lokum vill stj&oacute;rnin hvetja alla til a&eth; borga nemendaf&eacute;lagsgj&ouml;ldin sem &thorn;ennan vetur eru 2500 kr. Me&eth; &thorn;v&iacute; a&eth; grei&eth;a f&eacute;lagsgj&ouml;ldin ver&eth;ur einstaklingurinn a&eth; Stigli og f&aelig;r a&eth; taka &thorn;&aacute;tt &iacute; v&iacute;sindafer&eth;um og &ouml;&eth;rum atbur&eth;um eins og t.d. haustfer&eth;inni sem og lykilor&eth; a&eth; n&yacute;rri og endurb&aelig;ttri heimas&iacute;&eth;u sem mun taka vi&eth; af &thorn;essari g&ouml;mlu og g&oacute;&eth;u &aacute; n&aelig;stu vikum. &THORN;eir sem vilja ganga &iacute; f&eacute;lagi&eth; skulu &thorn;v&iacute; grei&eth;a 2500 kr inn &aacute; reikning n&uacute;mer: 1151-26-002492, kt: 440992-2779 og setja nemgjold sem tilv&iacute;sun. (Ef greitt er undir annarri kennit&ouml;lu en sinni eigin er nau&eth;synlegt a&eth; kennitala einstaklingsins sem greitt er fyrir komi fram)</p><p>Ef &thorn;a&eth; eru svo einhverjar spurningar veri&eth; &thorn;i&eth; &thorn;&aacute; &oacute;feimin vi&eth; a&eth; senda okkur p&oacute;st &aacute; <a href=\u005c\u005c\u005c"http://localhost/stigull.rhi.hi.is/%5C%22http://localhost/stigull.rhi.hi.is/%5C%22http://localhost/stigull.rhi.hi.is/%5C%22http://localhost/stigull.rhi.hi.is/%5C%22http://localhost/stigull.rhi.hi.is/frettir/%5C%22http://localhost/%22http://localhost/%22http://localhost/stigull.rhi.hi.is/frettir/%5C%22http://localhost/stigull.rhi.hi.is/frettir/%5C%22mailto:stigull@hi.is%5C%22%5C%22/%22/%22%5C%22%5C%22%5C%22%5C%22%5C%22\u005c\u005c\u005c">stigull@hi.is</a></p>
+p1560
+sg11
+g12
+(S'\x07\xd7\x08\x1b\x11\x0f2\x00\x00\x00'
+p1561
+tp1562
+Rp1563
+sg16
+I44
+sg17
+VHalló heimurinn
+p1564
+sg19
+(lp1565
+I3
+asg21
+VWe were too lazy
+p1566
+sg23
+(lp1567
+ssa.

@@ -1,0 +1,12 @@
+{% extends "admin/base.html" %}
+{% load i18n %}
+
+{% block title %}{{ title }} | {% trans 'Stigull - Vefstjórn' %}{% endblock %}
+
+{% block branding %}
+<h1 id="site-name"><a href="{% url index %}">{% trans 'Stigull - Vefstjórn' %}</a></h1>
+{% endblock %}
+
+{% block nav-global %}{% endblock %}
+
+{% include 'snippets/sql_queries.html' %}

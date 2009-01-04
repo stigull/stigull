@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-11-16 23:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: templates/base.html:22
+msgid "Beint í meginmál"
+msgstr ""
+
+#: templates/base.html:31
+msgid "Leiðatré"
+msgstr ""
+
+#: templates/admin/base_site.html:4 templates/admin/base_site.html.py:7
+msgid "Stigull - Vefstjórn"
+msgstr ""
+
+#: templates/comments/comment.html:10
+msgid "Svo mælti"
+msgstr ""
+
+#: templates/comments/form.html:4 templates/comments/form.html.py:35
+msgid "Skrá athugasemd"
+msgstr ""
+
+#: templates/comments/form.html:7
+msgid "Þú ert"
+msgstr ""
+
+#: templates/comments/form.html:11 templates/comments/form.html.py:16
+#: templates/comments/form.html:23
+msgid "Þennan reit þarf að útfylla"
+msgstr ""
+
+#: templates/pagination/pagination.html:5
+#: templates/pagination/pagination.html:7
+msgid "previous"
+msgstr ""
+
+#: templates/pagination/pagination.html:24
+#: templates/pagination/pagination.html:26
+msgid "next"
+msgstr ""
+
+#: templates/stigull_user_profile/profile_base.html:7
+msgid "meðlimur í Stigli"
+msgstr ""
+
+#: templates/stigull_user_profile/profile_base.html:13
+msgid "Embætti"
+msgstr ""

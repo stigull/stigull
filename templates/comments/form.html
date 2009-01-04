@@ -1,0 +1,38 @@
+{% load comments i18n %}
+<form class="comment-form" action="{% comment_form_target %}" method="post">
+    <fieldset>
+        <legend>{% trans 'Skrá athugasemd' %}</legend>
+        <ul>
+            {% if user.is_authenticated %}
+            <li>{% trans 'Þú ert' %} {{ user.get_profile.get_fullname }}</li>
+            {% else %}
+            <li>
+                {% if form.name.errors %}{{ form.name.errors }}{% endif %}
+                {{ form.name.label }}<abbr class="required" title="{% trans 'Þennan reit þarf að útfylla' %}">*</abbr>
+                {{ form.name }}
+            </li>
+            <li>
+                {% if form.email.errors %}{{ form.email.errors }}{% endif %}
+                {{ form.email.label }}<abbr class="required" title="{% trans 'Þennan reit þarf að útfylla' %}">*</abbr>
+                {{ form.email }}
+                {{ form.email.help_text }}
+            </li>
+            {% endif %}
+            <li>
+                {% if form.comment.errors %}{{ form.comment.errors }}{% endif %}
+                {{ form.comment.label }}<abbr class="required" title="{% trans 'Þennan reit þarf að útfylla' %}">*</abbr>
+                {{ form.comment }}
+                
+            </li>
+            <li class="hidden">
+                {{ form.honeypot }}{{ form.honeypot.help_text }}
+            </li>
+        </ul>
+        <p>
+            <input type="hidden" name="target" value="{% url post_comment %}" />
+            <input type="hidden" name="next" value="{{ request.path }}" />
+            {{ form.content_type }}{{ form.object_pk }}{{ form.timestamp }}{{ form.security_hash }}
+            <input type="submit" name="post" class="submit-post" value="{% trans 'Skrá athugasemd' %}" />
+        </p>
+    </fieldset>
+</form>

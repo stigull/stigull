@@ -1,0 +1,11 @@
+{% if debug %}
+<div>
+<h1>Fjöldi SQL-fyrirspurna er: {{ sql_queries|length }}</h1>
+<dl>
+{% for query in sql_queries %}
+<dt>{{query.time }}</dt>
+<dd>{{ query.sql }}</dd>
+{% endfor %}
+</dl>
+</div>
+{% endif %}

@@ -1,0 +1,12 @@
+{% load i18n templatetools %}
+<div class="comment">
+    {% if comment.user %}{% with comment.user.get_profile as profile %}
+    <img src="{{ profile.display_image.medium.url }}" alt="{{ profile.short_fullname }}" />
+    {% endwith %}{% endif %}
+    <div class="comment-body">
+    {{ comment.comment }}
+    </div>
+    <div class="comment-author">
+       {% trans 'Svo mælti' %} {{ comment.userinfo.name }} {{ comment.submit_date|format_datetime|lower }}
+    </div>
+</div>

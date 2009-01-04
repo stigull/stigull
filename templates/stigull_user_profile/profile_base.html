@@ -1,0 +1,20 @@
+{% extends 'user_profile/profile_base.html' %}
+
+{% load i18n %}
+
+{% block profile_after_name %}
+<div>
+{{ profile.get_department }}{% if profile.is_stigull %}, {% trans 'meðlimur í Stigli' %}{% endif %}
+</div>
+{% endblock %}
+
+{% block profile_after_address %}
+{% if profile.has_roles %}
+<h2>{% trans 'Embætti' %}</h2>
+<ul>
+    {% for role in profile.roles %}
+    <li>{{ role.name }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+{% endblock %}

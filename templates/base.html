@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ LANGUAGE_CODE }}" xml:lang="{{ LANGUAGE_CODE }}">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>{% block title %}{{ info_name }}{% endblock %}</title>
+
+    <link href="{#{% url feeds url="nyjustu-frettir" %}#}" rel="alternate" type="application/rss+xml" title="Nýjustu fréttir frá félaginu" />
+
+    {% load i18n %}
+    {% load templatetools %}
+    {% load compressed %}
+
+    {% load profile_tags %}
+    {#{% load profile_tags phonebook_tags templatetools compressed navigation_tags i18n news_tags %}#}
+    {#{% load xkcd_tags %} #}
+    {% compressed_css 'stigull' %}
+    {% block css %}{% compressed_css 'frontpage' %}{% endblock %}
+   
+    {% compressed_js 'jquery' %}
+    {% compressed_js 'all' %}
+    {% block js %}{% endblock %}
+</head>
+{% block body %}
+<body>
+<div id="centering-wrapper">
+    <div id="header">
+        <div id="clock">{% now "H:i:s" %}</div>
+        <h1>{% if info_name %}{% conditional_href info_name 'index' %}{% endif %}</h1>
+        <a id="disability-shortcut" href="#content">{% trans 'Beint í meginmál' %}</a>
+    </div>
+    
+    <div id="user-area">
+    {% user_area %}
+    {% login_or_logout_form request.path %}
+    </div>
+    
+    <div id="navigation">
+    <h1>{% trans 'Leiðatré' %}</h1>
+    {#{% navigation_menu %}#}
+    </div>
+    
+    
+    <div id="content">
+    {% block content %}
+    {#{% display_latest_important_entries %}#}
+    {#{% display_latest_entries 0 1 %}#}
+    {#{% random_xkcd_comic %}#}
+    {#{% display_latest_entries 1 3 %}#}
+    {% endblock %}
+    </div>
+    
+    <div id="alt-content">
+    {% block alt_content %}
+    {% endblock %}
+    </div>
+    
+    <div id="alt-content-2">
+    {#{% phonebook_search_form  %}#}
+    {% block alt_content_2 %}{% endblock %}
+    </div>
+    
+    <div id="footer">
+    &copy;{% copyright %} {{ info_name }} - {% with info_email as email %}{% include 'snippets/email_href.html' %}{% endwith %}
+    </div>
+</div>
+</body>{% endblock %}
+</html>
