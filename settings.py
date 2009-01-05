@@ -24,7 +24,7 @@ EMAIL_USE_TLS = True
 INTERNAL_IPS = ('127.0.0.1','85.197.228.149')
 
 DATABASE_ENGINE = 'postgresql_psycopg2'
-DATABASE_NAME = 'stigull_admin'
+DATABASE_NAME = 'stigull'
 DATABASE_USER = 'stigull'
 DATABASE_PASSWORD = 'H4sselhoff'
 DATABASE_HOST = ''
