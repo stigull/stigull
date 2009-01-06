@@ -3,7 +3,7 @@
 
 CREATED_YEAR = 2007 #For copyright tag from templatetools
 
-DEBUG = True
+DEBUG = False
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
