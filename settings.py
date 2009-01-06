@@ -3,7 +3,7 @@
 
 CREATED_YEAR = 2007 #For copyright tag from templatetools
 
-DEBUG = False
+DEBUG = False 
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
@@ -24,7 +24,7 @@ EMAIL_USE_TLS = True
 INTERNAL_IPS = ('127.0.0.1','85.197.228.149')
 
 DATABASE_ENGINE = 'postgresql_psycopg2'
-DATABASE_NAME = 'stigull'
+DATABASE_NAME = 'stigull_admin'
 DATABASE_USER = 'stigull'
 DATABASE_PASSWORD = 'H4sselhoff'
 DATABASE_HOST = ''
@@ -52,7 +52,7 @@ USE_I18N = True
 
 # Absolute path to the directory that holds media.
 # Example: "/home/media/media.lawrence.com/"
-MEDIA_ROOT = '/var/www/stigull/skrar/'
+MEDIA_ROOT = '/var/www/skrar/'
 
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash if there is a path component (optional in other cases).
@@ -103,7 +103,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
 )
 
 TEMPLATE_DIRS = (
-    '/home/johannth/programming/python/stigull/templates/',
+    '/home/hertogi/sourcecode/stigull/templates/',
 
 )
 
