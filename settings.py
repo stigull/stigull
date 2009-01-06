@@ -24,7 +24,7 @@ EMAIL_USE_TLS = True
 INTERNAL_IPS = ('127.0.0.1','85.197.228.149')
 
 DATABASE_ENGINE = 'postgresql_psycopg2'
-DATABASE_NAME = 'stigull_admin'
+DATABASE_NAME = 'stigull'
 DATABASE_USER = 'stigull'
 DATABASE_PASSWORD = 'H4sselhoff'
 DATABASE_HOST = ''
@@ -52,7 +52,7 @@ USE_I18N = True
 
 # Absolute path to the directory that holds media.
 # Example: "/home/media/media.lawrence.com/"
-MEDIA_ROOT = '/var/www/skrar/'
+MEDIA_ROOT = '/var/www/stigull/skrar/'
 
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash if there is a path component (optional in other cases).
@@ -103,7 +103,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
 )
 
 TEMPLATE_DIRS = (
-    '/home/hertogi/sourcecode/stigull/templates/',
+    '/home/johannth/programming/python/stigull/templates/',
 
 )
 
@@ -136,6 +136,9 @@ INSTALLED_APPS = (
     #News:
     'news',
 
+    #Events:
+    'events',
+
     #Comments:
     'django.contrib.comments',
     'comment_utils',
@@ -160,12 +163,20 @@ ABSOLUTE_URL_OVERRIDES = {
     'auth.user' : lambda user: "/nemendur/%s/" % user.username,
 }
 
-NAVIGATION = [(u'Heim', 'index'), (u'Fréttir', 'news_entry_archive_index'), (u'Símaskrá', 'phonebook'), (u'Um Stigul', 'info_show')]
+NAVIGATION = [(u'Heim', 'index'),
+                (u'Fréttir', 'news_entry_archive_index'),
+                (u'Atburðir', 'events_index'),
+                (u'Símaskrá', 'phonebook'),
+                (u'Um Stigul', 'info_show')]
 
 #START: Settings for django-logging
 LOGGING_LOG_SQL = DEBUG
 LOG_FILENAME = '/var/log/stigull/stigull.log'
 #END: Settings for django-logging
+
+#START: Settings for spam
+SAFE_URLS = ['/vefstjorn',]
+#END: Settings for spam
 
 #START: Settings for django-compress
 COMPRESS_VERSION = True

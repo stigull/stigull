@@ -5,10 +5,12 @@ from django.conf.urls.defaults import *
 from django.contrib import admin
 admin.autodiscover()
 
-#from news.feeds import LatestEntries
+from news.feeds import LatestEntries
 feeds = {
-  #'nyjustu-frettir': LatestEntries
+  'nyjustu-frettir': LatestEntries
 }
+
+import stigull.setup
 
 
 urlpatterns = patterns('',
@@ -29,6 +31,9 @@ urlpatterns = patterns('',
     #News
     (r'^frettir/', include('news.urls')),
 
+    #Events:
+    (r'^atburdir/', include('events.urls')),
+
     #About
     #(r'^upplysingar/log/', include('laws.urls')),
     (r'^upplysingar/', include("student.urls")),
@@ -36,6 +41,6 @@ urlpatterns = patterns('',
     #Spam protection
     (r'ruslpostur/', include("spam.urls")),
 
-  #url(r'^feeds/(?P<url>.*)/$', 'django.contrib.syndication.views.feed', {'feed_dict': feeds}, name="feeds"),
+    url(r'^feeds/(?P<url>.*)/$', 'django.contrib.syndication.views.feed', {'feed_dict': feeds}, name="feeds"),
 
 )
