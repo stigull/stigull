@@ -4,7 +4,7 @@
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
     <title>{% block title %}{{ info_name }}{% endblock %}</title>
 
-    <link href="{#{% url feeds url="nyjustu-frettir" %}#}" rel="alternate" type="application/rss+xml" title="Nýjustu fréttir frá félaginu" />
+    <link href="{% url feeds url="nyjustu-frettir" %}" rel="alternate" type="application/rss+xml" title="Nýjustu fréttir frá félaginu" />
 
     {% load i18n %}
     {% load templatetools %}
@@ -13,6 +13,7 @@
     {% load profile_tags %}
     {% load phonebook_tags %}
     {% load news_tags %}
+    {% load events_tags %}
 
     {% compressed_css 'stigull' %}
     {% block css %}{% compressed_css 'frontpage' %}{% endblock %}
@@ -55,7 +56,9 @@
 
     <div id="alt-content-2">
     {% phonebook_search_form %}
-    {% block alt_content_2 %}{% endblock %}
+    {% block alt_content_2 %}
+    {% get_latest_events %}
+    {% endblock %}
     </div>
 
     <div id="footer">
