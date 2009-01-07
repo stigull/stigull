@@ -10,7 +10,7 @@
 
 {% block profile_after_address %}
 {% if profile.has_roles %}
-<h2>{% trans 'Embætti' %}</h2>
+<h2 class="roles">{% trans 'Embætti' %}</h2>
 <ul>
     {% for role in profile.roles %}
     <li>{{ role.name }}</li>

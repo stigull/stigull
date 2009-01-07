@@ -51,11 +51,15 @@
 
     <div id="alt-content">
     {% block alt_content %}
+    <h1>Dagatal</h1>
+    <p class="info">Hér mun innan skamms birtast dagatal.</p>
     {% endblock %}
     </div>
 
     <div id="alt-content-2">
+    <h1>Leit í símaskrá</h1>
     {% phonebook_search_form %}
+    <hr />
     {% block alt_content_2 %}
     {% get_latest_events %}
     {% endblock %}

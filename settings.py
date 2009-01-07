@@ -213,6 +213,20 @@ COMPRESS_CSS = {
         'extra_context': {
             'media': 'screen,projection',
         },
+    },
+    'info': {
+        'source_filenames': ('css/info.css',),
+        'output_filename': 'css/stigull_info_compressed_?.css',
+        'extra_context': {
+            'media': 'screen,projection',
+        },
+    },
+    'events': {
+        'source_filenames': ('css/events.css',),
+        'output_filename': 'css/stigull_events_compressed_?.css',
+        'extra_context': {
+            'media': 'screen,projection',
+        },
     }
 }
 
