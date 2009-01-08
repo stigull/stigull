@@ -7,6 +7,6 @@
 <h1 id="site-name"><a href="{% url index %}">{% trans 'Stigull - Vefstjórn' %}</a></h1>
 {% endblock %}
 
-{% block nav-global %}{% endblock %}
-
-{% include 'snippets/sql_queries.html' %}
+{% block extrastyle %}
+<link media="screen,projection" type="text/css" rel="stylesheet" href="{{ MEDIA_URL }}css/custom_admin.css" />
+{% endblock %}

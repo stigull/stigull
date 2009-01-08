@@ -41,6 +41,9 @@ urlpatterns = patterns('',
     #Spam protection
     (r'ruslpostur/', include("spam.urls")),
 
+    #Generic email sending,
+    (r'tolvupostur/', include("emailer.urls")),
+
     url(r'^feeds/(?P<url>.*)/$', 'django.contrib.syndication.views.feed', {'feed_dict': feeds}, name="feeds"),
 
 )
