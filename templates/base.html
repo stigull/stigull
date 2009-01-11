@@ -14,6 +14,7 @@
     {% load phonebook_tags %}
     {% load news_tags %}
     {% load events_tags %}
+    {% load calendar_tags %}
 
     {% compressed_css 'stigull' %}
     {% block css %}{% compressed_css 'frontpage' %}{% endblock %}
@@ -52,7 +53,7 @@
     <div id="alt-content">
     {% block alt_content %}
     <h1>Dagatal</h1>
-    <p class="info">Hér mun innan skamms birtast dagatal.</p>
+    {% get_calendar %}
     {% endblock %}
     </div>
 

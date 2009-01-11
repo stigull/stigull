@@ -1,0 +1,77 @@
+{% extends 'admin/change_form.html' %}
+
+{% block after_related_objects %}
+<h1>Markdown og notkun þess</h1>
+
+<p>Markdown er merkjamál sem býr yfir þeim eiginleikum að vera læsilegt en samt er auðvelt að breyta textanum yfir í HTML til þess að birta á vefnum. Með því að nota Markdown við skriftur frétta verða fréttirnar fallegri og læsilegri hvort sem þær eru birtar á vefnum eða sendar í tölvupósti.</p>
+
+<p>Nokkrar leiðir eru til þess að merkja fyrirsagnir.
+
+<pre>
+<code>
+Aðalfyrirsögn
+=============
+
+Undir fyrirsögn
+---------------
+
+# Aðalfyrirsögn #
+## Undirfyrisögn 1 ##
+### Undirfyrisögn 2 ###
+</code>
+</pre>
+</p>
+
+<p>Sérhverjar tvær málsgreinar skal aðskilja með auðri línu. Sé þörf á því að skipta efninu í tvær línur án þess að inntakið sé málsgrein þá er það gert með því að enda línuna með tveimur auðum táknum.
+
+<pre>
+<code>
+Þetta er ein málsgrein og hún er aldeilis frábær!
+
+Ég er önnur málsgrein, heldur styttri en hin.
+
+Ég skipti mér á milli
+lína!
+</code>
+</pre>
+<p>
+
+<p>Þegar leggja skal áherslu á viss orð með feitletrun þá skal umlykja þau með tveimur stjörnum, þ.e.
+<pre><code>
+Hér er **feitletrað**!
+</code></pre>
+en viljum við aðeins vekja athygli á orðinu þá getum við skáletrað það með því að umlykja það með einni stjörnu, þ.e.
+
+<pre><code>
+Ítalir eru *skáletraðir*.
+</code></pre>
+</p>
+
+<p>Oft þarf að notast við lista þegar texti er ritaður og í Markdown skal merkja þá á eftirfarandi hátt
+
+<pre><code>
+* Þessi
+* listi
+* er óraðaður
+
+1. Ég er í fyrsta sæti!
+2. Að lenda í öðru sæti er vonlaust.
+</code></pre>
+</p>
+
+<p>
+Oft þarf að vísa í efni á öðrum vefsíðum. Þá er gott að notast við hlekki, t.d.
+
+<pre><code>
+Þegar upp koma vafaatriði við notkun á Markdown þá má oftast finna svörin á [Daring Fireball](http://daringfireball.net/projects/markdown/syntax/)
+</code></pre>
+</p>
+
+<p>
+Tilvitnanir er einnig auðvelt að merkja með
+
+<pre><code>
+> Að vera eða ekki vera klisja?
+</code></pre>
+</p>
+{% endblock %}

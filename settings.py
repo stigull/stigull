@@ -143,6 +143,9 @@ INSTALLED_APPS = (
     #Generic email sending:
     'emailer',
 
+    #Html calendar
+    'htmlcalendar',
+
     #Comments:
     'django.contrib.comments',
     'comment_utils',
@@ -170,6 +173,7 @@ ABSOLUTE_URL_OVERRIDES = {
 NAVIGATION = [(u'Heim', 'index'),
                 (u'Fréttir', 'news_entry_archive_index'),
                 (u'Atburðir', 'events_index'),
+                (u'Dagatal', 'show_calendar_index'),
                 (u'Símaskrá', 'phonebook'),
                 (u'Um Stigul', 'info_show')]
 
