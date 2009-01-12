@@ -32,7 +32,7 @@ signals.post_save.connect(add_government_to_events, sender = Event)
 
 def get_birthdays(date):
     kennitala = date.strftime("%d%m")
-    profiles = ProfileModel.objects.filter(kennitala__startswith = kennitala)
+    profiles = ProfileModel.objects.filter(kennitala__startswith = kennitala, user__is_active = True)
     events = []
     for profile in profiles:
         name = "%s (%d)" % (profile.get_short_fullname(), profile.get_age_in_years(today = date))

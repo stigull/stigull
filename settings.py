@@ -3,7 +3,7 @@
 
 CREATED_YEAR = 2007 #For copyright tag from templatetools
 
-DEBUG = True
+DEBUG = False
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
@@ -52,7 +52,7 @@ USE_I18N = True
 
 # Absolute path to the directory that holds media.
 # Example: "/home/media/media.lawrence.com/"
-MEDIA_ROOT = '/var/www/stigull/skrar/'
+MEDIA_ROOT = '/var/www/skrar/'
 
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash if there is a path component (optional in other cases).
@@ -103,7 +103,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
 )
 
 TEMPLATE_DIRS = (
-    '/home/johannth/programming/python/stigull/templates/',
+    '/home/hertogi/sourcecode/stigull/templates/',
 
 
 )
@@ -235,7 +235,15 @@ COMPRESS_CSS = {
         'extra_context': {
             'media': 'screen,projection',
         },
-    }
+    },
+    'calendar': {
+        'source_filenames': ('css/calendar.css',),
+        'output_filename': 'css/stigull_calendar_compressed_?.css',
+        'extra_context': {
+            'media': 'screen,projection',
+        },
+
+    },
 }
 
 COMPRESS_JS = {
