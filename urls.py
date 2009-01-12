@@ -35,7 +35,7 @@ urlpatterns = patterns('',
     (r'^atburdir/', include('events.urls')),
 
     #About
-    #(r'^upplysingar/log/', include('laws.urls')),
+    (r'^upplysingar/log/', include('laws.urls')),
     (r'^upplysingar/', include("student.urls")),
 
     #Spam protection
