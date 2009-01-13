@@ -5,7 +5,7 @@
     <title>{% block title %}{{ info_name }}{% endblock %}</title>
 
     <link href="{% url feeds url="nyjustu-frettir" %}" rel="alternate" type="application/rss+xml" title="Nýjustu fréttir frá félaginu" />
-
+    <link rel="icon" type="image/png" href="/skrar/favicon.ico" />
     {% load i18n %}
     {% load templatetools %}
     {% load compressed %}
@@ -26,11 +26,13 @@
 {% block body %}
 <body>
 <div id="centering-wrapper">
+    {% block header %}
     <div id="header">
         <div id="clock">{% now "H:i:s" %}</div>
         <h1>{% if info_name %}{% conditional_href info_name 'index' %}{% endif %}</h1>
         <a id="disability-shortcut" href="#content">{% trans 'Beint í meginmál' %}</a>
     </div>
+    {% endblock %}
 
     <div id="user-area">
     {% user_area %}
