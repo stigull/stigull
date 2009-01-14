@@ -35,7 +35,7 @@ def get_birthdays(date):
     profiles = ProfileModel.objects.filter(kennitala__startswith = kennitala, user__is_active = True)
     events = []
     for profile in profiles:
-        name = "%s (%d)" % (profile.get_short_fullname(), profile.get_age_in_years(today = date))
+        name = u"%s (%d)" % (profile.get_short_fullname(), profile.get_age_in_years(today = date))
         events.append(CalendarEvent(u"Afmæli", name, profile.get_absolute_url()))
     return events
 
@@ -43,7 +43,7 @@ def get_events(date):
     events = Event.objects.get_events_for_day(date)
     calendar_events = []
     for event in events:
-        name = "%s, %s" % (event.name, event.get_duration(date))
+        name = u"%s, %s" % (event.name, event.get_duration(date))
         calendar_events.append(CalendarEvent(event.event_type, name, event.get_absolute_url(), event.location))
 
     return calendar_events
