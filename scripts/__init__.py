@@ -3,7 +3,7 @@
 
 from pickle import dump, load
 
-PATH = "/home/johannth/django-projects/stigull/scripts/data/"
+PATH = "/home/hertogi/source/stigull/scripts/data/"
     
 def load_objects(filename):
     """
