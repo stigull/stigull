@@ -6,7 +6,7 @@
     <title>{% block title %}{{ info_name }}{% endblock %}</title>
 
     <link href="{% url feeds url="nyjustu-frettir" %}" rel="alternate" type="application/rss+xml" title="Nýjustu fréttir frá félaginu" />
-    <link rel="icon" type="image/png" href="/skrar/favicon.ico" />
+    <link rel="icon" type="image/png" href="/skrar/myndir/stigull/icon.png" />
     {% load i18n %}
     {% load templatetools %}
     {% load compressed %}
@@ -63,7 +63,7 @@
     <div id="alt-content-2">
     <h1>Leit í símaskrá</h1>
     {% phonebook_search_form %}
-    <hr />
+    <br />
     {% block alt_content_2 %}
     {% get_latest_events %}
     {% endblock %}
