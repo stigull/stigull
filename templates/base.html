@@ -29,10 +29,16 @@
 <div id="centering-wrapper">
     {% block header %}
     <div id="header">
-        <div id="clock">{% now "H:i:s" %}</div>
+<!--         <div id="clock">{% now "H:i:s" %}</div> -->
         <h1>{% if info_name %}{% conditional_href info_name 'index' %}{% endif %}</h1>
         <a id="disability-shortcut" href="#content">{% trans 'Beint í meginmál' %}</a>
-    </div>
+    	<div id="banner-top">
+			<a href="http://www.nova.is">
+				<img src="/skrar/augl/nova_400x100.jpg" alt="Nova" />
+			</a>
+		</div>
+	
+	</div>
     {% endblock %}
 
     <div id="user-area">
@@ -45,11 +51,11 @@
     {% navigation_menu %}
     </div>
 
-
     <div id="content">
     {% block content %}
     {% display_latest_important_entries %}
-    {% display_latest_entries 0 5 %}
+    
+	{% display_latest_entries 0 5 %}
     {% endblock %}
     </div>
 
@@ -66,9 +72,41 @@
     <br />
     {% block alt_content_2 %}
     {% get_latest_events %}
-    {% endblock %}
-    </div>
-
+	{% endblock %}
+	<div id="augl">
+		<a href="http://www.heimur.is">
+			<img style="width:180px;" src="/skrar/augl/talnakonnun.png" alt="Talnakönnun"/>
+		</a>
+	</div>
+	<div id="augl">
+		<a href="http://serrano.is">
+			<img style="width:180px;" src="/skrar/augl/serrano180.jpg" alt="Serrano"/>
+		</a>
+	</div>
+	<br/>
+	<div id="augl">
+		<a href="http://nova.is">
+					<img style="width:180px;" src="/skrar/augl/Nova180.jpg" alt="Nova"/>
+		</a>
+	</div>
+	<br/>
+	<div id="augl">
+		<a href="http://www.kaffizimsen.is">
+			<img style="width:180px;" src="/skrar/augl/Zimsen.png" alt="Kaffi Zimsen"/>
+		</a>
+	</div>
+	<br/>
+	<div id="augl">
+		<a href="http://www.dominos.is">
+			<img style="width:114px;" src="/skrar/augl/Dominos.jpg" alt="Dominos"/>
+		</a>
+	</div>
+	<div id="augl">
+		<a href="http://vifilfell.is">
+			<img style="width:180px;" src="/skrar/augl/carlsberg.png" alt="Supersub"/>
+		</a>
+	</div>	
+	
     <div id="footer">
     &copy;{% copyright %} {{ info_name }} - {% with info_email as email %}{% include 'snippets/email_href.html' %}{% endwith %}
     </div>

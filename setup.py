@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #coding: utf-8
 import datetime
 
@@ -31,12 +32,21 @@ signals.post_save.connect(add_government_to_events, sender = Event)
 
 
 def get_birthdays(date):
+    """
+    A callback for the HTML calendar that finds every birthday in each month from date
+    
+    Pre:    date is a date object and not None
+    Returns:    A list of CalendarEvent objects, each one representing a birthday for 
+                a user whose age is greater than zero.
+    """
     kennitala = date.strftime("%d%m")
     profiles = ProfileModel.objects.filter(kennitala__startswith = kennitala, user__is_active = True)
     events = []
     for profile in profiles:
-        name = u"%s (%d)" % (profile.get_short_fullname(), profile.get_age_in_years(today = date))
-        events.append(CalendarEvent(u"Afmæli", name, profile.get_absolute_url()))
+        age = profile.get_age_in_years(today = date)
+        if age > 0:
+            name = u"%s (%d)" % (profile.get_short_fullname(), age)
+            events.append(CalendarEvent(u"Afmæli", name, profile.get_absolute_url()))
     return events
 
 def get_events(date):

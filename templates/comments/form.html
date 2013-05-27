@@ -28,6 +28,13 @@
                 {{ form.honeypot }}{{ form.honeypot.help_text }}
             </li>
         </ul>
+	{% autoescape off %}
+        <p>
+	    <b id="formula" style="position:absolute;">Hvaða íslenski fugl er útdauður?</b>
+	    <input style="position:absolute;margin-left:190px;" type="text" name="verification" value="" />
+	</p>
+	<br />
+	{% endautoescape %}
         <p>
             <input type="hidden" name="target" value="{% url post_comment %}" />
             <input type="hidden" name="next" value="{{ request.path }}" />

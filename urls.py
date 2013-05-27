@@ -25,8 +25,9 @@ urlpatterns = patterns('',
     (r'^simaskra/', include('phonebook.urls')),
 
     #Comments:
-    (r'^athugasemdir/', include('django.contrib.comments.urls')),
+    #Notum ekki thetta, ta geta bottar spammad
     (r'^athugasemdir/', include('comment_utils.urls')),
+	(r'^athugasemdir/', include('django.contrib.comments.urls')),
 
     #News
     (r'^frettir/', include('news.urls')),
@@ -47,5 +48,6 @@ urlpatterns = patterns('',
     #Calendar
     (r'dagatal/', include("htmlcalendar.urls")),
 
+	#Thetta virkar ekki rett
     url(r'^feeds/(?P<url>.*)/$', 'django.contrib.syndication.views.feed', {'feed_dict': feeds}, name="feeds"),
 )
