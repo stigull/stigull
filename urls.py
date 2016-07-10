@@ -16,7 +16,8 @@ import stigull.setup
 urlpatterns = patterns('',
     url(r'^$','django.views.generic.simple.direct_to_template',
                 kwargs = {'template': 'base.html'}, name = 'index'),
-    (r'^vefstjorn/(.*)', admin.site.root),
+    #(r'^vefstjorn/(.*)', admin.site.root),
+    (r'^vefstjorn/', include(admin.site.urls)),
     (r'^vefstjorn/skjolun/', include('django.contrib.admindocs.urls')),
 
 
@@ -52,5 +53,5 @@ urlpatterns = patterns('',
     (r'dagatal/', include("htmlcalendar.urls")),
 
     #Thetta virkar ekki rett
-    url(r'^feeds/(?P<url>.*)/$', 'django.contrib.syndication.views.feed', {'feed_dict': feeds}, name="feeds"),
+    url(r'^feeds/(?P<url>.*)/$', 'django.contrib.syndication.views.Feed', {'feed_dict': feeds}, name="feeds"),
 )
